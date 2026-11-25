@@ -1,0 +1,271 @@
+{
+ "c2_normaliser_FD001.json": {
+  "kind": "json",
+  "bytes": 936,
+  "sha256": "477f8c790bc480622abdb8d734a8092366d9b0dbe8a83795db4bbd51500d2727"
+ },
+ "c2_normaliser_FD002.json": {
+  "kind": "json",
+  "bytes": 4679,
+  "sha256": "3c23e0b52592b970edc35946fcf6d4d428a1c2f2b91fc92a3dfa9553d58a1d90"
+ },
+ "c2_normaliser_FD003.json": {
+  "kind": "json",
+  "bytes": 937,
+  "sha256": "791c595181d450022b0df00f326621ea8e97ee615eacf64ddad844d023cd6060"
+ },
+ "c2_normaliser_FD004.json": {
+  "kind": "json",
+  "bytes": 4665,
+  "sha256": "7a6fb430f89583ec2425963c41f2abc08763bdd10bca8bd5bbac5e970bd4b741"
+ },
+ "c2_transformer_FD001.pt": {
+  "class": "common.rul.RepoTransformerRUL",
+  "args": {
+   "f": 14
+  },
+  "test_rmse": 12.223170280456543,
+  "seed": 0,
+  "bytes": 119581,
+  "sha256": "22d45ca0c940fcab628f471f559b4598addce668ba03f3e85b6c0706073fb4ed"
+ },
+ "c2_transformer_FD002.pt": {
+  "class": "common.rul.RepoTransformerRUL",
+  "args": {
+   "f": 14
+  },
+  "test_rmse": 14.09052848815918,
+  "seed": 0,
+  "bytes": 119581,
+  "sha256": "d764d85994894f3008ee6f1d413ad1b861cb55e7f9d82a117f8028dfcdd12f30"
+ },
+ "c2_transformer_FD003.pt": {
+  "class": "common.rul.RepoTransformerRUL",
+  "args": {
+   "f": 14
+  },
+  "test_rmse": 13.029108047485352,
+  "seed": 0,
+  "bytes": 119581,
+  "sha256": "8322cfec1ee2ceb44e6c2df2e3a84e8254dcc77d7ba52c3ceddfef69fbb88bda"
+ },
+ "c2_transformer_FD004.pt": {
+  "class": "common.rul.RepoTransformerRUL",
+  "args": {
+   "f": 14
+  },
+  "test_rmse": 14.905817031860352,
+  "seed": 0,
+  "bytes": 119581,
+  "sha256": "dd1b7bed77d56db1e49663215391468d1c9dbd185f02c2f2dae7cad42db519f8"
+ },
+ "c3_cafig_cell0_cnn1d.pt": {
+  "class": "common.rul.CNN1D",
+  "args": {
+   "f": 14
+  },
+  "rounds": 25,
+  "sites": [
+   "FD001",
+   "FD001",
+   "FD001",
+   "FD001",
+   "FD001",
+   "FD003",
+   "FD003",
+   "FD003",
+   "FD003",
+   "FD003"
+  ],
+  "mean_site_test_rmse": 19.50197038650513,
+  "seed": 0,
+  "bytes": 341205,
+  "sha256": "fc706a6831524cb80b6930a8d6856d69b4390f1e1b5fbb1548e32d3d4e5a3a60"
+ },
+ "c3_cafig_cell1_cnn1d.pt": {
+  "class": "common.rul.CNN1D",
+  "args": {
+   "f": 14
+  },
+  "rounds": 25,
+  "sites": [
+   "FD002",
+   "FD002",
+   "FD002",
+   "FD002",
+   "FD002",
+   "FD002",
+   "FD002",
+   "FD002",
+   "FD002",
+   "FD002",
+   "FD002",
+   "FD002",
+   "FD002",
+   "FD004",
+   "FD004",
+   "FD004",
+   "FD004",
+   "FD004",
+   "FD004",
+   "FD004",
+   "FD004",
+   "FD004",
+   "FD004",
+   "FD004",
+   "FD004"
+  ],
+  "mean_site_test_rmse": 19.500270309448243,
+  "seed": 0,
+  "bytes": 341205,
+  "sha256": "75c9e85487cfe243b7a8d5b433e1d00dee9ea8d5160775a17dc741395e51ae29"
+ },
+ "c3_fedavg_cnn1d.pt": {
+  "class": "common.rul.CNN1D",
+  "args": {
+   "f": 14
+  },
+  "rounds": 25,
+  "sites": [
+   "FD001",
+   "FD001",
+   "FD001",
+   "FD001",
+   "FD001",
+   "FD002",
+   "FD002",
+   "FD002",
+   "FD002",
+   "FD002",
+   "FD002",
+   "FD002",
+   "FD002",
+   "FD002",
+   "FD002",
+   "FD002",
+   "FD002",
+   "FD002",
+   "FD003",
+   "FD003",
+   "FD003",
+   "FD003",
+   "FD003",
+   "FD004",
+   "FD004",
+   "FD004",
+   "FD004",
+   "FD004",
+   "FD004",
+   "FD004",
+   "FD004",
+   "FD004",
+   "FD004",
+   "FD004",
+   "FD004"
+  ],
+  "mean_site_test_rmse": 19.414014189583913,
+  "seed": 0,
+  "bytes": 341189,
+  "sha256": "b62e84831361c4cd64b4004b089f8c7fdf3f3e3cdce01be12722b553a0113f9b"
+ },
+ "c3_normaliser.json": {
+  "kind": "json",
+  "bytes": 4663,
+  "sha256": "6d2fa0327d64ee6c5d81ddb9615189a6b1189a115f1990ab39c176a02c643bdf"
+ },
+ "c4_cells.json": {
+  "kind": "json",
+  "bytes": 3229,
+  "sha256": "b5f386f3c707ca6ce6b3c489e1048cc31642badfb40a81f1b51537f5cfe5c192"
+ },
+ "c5_knowledge_objects.json": {
+  "kind": "json",
+  "bytes": 157750,
+  "sha256": "7acb8e40b82fa7ce954b4a9f6a1871ea8f18aa714c9a6632231c78f65d7fc8e8"
+ },
+ "c6_cloud_cnn1d.pt": {
+  "class": "common.rul.CNN1D",
+  "args": {
+   "f": 14
+  },
+  "source_sites": [
+   0,
+   1,
+   2,
+   5,
+   6,
+   7,
+   10,
+   11,
+   12,
+   13,
+   14,
+   15,
+   16,
+   17,
+   19,
+   20,
+   21,
+   23,
+   24,
+   25,
+   26,
+   27,
+   28,
+   29,
+   32,
+   33,
+   34
+  ],
+  "target_sites": [
+   3,
+   4,
+   9,
+   8,
+   22,
+   18,
+   31,
+   30
+  ],
+  "target_mean_test_rmse": 15.367204189300537,
+  "seed": 0,
+  "bytes": 341109,
+  "sha256": "81c26e9201b89ddd741f956c45c1e5205db9b7d7af6e7bd3587d00bcee9db3bc"
+ },
+ "c9_ae.pt": {
+  "class": "hfcf_models.neural.Autoencoder",
+  "args": {
+   "input_dim": 420,
+   "hidden_dim": 128,
+   "embedding_dim": 32
+  },
+  "epochs": 15,
+  "seed": 0,
+  "bytes": 469041,
+  "sha256": "bdac01be389f7e4570b01b780d00c17804afa648696e2f4e2368c6d4457875e0"
+ },
+ "c9_byol.pt": {
+  "class": "hfcf_models.neural.BYOL",
+  "args": {
+   "input_dim": 420,
+   "hidden_dim": 128,
+   "embedding_dim": 32
+  },
+  "epochs": 15,
+  "seed": 0,
+  "bytes": 571239,
+  "sha256": "d98c2a67225484c5ea61259a015cc0378cc6ccc3bc455163aa15a4894b89ea1c"
+ },
+ "c9_simclr.pt": {
+  "class": "hfcf_models.neural.SimCLR",
+  "args": {
+   "input_dim": 420,
+   "hidden_dim": 128,
+   "embedding_dim": 32
+  },
+  "epochs": 15,
+  "seed": 0,
+  "bytes": 269417,
+  "sha256": "eb606864615c4753e0734288f40333f360c5ef371e303484a1334cac50651076"
+ }
+}

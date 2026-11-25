@@ -1,0 +1,8 @@
+static {'rmse_log_pm25': 0.6645718359212472, 'refits': 0, 'test_days': 1095, 'refit_fraction': 0.0, 'cell_changes_per_station_day': 0.39642313546423136}
+repo_rule {'rmse_log_pm25': 0.6652293391753868, 'refits': 1009, 'test_days': 1095, 'refit_fraction': 0.9214611872146119, 'cell_changes_per_station_day': 0.7519025875190258}
+periodic_30 {'rmse_log_pm25': 0.6647533887227299, 'refits': 36, 'test_days': 1095, 'refit_fraction': 0.03287671232876712, 'cell_changes_per_station_day': 0.38363774733637745}
+periodic_90 {'rmse_log_pm25': 0.6642613809132697, 'refits': 12, 'test_days': 1095, 'refit_fraction': 0.010958904109589041, 'cell_changes_per_station_day': 0.36856925418569253}
+dist_trigger {'rmse_log_pm25': 0.6629671707381539, 'refits': 130, 'test_days': 1095, 'refit_fraction': 0.1187214611872146, 'cell_changes_per_station_day': 0.41727549467275493}
+daily {'rmse_log_pm25': 0.665153972409066, 'refits': 1095, 'test_days': 1095, 'refit_fraction': 1.0, 'cell_changes_per_station_day': 0.8126331811263318}
+single_global_model {'rmse_log_pm25': 0.6806155104584103, 'refits': 0, 'test_days': 1095, 'refit_fraction': 0.0, 'cell_changes_per_station_day': 0.0}
+{'T1': True, 'T2': False, 'T3': True}

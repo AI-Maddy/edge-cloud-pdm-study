@@ -1,0 +1,354 @@
+{
+ "n_snapshots": 2182,
+ "bearings": {
+  "Bearing1_1": 123,
+  "Bearing1_2": 161,
+  "Bearing1_3": 158,
+  "Bearing1_4": 122,
+  "Bearing1_5": 52,
+  "Bearing2_1": 491,
+  "Bearing2_2": 161,
+  "Bearing2_3": 533,
+  "Bearing2_4": 42,
+  "Bearing2_5": 339
+ },
+ "T1": {
+  "ari": 0.09569377990430622,
+  "clusters": {
+   "Bearing1_1": 0,
+   "Bearing1_2": 0,
+   "Bearing1_3": 0,
+   "Bearing1_4": 0,
+   "Bearing1_5": 0,
+   "Bearing2_1": 0,
+   "Bearing2_2": 0,
+   "Bearing2_3": 0,
+   "Bearing2_4": 1,
+   "Bearing2_5": 1
+  }
+ },
+ "loo": [
+  {
+   "seed": 0,
+   "bearing": "Bearing1_1",
+   "condition": "35Hz12kN",
+   "life_min": 123,
+   "global_all": 0.17701134811224947,
+   "context_all": 0.20301498207402258,
+   "context_cell": 0.2611041418279706,
+   "predict_mean": 0.28867171271169273
+  },
+  {
+   "seed": 0,
+   "bearing": "Bearing1_2",
+   "condition": "35Hz12kN",
+   "life_min": 161,
+   "global_all": 0.24662735378878176,
+   "context_all": 0.23835055397290217,
+   "context_cell": 0.26869959725900705,
+   "predict_mean": 0.28867090436049553
+  },
+  {
+   "seed": 0,
+   "bearing": "Bearing1_3",
+   "condition": "35Hz12kN",
+   "life_min": 158,
+   "global_all": 0.1839224659860485,
+   "context_all": 0.14001945117132344,
+   "context_cell": 0.0857676868425929,
+   "predict_mean": 0.2886708872051338
+  },
+  {
+   "seed": 0,
+   "bearing": "Bearing1_4",
+   "condition": "35Hz12kN",
+   "life_min": 122,
+   "global_all": 0.2863988107823649,
+   "context_all": 0.33001339905242766,
+   "context_cell": 0.35254338780421696,
+   "predict_mean": 0.28867178156629275
+  },
+  {
+   "seed": 0,
+   "bearing": "Bearing1_5",
+   "condition": "35Hz12kN",
+   "life_min": 52,
+   "global_all": 0.23936488344648382,
+   "context_all": 0.2872306219786602,
+   "context_cell": 0.31280678521042204,
+   "predict_mean": 0.2887192501871349
+  },
+  {
+   "seed": 0,
+   "bearing": "Bearing2_1",
+   "condition": "37.5Hz11kN",
+   "life_min": 491,
+   "global_all": 0.3326967395692008,
+   "context_all": 0.33992117814050316,
+   "context_cell": 0.3639357162263198,
+   "predict_mean": 0.2886792103993
+  },
+  {
+   "seed": 0,
+   "bearing": "Bearing2_2",
+   "condition": "37.5Hz11kN",
+   "life_min": 161,
+   "global_all": 0.11549855390606285,
+   "context_all": 0.20187285464205595,
+   "context_cell": 0.21580155200976087,
+   "predict_mean": 0.28867090436049553
+  },
+  {
+   "seed": 0,
+   "bearing": "Bearing2_3",
+   "condition": "37.5Hz11kN",
+   "life_min": 533,
+   "global_all": 0.266725587402112,
+   "context_all": 0.18322541118454694,
+   "context_cell": 0.23917077330716288,
+   "predict_mean": 0.288680181354859
+  },
+  {
+   "seed": 0,
+   "bearing": "Bearing2_4",
+   "condition": "37.5Hz11kN",
+   "life_min": 42,
+   "global_all": 0.17296369459971675,
+   "context_all": 0.2925779618068968,
+   "context_cell": 0.33867924140715666,
+   "predict_mean": 0.2887597108298877
+  },
+  {
+   "seed": 0,
+   "bearing": "Bearing2_5",
+   "condition": "37.5Hz11kN",
+   "life_min": 339,
+   "global_all": 0.3813207316494459,
+   "context_all": 0.14705578392854882,
+   "context_cell": 0.09549812622214872,
+   "predict_mean": 0.28867549738986154
+  },
+  {
+   "seed": 1,
+   "bearing": "Bearing1_1",
+   "condition": "35Hz12kN",
+   "life_min": 123,
+   "global_all": 0.17701134811224947,
+   "context_all": 0.20301498207402258,
+   "context_cell": 0.2611041418279706,
+   "predict_mean": 0.28867171271169273
+  },
+  {
+   "seed": 1,
+   "bearing": "Bearing1_2",
+   "condition": "35Hz12kN",
+   "life_min": 161,
+   "global_all": 0.24662735378878176,
+   "context_all": 0.23835055397290217,
+   "context_cell": 0.26869959725900705,
+   "predict_mean": 0.28867090436049553
+  },
+  {
+   "seed": 1,
+   "bearing": "Bearing1_3",
+   "condition": "35Hz12kN",
+   "life_min": 158,
+   "global_all": 0.1839224659860485,
+   "context_all": 0.14001945117132344,
+   "context_cell": 0.0857676868425929,
+   "predict_mean": 0.2886708872051338
+  },
+  {
+   "seed": 1,
+   "bearing": "Bearing1_4",
+   "condition": "35Hz12kN",
+   "life_min": 122,
+   "global_all": 0.2863988107823649,
+   "context_all": 0.33001339905242766,
+   "context_cell": 0.35254338780421696,
+   "predict_mean": 0.28867178156629275
+  },
+  {
+   "seed": 1,
+   "bearing": "Bearing1_5",
+   "condition": "35Hz12kN",
+   "life_min": 52,
+   "global_all": 0.23936488344648382,
+   "context_all": 0.2872306219786602,
+   "context_cell": 0.31280678521042204,
+   "predict_mean": 0.2887192501871349
+  },
+  {
+   "seed": 1,
+   "bearing": "Bearing2_1",
+   "condition": "37.5Hz11kN",
+   "life_min": 491,
+   "global_all": 0.3326967395692008,
+   "context_all": 0.33992117814050316,
+   "context_cell": 0.3639357162263198,
+   "predict_mean": 0.2886792103993
+  },
+  {
+   "seed": 1,
+   "bearing": "Bearing2_2",
+   "condition": "37.5Hz11kN",
+   "life_min": 161,
+   "global_all": 0.11549855390606285,
+   "context_all": 0.20187285464205595,
+   "context_cell": 0.21580155200976087,
+   "predict_mean": 0.28867090436049553
+  },
+  {
+   "seed": 1,
+   "bearing": "Bearing2_3",
+   "condition": "37.5Hz11kN",
+   "life_min": 533,
+   "global_all": 0.266725587402112,
+   "context_all": 0.18322541118454694,
+   "context_cell": 0.23917077330716288,
+   "predict_mean": 0.288680181354859
+  },
+  {
+   "seed": 1,
+   "bearing": "Bearing2_4",
+   "condition": "37.5Hz11kN",
+   "life_min": 42,
+   "global_all": 0.17296369459971675,
+   "context_all": 0.2925779618068968,
+   "context_cell": 0.33867924140715666,
+   "predict_mean": 0.2887597108298877
+  },
+  {
+   "seed": 1,
+   "bearing": "Bearing2_5",
+   "condition": "37.5Hz11kN",
+   "life_min": 339,
+   "global_all": 0.3813207316494459,
+   "context_all": 0.14705578392854882,
+   "context_cell": 0.09549812622214872,
+   "predict_mean": 0.28867549738986154
+  },
+  {
+   "seed": 2,
+   "bearing": "Bearing1_1",
+   "condition": "35Hz12kN",
+   "life_min": 123,
+   "global_all": 0.17701134811224947,
+   "context_all": 0.20301498207402258,
+   "context_cell": 0.2611041418279706,
+   "predict_mean": 0.28867171271169273
+  },
+  {
+   "seed": 2,
+   "bearing": "Bearing1_2",
+   "condition": "35Hz12kN",
+   "life_min": 161,
+   "global_all": 0.24662735378878176,
+   "context_all": 0.23835055397290217,
+   "context_cell": 0.26869959725900705,
+   "predict_mean": 0.28867090436049553
+  },
+  {
+   "seed": 2,
+   "bearing": "Bearing1_3",
+   "condition": "35Hz12kN",
+   "life_min": 158,
+   "global_all": 0.1839224659860485,
+   "context_all": 0.14001945117132344,
+   "context_cell": 0.0857676868425929,
+   "predict_mean": 0.2886708872051338
+  },
+  {
+   "seed": 2,
+   "bearing": "Bearing1_4",
+   "condition": "35Hz12kN",
+   "life_min": 122,
+   "global_all": 0.2863988107823649,
+   "context_all": 0.33001339905242766,
+   "context_cell": 0.35254338780421696,
+   "predict_mean": 0.28867178156629275
+  },
+  {
+   "seed": 2,
+   "bearing": "Bearing1_5",
+   "condition": "35Hz12kN",
+   "life_min": 52,
+   "global_all": 0.23936488344648382,
+   "context_all": 0.2872306219786602,
+   "context_cell": 0.31280678521042204,
+   "predict_mean": 0.2887192501871349
+  },
+  {
+   "seed": 2,
+   "bearing": "Bearing2_1",
+   "condition": "37.5Hz11kN",
+   "life_min": 491,
+   "global_all": 0.3326967395692008,
+   "context_all": 0.33992117814050316,
+   "context_cell": 0.3639357162263198,
+   "predict_mean": 0.2886792103993
+  },
+  {
+   "seed": 2,
+   "bearing": "Bearing2_2",
+   "condition": "37.5Hz11kN",
+   "life_min": 161,
+   "global_all": 0.11549855390606285,
+   "context_all": 0.20187285464205595,
+   "context_cell": 0.21580155200976087,
+   "predict_mean": 0.28867090436049553
+  },
+  {
+   "seed": 2,
+   "bearing": "Bearing2_3",
+   "condition": "37.5Hz11kN",
+   "life_min": 533,
+   "global_all": 0.266725587402112,
+   "context_all": 0.18322541118454694,
+   "context_cell": 0.23917077330716288,
+   "predict_mean": 0.288680181354859
+  },
+  {
+   "seed": 2,
+   "bearing": "Bearing2_4",
+   "condition": "37.5Hz11kN",
+   "life_min": 42,
+   "global_all": 0.17296369459971675,
+   "context_all": 0.2925779618068968,
+   "context_cell": 0.33867924140715666,
+   "predict_mean": 0.2887597108298877
+  },
+  {
+   "seed": 2,
+   "bearing": "Bearing2_5",
+   "condition": "37.5Hz11kN",
+   "life_min": 339,
+   "global_all": 0.3813207316494459,
+   "context_all": 0.14705578392854882,
+   "context_cell": 0.09549812622214872,
+   "predict_mean": 0.28867549738986154
+  }
+ ],
+ "loo_mean": {
+  "global_all": 0.24025301692424667,
+  "context_all": 0.23632821979518875,
+  "context_cell": 0.25340070081167576,
+  "predict_mean": 0.28868700403651537
+ },
+ "T4": {
+  "35Hz12kN->37.5Hz11kN": {
+   "cross": 0.20098173597357386,
+   "in_condition_cell": 0.25061708183450976
+  },
+  "37.5Hz11kN->35Hz12kN": {
+   "cross": 0.2289758249577861,
+   "in_condition_cell": 0.25618431978884193
+  }
+ },
+ "verdict": {
+  "T1": false,
+  "T2": false,
+  "T3": false,
+  "T4": true
+ }
+}

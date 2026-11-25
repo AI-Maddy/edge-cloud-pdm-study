@@ -1,0 +1,107 @@
+{'seed': 0, 'site': 3, 'fd': 'FD001', 'N': 1, 'validated_choice': 'output_blend', 'local': 34.04099655151367, 'cloud': 12.863973617553711, 'weight_blend': 60.59799575805664, 'finetune': 12.305338859558105, 'output_blend': 18.127962112426758, 'validated': 18.127962112426758}
+{'seed': 0, 'site': 3, 'fd': 'FD001', 'N': 3, 'validated_choice': 'cloud', 'local': 50.62058639526367, 'cloud': 12.863973617553711, 'weight_blend': 54.835174560546875, 'finetune': 22.191455841064453, 'output_blend': 28.251331329345703, 'validated': 12.863973617553711}
+{'seed': 0, 'site': 3, 'fd': 'FD001', 'N': 5, 'validated_choice': 'finetune', 'local': 21.750385284423828, 'cloud': 12.863973617553711, 'weight_blend': 54.30219650268555, 'finetune': 11.70854377746582, 'output_blend': 15.279291152954102, 'validated': 11.70854377746582}
+{'seed': 0, 'site': 4, 'fd': 'FD001', 'N': 1, 'validated_choice': 'finetune', 'local': 71.08162689208984, 'cloud': 16.32105255126953, 'weight_blend': 75.43060302734375, 'finetune': 16.18263816833496, 'output_blend': 37.2010612487793, 'validated': 16.18263816833496}
+{'seed': 0, 'site': 4, 'fd': 'FD001', 'N': 3, 'validated_choice': 'local', 'local': 50.72645568847656, 'cloud': 16.32105255126953, 'weight_blend': 68.74571228027344, 'finetune': 29.831989288330078, 'output_blend': 27.76908302307129, 'validated': 50.72645568847656}
+{'seed': 0, 'site': 4, 'fd': 'FD001', 'N': 5, 'validated_choice': 'cloud', 'local': 16.253246307373047, 'cloud': 16.32105255126953, 'weight_blend': 64.22958374023438, 'finetune': 15.201058387756348, 'output_blend': 13.551218032836914, 'validated': 16.32105255126953}
+{'seed': 0, 'site': 9, 'fd': 'FD002', 'N': 1, 'validated_choice': 'output_blend', 'local': 51.590049743652344, 'cloud': 15.028840065002441, 'weight_blend': 65.69551849365234, 'finetune': 24.70283317565918, 'output_blend': 30.96982192993164, 'validated': 30.96982192993164}
+{'seed': 0, 'site': 9, 'fd': 'FD002', 'N': 3, 'validated_choice': 'cloud', 'local': 24.23238182067871, 'cloud': 15.028840065002441, 'weight_blend': 59.6733512878418, 'finetune': 17.941930770874023, 'output_blend': 17.115480422973633, 'validated': 15.028840065002441}
+{'seed': 0, 'site': 9, 'fd': 'FD002', 'N': 5, 'validated_choice': 'local', 'local': 27.425033569335938, 'cloud': 15.028840065002441, 'weight_blend': 59.209136962890625, 'finetune': 18.958568572998047, 'output_blend': 18.66045570373535, 'validated': 27.425033569335938}
+{'seed': 0, 'site': 8, 'fd': 'FD002', 'N': 1, 'validated_choice': 'cloud', 'local': 52.054386138916016, 'cloud': 18.366609573364258, 'weight_blend': 49.26171112060547, 'finetune': 21.169002532958984, 'output_blend': 30.292570114135742, 'validated': 18.366609573364258}
+{'seed': 0, 'site': 8, 'fd': 'FD002', 'N': 3, 'validated_choice': 'output_blend', 'local': 51.2047119140625, 'cloud': 18.366609573364258, 'weight_blend': 53.348209381103516, 'finetune': 27.12168312072754, 'output_blend': 30.189075469970703, 'validated': 30.189075469970703}
+{'seed': 0, 'site': 8, 'fd': 'FD002', 'N': 5, 'validated_choice': 'cloud', 'local': 35.174842834472656, 'cloud': 18.366609573364258, 'weight_blend': 52.60413360595703, 'finetune': 22.844438552856445, 'output_blend': 24.191198348999023, 'validated': 18.366609573364258}
+{'seed': 0, 'site': 22, 'fd': 'FD003', 'N': 1, 'validated_choice': 'cloud', 'local': 35.07244873046875, 'cloud': 15.06144905090332, 'weight_blend': 52.855838775634766, 'finetune': 16.30348014831543, 'output_blend': 20.336946487426758, 'validated': 15.06144905090332}
+{'seed': 0, 'site': 22, 'fd': 'FD003', 'N': 3, 'validated_choice': 'cloud', 'local': 44.23002624511719, 'cloud': 15.06144905090332, 'weight_blend': 56.38506317138672, 'finetune': 18.39557456970215, 'output_blend': 24.011123657226562, 'validated': 15.06144905090332}
+{'seed': 0, 'site': 22, 'fd': 'FD003', 'N': 5, 'validated_choice': 'cloud', 'local': 43.799041748046875, 'cloud': 15.06144905090332, 'weight_blend': 52.689266204833984, 'finetune': 16.495014190673828, 'output_blend': 25.598230361938477, 'validated': 15.06144905090332}
+{'seed': 0, 'site': 18, 'fd': 'FD003', 'N': 1, 'validated_choice': 'cloud', 'local': 46.305477142333984, 'cloud': 16.545639038085938, 'weight_blend': 54.09046936035156, 'finetune': 15.576583862304688, 'output_blend': 25.63163948059082, 'validated': 16.545639038085938}
+{'seed': 0, 'site': 18, 'fd': 'FD003', 'N': 3, 'validated_choice': 'cloud', 'local': 49.905155181884766, 'cloud': 16.545639038085938, 'weight_blend': 51.991851806640625, 'finetune': 29.102718353271484, 'output_blend': 29.757413864135742, 'validated': 16.545639038085938}
+{'seed': 0, 'site': 18, 'fd': 'FD003', 'N': 5, 'validated_choice': 'finetune', 'local': 46.145347595214844, 'cloud': 16.545639038085938, 'weight_blend': 47.97868728637695, 'finetune': 21.76384925842285, 'output_blend': 27.811569213867188, 'validated': 21.76384925842285}
+{'seed': 0, 'site': 31, 'fd': 'FD004', 'N': 1, 'validated_choice': 'cloud', 'local': 37.94904708862305, 'cloud': 18.129261016845703, 'weight_blend': 62.11477279663086, 'finetune': 22.65699577331543, 'output_blend': 22.956493377685547, 'validated': 18.129261016845703}
+{'seed': 0, 'site': 31, 'fd': 'FD004', 'N': 3, 'validated_choice': 'finetune', 'local': 32.425376892089844, 'cloud': 18.129261016845703, 'weight_blend': 50.32618713378906, 'finetune': 21.146669387817383, 'output_blend': 22.495580673217773, 'validated': 21.146669387817383}
+{'seed': 0, 'site': 31, 'fd': 'FD004', 'N': 5, 'validated_choice': 'cloud', 'local': 25.703161239624023, 'cloud': 18.129261016845703, 'weight_blend': 54.865848541259766, 'finetune': 21.086103439331055, 'output_blend': 21.00496482849121, 'validated': 18.129261016845703}
+{'seed': 0, 'site': 30, 'fd': 'FD004', 'N': 1, 'validated_choice': 'cloud', 'local': 55.37587356567383, 'cloud': 15.0883150100708, 'weight_blend': 64.13922119140625, 'finetune': 22.083751678466797, 'output_blend': 31.308256149291992, 'validated': 15.0883150100708}
+{'seed': 0, 'site': 30, 'fd': 'FD004', 'N': 3, 'validated_choice': 'finetune', 'local': 40.94144821166992, 'cloud': 15.0883150100708, 'weight_blend': 56.26021194458008, 'finetune': 16.779720306396484, 'output_blend': 24.81038475036621, 'validated': 16.779720306396484}
+{'seed': 0, 'site': 30, 'fd': 'FD004', 'N': 5, 'validated_choice': 'cloud', 'local': 37.07003402709961, 'cloud': 15.0883150100708, 'weight_blend': 58.47556686401367, 'finetune': 17.751956939697266, 'output_blend': 22.857139587402344, 'validated': 15.0883150100708}
+{'seed': 1, 'site': 1, 'fd': 'FD001', 'N': 1, 'validated_choice': 'cloud', 'local': 31.303205490112305, 'cloud': 18.060861587524414, 'weight_blend': 50.8917236328125, 'finetune': 21.373245239257812, 'output_blend': 19.59752655029297, 'validated': 18.060861587524414}
+{'seed': 1, 'site': 1, 'fd': 'FD001', 'N': 3, 'validated_choice': 'finetune', 'local': 44.551963806152344, 'cloud': 18.060861587524414, 'weight_blend': 47.73137283325195, 'finetune': 20.77621841430664, 'output_blend': 27.751049041748047, 'validated': 20.77621841430664}
+{'seed': 1, 'site': 1, 'fd': 'FD001', 'N': 5, 'validated_choice': 'cloud', 'local': 38.53125762939453, 'cloud': 18.060861587524414, 'weight_blend': 45.631526947021484, 'finetune': 20.95490074157715, 'output_blend': 25.896629333496094, 'validated': 18.060861587524414}
+{'seed': 1, 'site': 2, 'fd': 'FD001', 'N': 1, 'validated_choice': 'finetune', 'local': 55.754051208496094, 'cloud': 16.857135772705078, 'weight_blend': 65.1428451538086, 'finetune': 20.37256622314453, 'output_blend': 29.2174072265625, 'validated': 20.37256622314453}
+{'seed': 1, 'site': 2, 'fd': 'FD001', 'N': 3, 'validated_choice': 'finetune', 'local': 24.238340377807617, 'cloud': 16.857135772705078, 'weight_blend': 48.90717697143555, 'finetune': 18.650358200073242, 'output_blend': 17.561264038085938, 'validated': 18.650358200073242}
+{'seed': 1, 'site': 2, 'fd': 'FD001', 'N': 5, 'validated_choice': 'local', 'local': 22.83176612854004, 'cloud': 16.857135772705078, 'weight_blend': 52.514183044433594, 'finetune': 21.019912719726562, 'output_blend': 17.257083892822266, 'validated': 22.83176612854004}
+{'seed': 1, 'site': 5, 'fd': 'FD002', 'N': 1, 'validated_choice': 'cloud', 'local': 53.696109771728516, 'cloud': 13.62131118774414, 'weight_blend': 67.06157684326172, 'finetune': 20.87894058227539, 'output_blend': 29.607576370239258, 'validated': 13.62131118774414}
+{'seed': 1, 'site': 5, 'fd': 'FD002', 'N': 3, 'validated_choice': 'output_blend', 'local': 38.838932037353516, 'cloud': 13.62131118774414, 'weight_blend': 60.59037399291992, 'finetune': 20.595508575439453, 'output_blend': 22.879220962524414, 'validated': 22.879220962524414}
+{'seed': 1, 'site': 5, 'fd': 'FD002', 'N': 5, 'validated_choice': 'cloud', 'local': 29.160293579101562, 'cloud': 13.62131118774414, 'weight_blend': 56.15660095214844, 'finetune': 21.14996337890625, 'output_blend': 18.735637664794922, 'validated': 13.62131118774414}
+{'seed': 1, 'site': 16, 'fd': 'FD002', 'N': 1, 'validated_choice': 'finetune', 'local': 38.34354782104492, 'cloud': 19.512277603149414, 'weight_blend': 56.55079650878906, 'finetune': 21.364683151245117, 'output_blend': 21.557783126831055, 'validated': 21.364683151245117}
+{'seed': 1, 'site': 16, 'fd': 'FD002', 'N': 3, 'validated_choice': 'local', 'local': 34.166038513183594, 'cloud': 19.512277603149414, 'weight_blend': 58.06898880004883, 'finetune': 19.197525024414062, 'output_blend': 19.868091583251953, 'validated': 34.166038513183594}
+{'seed': 1, 'site': 16, 'fd': 'FD002', 'N': 5, 'validated_choice': 'output_blend', 'local': 31.02865982055664, 'cloud': 19.512277603149414, 'weight_blend': 50.55397033691406, 'finetune': 16.059614181518555, 'output_blend': 20.006547927856445, 'validated': 20.006547927856445}
+{'seed': 1, 'site': 22, 'fd': 'FD003', 'N': 1, 'validated_choice': 'cloud', 'local': 38.69073486328125, 'cloud': 16.662124633789062, 'weight_blend': 51.733158111572266, 'finetune': 19.084678649902344, 'output_blend': 22.06113624572754, 'validated': 16.662124633789062}
+{'seed': 1, 'site': 22, 'fd': 'FD003', 'N': 3, 'validated_choice': 'cloud', 'local': 43.69172286987305, 'cloud': 16.662124633789062, 'weight_blend': 49.57598876953125, 'finetune': 16.086809158325195, 'output_blend': 24.787708282470703, 'validated': 16.662124633789062}
+{'seed': 1, 'site': 22, 'fd': 'FD003', 'N': 5, 'validated_choice': 'finetune', 'local': 41.81734085083008, 'cloud': 16.662124633789062, 'weight_blend': 43.5396728515625, 'finetune': 17.625539779663086, 'output_blend': 25.200763702392578, 'validated': 17.625539779663086}
+{'seed': 1, 'site': 21, 'fd': 'FD003', 'N': 1, 'validated_choice': 'cloud', 'local': 48.31556701660156, 'cloud': 17.653032302856445, 'weight_blend': 54.58052444458008, 'finetune': 17.683902740478516, 'output_blend': 24.114933013916016, 'validated': 17.653032302856445}
+{'seed': 1, 'site': 21, 'fd': 'FD003', 'N': 3, 'validated_choice': 'cloud', 'local': 30.66945457458496, 'cloud': 17.653032302856445, 'weight_blend': 40.75127029418945, 'finetune': 21.04590606689453, 'output_blend': 21.006935119628906, 'validated': 17.653032302856445}
+{'seed': 1, 'site': 21, 'fd': 'FD003', 'N': 5, 'validated_choice': 'local', 'local': 28.44228172302246, 'cloud': 17.653032302856445, 'weight_blend': 39.74600601196289, 'finetune': 22.578310012817383, 'output_blend': 20.150161743164062, 'validated': 28.44228172302246}
+{'seed': 1, 'site': 33, 'fd': 'FD004', 'N': 1, 'validated_choice': 'cloud', 'local': 42.53650665283203, 'cloud': 11.049588203430176, 'weight_blend': 59.08285140991211, 'finetune': 15.290970802307129, 'output_blend': 25.259050369262695, 'validated': 11.049588203430176}
+{'seed': 1, 'site': 33, 'fd': 'FD004', 'N': 3, 'validated_choice': 'finetune', 'local': 22.00802230834961, 'cloud': 11.049588203430176, 'weight_blend': 49.48302459716797, 'finetune': 16.03390121459961, 'output_blend': 15.286025047302246, 'validated': 16.03390121459961}
+{'seed': 1, 'site': 33, 'fd': 'FD004', 'N': 5, 'validated_choice': 'cloud', 'local': 21.968338012695312, 'cloud': 11.049588203430176, 'weight_blend': 51.549644470214844, 'finetune': 16.242685317993164, 'output_blend': 15.753652572631836, 'validated': 11.049588203430176}
+{'seed': 1, 'site': 26, 'fd': 'FD004', 'N': 1, 'validated_choice': 'cloud', 'local': 49.66316604614258, 'cloud': 17.979829788208008, 'weight_blend': 50.35070037841797, 'finetune': 26.55792808532715, 'output_blend': 31.213167190551758, 'validated': 17.979829788208008}
+{'seed': 1, 'site': 26, 'fd': 'FD004', 'N': 3, 'validated_choice': 'cloud', 'local': 33.36069107055664, 'cloud': 17.979829788208008, 'weight_blend': 47.71906661987305, 'finetune': 20.1728515625, 'output_blend': 22.574729919433594, 'validated': 17.979829788208008}
+{'seed': 1, 'site': 26, 'fd': 'FD004', 'N': 5, 'validated_choice': 'cloud', 'local': 29.034433364868164, 'cloud': 17.979829788208008, 'weight_blend': 47.99320983886719, 'finetune': 18.225622177124023, 'output_blend': 21.19731330871582, 'validated': 17.979829788208008}
+{'seed': 2, 'site': 1, 'fd': 'FD001', 'N': 1, 'validated_choice': 'cloud', 'local': 35.14004898071289, 'cloud': 15.99749755859375, 'weight_blend': 45.865596771240234, 'finetune': 20.0039119720459, 'output_blend': 21.250688552856445, 'validated': 15.99749755859375}
+{'seed': 2, 'site': 1, 'fd': 'FD001', 'N': 3, 'validated_choice': 'cloud', 'local': 43.672752380371094, 'cloud': 15.99749755859375, 'weight_blend': 40.18122863769531, 'finetune': 20.555330276489258, 'output_blend': 25.11833381652832, 'validated': 15.99749755859375}
+{'seed': 2, 'site': 1, 'fd': 'FD001', 'N': 5, 'validated_choice': 'cloud', 'local': 36.01994323730469, 'cloud': 15.99749755859375, 'weight_blend': 41.54167556762695, 'finetune': 19.82900619506836, 'output_blend': 21.987640380859375, 'validated': 15.99749755859375}
+{'seed': 2, 'site': 3, 'fd': 'FD001', 'N': 1, 'validated_choice': 'cloud', 'local': 34.184783935546875, 'cloud': 13.407535552978516, 'weight_blend': 47.42849349975586, 'finetune': 16.087169647216797, 'output_blend': 20.190242767333984, 'validated': 13.407535552978516}
+{'seed': 2, 'site': 3, 'fd': 'FD001', 'N': 3, 'validated_choice': 'cloud', 'local': 50.56911849975586, 'cloud': 13.407535552978516, 'weight_blend': 43.66263198852539, 'finetune': 21.366382598876953, 'output_blend': 27.527759552001953, 'validated': 13.407535552978516}
+{'seed': 2, 'site': 3, 'fd': 'FD001', 'N': 5, 'validated_choice': 'cloud', 'local': 18.431419372558594, 'cloud': 13.407535552978516, 'weight_blend': 45.23677444458008, 'finetune': 12.62659740447998, 'output_blend': 13.668220520019531, 'validated': 13.407535552978516}
+{'seed': 2, 'site': 8, 'fd': 'FD002', 'N': 1, 'validated_choice': 'cloud', 'local': 50.835899353027344, 'cloud': 20.50079345703125, 'weight_blend': 40.229705810546875, 'finetune': 23.736692428588867, 'output_blend': 30.81125831604004, 'validated': 20.50079345703125}
+{'seed': 2, 'site': 8, 'fd': 'FD002', 'N': 3, 'validated_choice': 'output_blend', 'local': 52.08951187133789, 'cloud': 20.50079345703125, 'weight_blend': 44.67356491088867, 'finetune': 32.72421646118164, 'output_blend': 31.4007511138916, 'validated': 31.4007511138916}
+{'seed': 2, 'site': 8, 'fd': 'FD002', 'N': 5, 'validated_choice': 'cloud', 'local': 33.633365631103516, 'cloud': 20.50079345703125, 'weight_blend': 41.10124969482422, 'finetune': 26.901020050048828, 'output_blend': 24.60193634033203, 'validated': 20.50079345703125}
+{'seed': 2, 'site': 10, 'fd': 'FD002', 'N': 1, 'validated_choice': 'output_blend', 'local': 38.609169006347656, 'cloud': 15.733664512634277, 'weight_blend': 54.50652313232422, 'finetune': 17.53488540649414, 'output_blend': 24.040815353393555, 'validated': 24.040815353393555}
+{'seed': 2, 'site': 10, 'fd': 'FD002', 'N': 3, 'validated_choice': 'cloud', 'local': 33.618560791015625, 'cloud': 15.733664512634277, 'weight_blend': 50.381797790527344, 'finetune': 17.618480682373047, 'output_blend': 21.463552474975586, 'validated': 15.733664512634277}
+{'seed': 2, 'site': 10, 'fd': 'FD002', 'N': 5, 'validated_choice': 'cloud', 'local': 25.818416595458984, 'cloud': 15.733664512634277, 'weight_blend': 48.6745719909668, 'finetune': 20.74852752685547, 'output_blend': 18.988935470581055, 'validated': 15.733664512634277}
+{'seed': 2, 'site': 18, 'fd': 'FD003', 'N': 1, 'validated_choice': 'cloud', 'local': 46.21971893310547, 'cloud': 14.173418998718262, 'weight_blend': 47.34892272949219, 'finetune': 15.25472640991211, 'output_blend': 27.735668182373047, 'validated': 14.173418998718262}
+{'seed': 2, 'site': 18, 'fd': 'FD003', 'N': 3, 'validated_choice': 'cloud', 'local': 49.36839294433594, 'cloud': 14.173418998718262, 'weight_blend': 41.580387115478516, 'finetune': 26.214826583862305, 'output_blend': 28.53055763244629, 'validated': 14.173418998718262}
+{'seed': 2, 'site': 18, 'fd': 'FD003', 'N': 5, 'validated_choice': 'cloud', 'local': 45.60586929321289, 'cloud': 14.173418998718262, 'weight_blend': 43.0687370300293, 'finetune': 21.524303436279297, 'output_blend': 26.328590393066406, 'validated': 14.173418998718262}
+{'seed': 2, 'site': 19, 'fd': 'FD003', 'N': 1, 'validated_choice': 'cloud', 'local': 53.86001968383789, 'cloud': 12.805662155151367, 'weight_blend': 64.66704559326172, 'finetune': 16.42153549194336, 'output_blend': 29.269018173217773, 'validated': 12.805662155151367}
+{'seed': 2, 'site': 19, 'fd': 'FD003', 'N': 3, 'validated_choice': 'cloud', 'local': 30.413726806640625, 'cloud': 12.805662155151367, 'weight_blend': 50.32460021972656, 'finetune': 17.9447078704834, 'output_blend': 17.636117935180664, 'validated': 12.805662155151367}
+{'seed': 2, 'site': 19, 'fd': 'FD003', 'N': 5, 'validated_choice': 'finetune', 'local': 29.857234954833984, 'cloud': 12.805662155151367, 'weight_blend': 49.17290115356445, 'finetune': 14.230158805847168, 'output_blend': 18.534805297851562, 'validated': 14.230158805847168}
+{'seed': 2, 'site': 29, 'fd': 'FD004', 'N': 1, 'validated_choice': 'finetune', 'local': 56.225303649902344, 'cloud': 16.01543617248535, 'weight_blend': 56.173858642578125, 'finetune': 17.74717903137207, 'output_blend': 33.293819427490234, 'validated': 17.74717903137207}
+{'seed': 2, 'site': 29, 'fd': 'FD004', 'N': 3, 'validated_choice': 'finetune', 'local': 41.47798538208008, 'cloud': 16.01543617248535, 'weight_blend': 48.30064392089844, 'finetune': 18.639625549316406, 'output_blend': 26.452571868896484, 'validated': 18.639625549316406}
+{'seed': 2, 'site': 29, 'fd': 'FD004', 'N': 5, 'validated_choice': 'finetune', 'local': 40.590309143066406, 'cloud': 16.01543617248535, 'weight_blend': 49.425453186035156, 'finetune': 21.221641540527344, 'output_blend': 26.019906997680664, 'validated': 21.221641540527344}
+{'seed': 2, 'site': 32, 'fd': 'FD004', 'N': 1, 'validated_choice': 'finetune', 'local': 52.43938446044922, 'cloud': 16.304893493652344, 'weight_blend': 59.299434661865234, 'finetune': 17.217836380004883, 'output_blend': 30.508577346801758, 'validated': 17.217836380004883}
+{'seed': 2, 'site': 32, 'fd': 'FD004', 'N': 3, 'validated_choice': 'cloud', 'local': 49.284637451171875, 'cloud': 16.304893493652344, 'weight_blend': 49.90367126464844, 'finetune': 17.084707260131836, 'output_blend': 28.73503875732422, 'validated': 16.304893493652344}
+{'seed': 2, 'site': 32, 'fd': 'FD004', 'N': 5, 'validated_choice': 'finetune', 'local': 49.143768310546875, 'cloud': 16.304893493652344, 'weight_blend': 51.76381301879883, 'finetune': 16.583261489868164, 'output_blend': 28.568565368652344, 'validated': 16.583261489868164}
+{
+ "summary": {
+  "1": {
+   "local": 46.22029678026835,
+   "cloud": 15.989175120989481,
+   "weight_blend": 56.46249532699585,
+   "output_blend": 26.523059129714966,
+   "finetune": 19.066311518351238,
+   "validated": 17.546934644381206
+  },
+  "3": {
+   "local": 40.2627497514089,
+   "cloud": 15.989175120989481,
+   "weight_blend": 50.97506459554037,
+   "output_blend": 24.290799180666607,
+   "finetune": 21.1341290473938,
+   "validated": 20.06689981619517
+  },
+  "5": {
+   "local": 32.301491260528564,
+   "cloud": 15.989175120989481,
+   "weight_blend": 50.08435042699178,
+   "output_blend": 21.327102422714233,
+   "finetune": 18.888774911562603,
+   "validated": 17.72207550207774
+  }
+ },
+ "verdict": {
+  "T1": false,
+  "T1_rate": 0.1111111111111111,
+  "T2": true,
+  "T2_harm_rate": 0.0,
+  "T3": true
+ }
+}

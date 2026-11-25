@@ -1,0 +1,6722 @@
+[
+ {
+  "id": "K4-s2",
+  "source_site": 4,
+  "pattern": "s2>1.939",
+  "conditions": [
+   "condition-normalised s2 > 1.939 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 100,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8200000000000001,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.1,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K4-s3",
+  "source_site": 4,
+  "pattern": "s3>1.848",
+  "conditions": [
+   "condition-normalised s3 > 1.848 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 100,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8200000000000001,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.1,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K4-s4",
+  "source_site": 4,
+  "pattern": "s4>2.062",
+  "conditions": [
+   "condition-normalised s4 > 2.062 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 100,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8200000000000001,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.1,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K4-s7",
+  "source_site": 4,
+  "pattern": "s7<-0.975",
+  "conditions": [
+   "condition-normalised s7 < -0.975 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 100,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8200000000000001,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.1,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K4-s8",
+  "source_site": 4,
+  "pattern": "s8>1.158",
+  "conditions": [
+   "condition-normalised s8 > 1.158 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.91,
+  "support": 100,
+  "quality": 0.91,
+  "source_reliability": 0.91,
+  "trust": 0.7480000000000001,
+  "trust_components": {
+   "confidence": 0.91,
+   "support_score": 0.1,
+   "quality": 0.91,
+   "source_reliability": 0.91
+  }
+ },
+ {
+  "id": "K4-s9",
+  "source_site": 4,
+  "pattern": "s9>2.772",
+  "conditions": [
+   "condition-normalised s9 > 2.772 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 100,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8200000000000001,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.1,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K4-s11",
+  "source_site": 4,
+  "pattern": "s11>1.984",
+  "conditions": [
+   "condition-normalised s11 > 1.984 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 100,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8200000000000001,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.1,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K4-s12",
+  "source_site": 4,
+  "pattern": "s12<-0.895",
+  "conditions": [
+   "condition-normalised s12 < -0.895 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 100,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8200000000000001,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.1,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K4-s13",
+  "source_site": 4,
+  "pattern": "s13>1.224",
+  "conditions": [
+   "condition-normalised s13 > 1.224 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.9393939393939394,
+  "support": 99,
+  "quality": 0.9393939393939394,
+  "source_reliability": 0.9393939393939394,
+  "trust": 0.7713151515151516,
+  "trust_components": {
+   "confidence": 0.9393939393939394,
+   "support_score": 0.099,
+   "quality": 0.9393939393939394,
+   "source_reliability": 0.9393939393939394
+  }
+ },
+ {
+  "id": "K4-s14",
+  "source_site": 4,
+  "pattern": "s14>2.643",
+  "conditions": [
+   "condition-normalised s14 > 2.643 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 100,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8200000000000001,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.1,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K4-s15",
+  "source_site": 4,
+  "pattern": "s15>1.708",
+  "conditions": [
+   "condition-normalised s15 > 1.708 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 100,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8200000000000001,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.1,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K4-s17",
+  "source_site": 4,
+  "pattern": "s17>1.852",
+  "conditions": [
+   "condition-normalised s17 > 1.852 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 100,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8200000000000001,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.1,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K4-s20",
+  "source_site": 4,
+  "pattern": "s20<-1.769",
+  "conditions": [
+   "condition-normalised s20 < -1.769 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 100,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8200000000000001,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.1,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K4-s21",
+  "source_site": 4,
+  "pattern": "s21<-1.769",
+  "conditions": [
+   "condition-normalised s21 < -1.769 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 100,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8200000000000001,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.1,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K33-s2",
+  "source_site": 33,
+  "pattern": "s2>1.475",
+  "conditions": [
+   "condition-normalised s2 > 1.475 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.9574468085106383,
+  "support": 141,
+  "quality": 0.9574468085106383,
+  "source_reliability": 0.9574468085106383,
+  "trust": 0.7941574468085107,
+  "trust_components": {
+   "confidence": 0.9574468085106383,
+   "support_score": 0.141,
+   "quality": 0.9574468085106383,
+   "source_reliability": 0.9574468085106383
+  }
+ },
+ {
+  "id": "K33-s3",
+  "source_site": 33,
+  "pattern": "s3>1.679",
+  "conditions": [
+   "condition-normalised s3 > 1.679 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.9645390070921985,
+  "support": 141,
+  "quality": 0.9645390070921985,
+  "source_reliability": 0.9645390070921985,
+  "trust": 0.7998312056737589,
+  "trust_components": {
+   "confidence": 0.9645390070921985,
+   "support_score": 0.141,
+   "quality": 0.9645390070921985,
+   "source_reliability": 0.9645390070921985
+  }
+ },
+ {
+  "id": "K33-s4",
+  "source_site": 33,
+  "pattern": "s4>1.727",
+  "conditions": [
+   "condition-normalised s4 > 1.727 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.9290780141843972,
+  "support": 141,
+  "quality": 0.9290780141843972,
+  "source_reliability": 0.9290780141843972,
+  "trust": 0.7714624113475178,
+  "trust_components": {
+   "confidence": 0.9290780141843972,
+   "support_score": 0.141,
+   "quality": 0.9290780141843972,
+   "source_reliability": 0.9290780141843972
+  }
+ },
+ {
+  "id": "K33-s7",
+  "source_site": 33,
+  "pattern": "s7>4.136",
+  "conditions": [
+   "condition-normalised s7 > 4.136 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.8368794326241135,
+  "support": 141,
+  "quality": 0.8368794326241135,
+  "source_reliability": 0.8368794326241135,
+  "trust": 0.6977035460992909,
+  "trust_components": {
+   "confidence": 0.8368794326241135,
+   "support_score": 0.141,
+   "quality": 0.8368794326241135,
+   "source_reliability": 0.8368794326241135
+  }
+ },
+ {
+  "id": "K33-s8",
+  "source_site": 33,
+  "pattern": "s8>2.340",
+  "conditions": [
+   "condition-normalised s8 > 2.340 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.8571428571428571,
+  "support": 140,
+  "quality": 0.8571428571428571,
+  "source_reliability": 0.8571428571428571,
+  "trust": 0.7137142857142857,
+  "trust_components": {
+   "confidence": 0.8571428571428571,
+   "support_score": 0.14,
+   "quality": 0.8571428571428571,
+   "source_reliability": 0.8571428571428571
+  }
+ },
+ {
+  "id": "K33-s9",
+  "source_site": 33,
+  "pattern": "s9>2.411",
+  "conditions": [
+   "condition-normalised s9 > 2.411 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.8936170212765957,
+  "support": 141,
+  "quality": 0.8936170212765957,
+  "source_reliability": 0.8936170212765957,
+  "trust": 0.7430936170212766,
+  "trust_components": {
+   "confidence": 0.8936170212765957,
+   "support_score": 0.141,
+   "quality": 0.8936170212765957,
+   "source_reliability": 0.8936170212765957
+  }
+ },
+ {
+  "id": "K33-s11",
+  "source_site": 33,
+  "pattern": "s11>1.920",
+  "conditions": [
+   "condition-normalised s11 > 1.920 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.9432624113475178,
+  "support": 141,
+  "quality": 0.9432624113475178,
+  "source_reliability": 0.9432624113475178,
+  "trust": 0.7828099290780143,
+  "trust_components": {
+   "confidence": 0.9432624113475178,
+   "support_score": 0.141,
+   "quality": 0.9432624113475178,
+   "source_reliability": 0.9432624113475178
+  }
+ },
+ {
+  "id": "K33-s12",
+  "source_site": 33,
+  "pattern": "s12>4.258",
+  "conditions": [
+   "condition-normalised s12 > 4.258 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.851063829787234,
+  "support": 141,
+  "quality": 0.851063829787234,
+  "source_reliability": 0.851063829787234,
+  "trust": 0.7090510638297873,
+  "trust_components": {
+   "confidence": 0.851063829787234,
+   "support_score": 0.141,
+   "quality": 0.851063829787234,
+   "source_reliability": 0.851063829787234
+  }
+ },
+ {
+  "id": "K33-s13",
+  "source_site": 33,
+  "pattern": "s13>2.365",
+  "conditions": [
+   "condition-normalised s13 > 2.365 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.8652482269503546,
+  "support": 141,
+  "quality": 0.8652482269503546,
+  "source_reliability": 0.8652482269503546,
+  "trust": 0.7203985815602838,
+  "trust_components": {
+   "confidence": 0.8652482269503546,
+   "support_score": 0.141,
+   "quality": 0.8652482269503546,
+   "source_reliability": 0.8652482269503546
+  }
+ },
+ {
+  "id": "K33-s14",
+  "source_site": 33,
+  "pattern": "s14>2.438",
+  "conditions": [
+   "condition-normalised s14 > 2.438 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.8865248226950354,
+  "support": 141,
+  "quality": 0.8865248226950354,
+  "source_reliability": 0.8865248226950354,
+  "trust": 0.7374198581560284,
+  "trust_components": {
+   "confidence": 0.8865248226950354,
+   "support_score": 0.141,
+   "quality": 0.8865248226950354,
+   "source_reliability": 0.8865248226950354
+  }
+ },
+ {
+  "id": "K33-s15",
+  "source_site": 33,
+  "pattern": "s15<-3.181",
+  "conditions": [
+   "condition-normalised s15 < -3.181 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.8936170212765957,
+  "support": 141,
+  "quality": 0.8936170212765957,
+  "source_reliability": 0.8936170212765957,
+  "trust": 0.7430936170212766,
+  "trust_components": {
+   "confidence": 0.8936170212765957,
+   "support_score": 0.141,
+   "quality": 0.8936170212765957,
+   "source_reliability": 0.8936170212765957
+  }
+ },
+ {
+  "id": "K33-s17",
+  "source_site": 33,
+  "pattern": "s17>1.753",
+  "conditions": [
+   "condition-normalised s17 > 1.753 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.9219858156028369,
+  "support": 141,
+  "quality": 0.9219858156028369,
+  "source_reliability": 0.9219858156028369,
+  "trust": 0.7657886524822696,
+  "trust_components": {
+   "confidence": 0.9219858156028369,
+   "support_score": 0.141,
+   "quality": 0.9219858156028369,
+   "source_reliability": 0.9219858156028369
+  }
+ },
+ {
+  "id": "K33-s20",
+  "source_site": 33,
+  "pattern": "s20>2.138",
+  "conditions": [
+   "condition-normalised s20 > 2.138 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.8156028368794326,
+  "support": 141,
+  "quality": 0.8156028368794326,
+  "source_reliability": 0.8156028368794326,
+  "trust": 0.6806822695035462,
+  "trust_components": {
+   "confidence": 0.8156028368794326,
+   "support_score": 0.141,
+   "quality": 0.8156028368794326,
+   "source_reliability": 0.8156028368794326
+  }
+ },
+ {
+  "id": "K33-s21",
+  "source_site": 33,
+  "pattern": "s21>2.308",
+  "conditions": [
+   "condition-normalised s21 > 2.308 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.8156028368794326,
+  "support": 141,
+  "quality": 0.8156028368794326,
+  "source_reliability": 0.8156028368794326,
+  "trust": 0.6806822695035462,
+  "trust_components": {
+   "confidence": 0.8156028368794326,
+   "support_score": 0.141,
+   "quality": 0.8156028368794326,
+   "source_reliability": 0.8156028368794326
+  }
+ },
+ {
+  "id": "K30-s2",
+  "source_site": 30,
+  "pattern": "s2>1.643",
+  "conditions": [
+   "condition-normalised s2 > 1.643 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.9541984732824428,
+  "support": 131,
+  "quality": 0.9541984732824428,
+  "source_reliability": 0.9541984732824428,
+  "trust": 0.7895587786259542,
+  "trust_components": {
+   "confidence": 0.9541984732824428,
+   "support_score": 0.131,
+   "quality": 0.9541984732824428,
+   "source_reliability": 0.9541984732824428
+  }
+ },
+ {
+  "id": "K30-s3",
+  "source_site": 30,
+  "pattern": "s3>1.689",
+  "conditions": [
+   "condition-normalised s3 > 1.689 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.9618320610687023,
+  "support": 131,
+  "quality": 0.9618320610687023,
+  "source_reliability": 0.9618320610687023,
+  "trust": 0.7956656488549619,
+  "trust_components": {
+   "confidence": 0.9618320610687023,
+   "support_score": 0.131,
+   "quality": 0.9618320610687023,
+   "source_reliability": 0.9618320610687023
+  }
+ },
+ {
+  "id": "K30-s4",
+  "source_site": 30,
+  "pattern": "s4>1.859",
+  "conditions": [
+   "condition-normalised s4 > 1.859 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.9847328244274809,
+  "support": 131,
+  "quality": 0.9847328244274809,
+  "source_reliability": 0.9847328244274809,
+  "trust": 0.8139862595419848,
+  "trust_components": {
+   "confidence": 0.9847328244274809,
+   "support_score": 0.131,
+   "quality": 0.9847328244274809,
+   "source_reliability": 0.9847328244274809
+  }
+ },
+ {
+  "id": "K30-s7",
+  "source_site": 30,
+  "pattern": "s7>3.912",
+  "conditions": [
+   "condition-normalised s7 > 3.912 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.9007633587786259,
+  "support": 131,
+  "quality": 0.9007633587786259,
+  "source_reliability": 0.9007633587786259,
+  "trust": 0.7468106870229008,
+  "trust_components": {
+   "confidence": 0.9007633587786259,
+   "support_score": 0.131,
+   "quality": 0.9007633587786259,
+   "source_reliability": 0.9007633587786259
+  }
+ },
+ {
+  "id": "K30-s8",
+  "source_site": 30,
+  "pattern": "s8>2.503",
+  "conditions": [
+   "condition-normalised s8 > 2.503 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.9541984732824428,
+  "support": 131,
+  "quality": 0.9541984732824428,
+  "source_reliability": 0.9541984732824428,
+  "trust": 0.7895587786259542,
+  "trust_components": {
+   "confidence": 0.9541984732824428,
+   "support_score": 0.131,
+   "quality": 0.9541984732824428,
+   "source_reliability": 0.9541984732824428
+  }
+ },
+ {
+  "id": "K30-s9",
+  "source_site": 30,
+  "pattern": "s9>2.598",
+  "conditions": [
+   "condition-normalised s9 > 2.598 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.9541984732824428,
+  "support": 131,
+  "quality": 0.9541984732824428,
+  "source_reliability": 0.9541984732824428,
+  "trust": 0.7895587786259542,
+  "trust_components": {
+   "confidence": 0.9541984732824428,
+   "support_score": 0.131,
+   "quality": 0.9541984732824428,
+   "source_reliability": 0.9541984732824428
+  }
+ },
+ {
+  "id": "K30-s11",
+  "source_site": 30,
+  "pattern": "s11>1.874",
+  "conditions": [
+   "condition-normalised s11 > 1.874 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 131,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8262,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.131,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K30-s12",
+  "source_site": 30,
+  "pattern": "s12>3.980",
+  "conditions": [
+   "condition-normalised s12 > 3.980 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.9007633587786259,
+  "support": 131,
+  "quality": 0.9007633587786259,
+  "source_reliability": 0.9007633587786259,
+  "trust": 0.7468106870229008,
+  "trust_components": {
+   "confidence": 0.9007633587786259,
+   "support_score": 0.131,
+   "quality": 0.9007633587786259,
+   "source_reliability": 0.9007633587786259
+  }
+ },
+ {
+  "id": "K30-s13",
+  "source_site": 30,
+  "pattern": "s13>2.503",
+  "conditions": [
+   "condition-normalised s13 > 2.503 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.9465648854961832,
+  "support": 131,
+  "quality": 0.9465648854961832,
+  "source_reliability": 0.9465648854961832,
+  "trust": 0.7834519083969467,
+  "trust_components": {
+   "confidence": 0.9465648854961832,
+   "support_score": 0.131,
+   "quality": 0.9465648854961832,
+   "source_reliability": 0.9465648854961832
+  }
+ },
+ {
+  "id": "K30-s14",
+  "source_site": 30,
+  "pattern": "s14>2.649",
+  "conditions": [
+   "condition-normalised s14 > 2.649 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.9465648854961832,
+  "support": 131,
+  "quality": 0.9465648854961832,
+  "source_reliability": 0.9465648854961832,
+  "trust": 0.7834519083969467,
+  "trust_components": {
+   "confidence": 0.9465648854961832,
+   "support_score": 0.131,
+   "quality": 0.9465648854961832,
+   "source_reliability": 0.9465648854961832
+  }
+ },
+ {
+  "id": "K30-s15",
+  "source_site": 30,
+  "pattern": "s15<-3.088",
+  "conditions": [
+   "condition-normalised s15 < -3.088 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.9694656488549618,
+  "support": 131,
+  "quality": 0.9694656488549618,
+  "source_reliability": 0.9694656488549618,
+  "trust": 0.8017725190839695,
+  "trust_components": {
+   "confidence": 0.9694656488549618,
+   "support_score": 0.131,
+   "quality": 0.9694656488549618,
+   "source_reliability": 0.9694656488549618
+  }
+ },
+ {
+  "id": "K30-s17",
+  "source_site": 30,
+  "pattern": "s17>1.744",
+  "conditions": [
+   "condition-normalised s17 > 1.744 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 130,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8260000000000001,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.13,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K30-s20",
+  "source_site": 30,
+  "pattern": "s20>2.068",
+  "conditions": [
+   "condition-normalised s20 > 2.068 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.8091603053435115,
+  "support": 131,
+  "quality": 0.8091603053435115,
+  "source_reliability": 0.8091603053435115,
+  "trust": 0.6735282442748092,
+  "trust_components": {
+   "confidence": 0.8091603053435115,
+   "support_score": 0.131,
+   "quality": 0.8091603053435115,
+   "source_reliability": 0.8091603053435115
+  }
+ },
+ {
+  "id": "K30-s21",
+  "source_site": 30,
+  "pattern": "s21>1.992",
+  "conditions": [
+   "condition-normalised s21 > 1.992 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.8473282442748091,
+  "support": 131,
+  "quality": 0.8473282442748091,
+  "source_reliability": 0.8473282442748091,
+  "trust": 0.7040625954198474,
+  "trust_components": {
+   "confidence": 0.8473282442748091,
+   "support_score": 0.131,
+   "quality": 0.8473282442748091,
+   "source_reliability": 0.8473282442748091
+  }
+ },
+ {
+  "id": "K2-s2",
+  "source_site": 2,
+  "pattern": "s2>1.919",
+  "conditions": [
+   "condition-normalised s2 > 1.919 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 96,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8192,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.096,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K2-s3",
+  "source_site": 2,
+  "pattern": "s3>1.872",
+  "conditions": [
+   "condition-normalised s3 > 1.872 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 96,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8192,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.096,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K2-s4",
+  "source_site": 2,
+  "pattern": "s4>1.995",
+  "conditions": [
+   "condition-normalised s4 > 1.995 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 96,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8192,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.096,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K2-s7",
+  "source_site": 2,
+  "pattern": "s7<-0.954",
+  "conditions": [
+   "condition-normalised s7 < -0.954 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.9895833333333334,
+  "support": 96,
+  "quality": 0.9895833333333334,
+  "source_reliability": 0.9895833333333334,
+  "trust": 0.8108666666666667,
+  "trust_components": {
+   "confidence": 0.9895833333333334,
+   "support_score": 0.096,
+   "quality": 0.9895833333333334,
+   "source_reliability": 0.9895833333333334
+  }
+ },
+ {
+  "id": "K2-s8",
+  "source_site": 2,
+  "pattern": "s8>1.270",
+  "conditions": [
+   "condition-normalised s8 > 1.270 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.9479166666666666,
+  "support": 96,
+  "quality": 0.9479166666666666,
+  "source_reliability": 0.9479166666666666,
+  "trust": 0.7775333333333333,
+  "trust_components": {
+   "confidence": 0.9479166666666666,
+   "support_score": 0.096,
+   "quality": 0.9479166666666666,
+   "source_reliability": 0.9479166666666666
+  }
+ },
+ {
+  "id": "K2-s9",
+  "source_site": 2,
+  "pattern": "s9>3.842",
+  "conditions": [
+   "condition-normalised s9 > 3.842 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 96,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8192,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.096,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K2-s11",
+  "source_site": 2,
+  "pattern": "s11>2.014",
+  "conditions": [
+   "condition-normalised s11 > 2.014 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 96,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8192,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.096,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K2-s12",
+  "source_site": 2,
+  "pattern": "s12<-0.885",
+  "conditions": [
+   "condition-normalised s12 < -0.885 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 96,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8192,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.096,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K2-s13",
+  "source_site": 2,
+  "pattern": "s13>1.272",
+  "conditions": [
+   "condition-normalised s13 > 1.272 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.9375,
+  "support": 96,
+  "quality": 0.9375,
+  "source_reliability": 0.9375,
+  "trust": 0.7692,
+  "trust_components": {
+   "confidence": 0.9375,
+   "support_score": 0.096,
+   "quality": 0.9375,
+   "source_reliability": 0.9375
+  }
+ },
+ {
+  "id": "K2-s14",
+  "source_site": 2,
+  "pattern": "s14>3.861",
+  "conditions": [
+   "condition-normalised s14 > 3.861 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 96,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8192,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.096,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K2-s15",
+  "source_site": 2,
+  "pattern": "s15>1.648",
+  "conditions": [
+   "condition-normalised s15 > 1.648 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 96,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8192,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.096,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K2-s17",
+  "source_site": 2,
+  "pattern": "s17>1.852",
+  "conditions": [
+   "condition-normalised s17 > 1.852 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 96,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8192,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.096,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K2-s20",
+  "source_site": 2,
+  "pattern": "s20<-1.786",
+  "conditions": [
+   "condition-normalised s20 < -1.786 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 95,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8190000000000001,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.095,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K2-s21",
+  "source_site": 2,
+  "pattern": "s21<-1.748",
+  "conditions": [
+   "condition-normalised s21 < -1.748 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 96,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8192,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.096,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K3-s2",
+  "source_site": 3,
+  "pattern": "s2>1.967",
+  "conditions": [
+   "condition-normalised s2 > 1.967 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 105,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8210000000000001,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.105,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K3-s3",
+  "source_site": 3,
+  "pattern": "s3>1.897",
+  "conditions": [
+   "condition-normalised s3 > 1.897 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 105,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8210000000000001,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.105,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K3-s4",
+  "source_site": 3,
+  "pattern": "s4>2.094",
+  "conditions": [
+   "condition-normalised s4 > 2.094 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.9904761904761905,
+  "support": 105,
+  "quality": 0.9904761904761905,
+  "source_reliability": 0.9904761904761905,
+  "trust": 0.8133809523809524,
+  "trust_components": {
+   "confidence": 0.9904761904761905,
+   "support_score": 0.105,
+   "quality": 0.9904761904761905,
+   "source_reliability": 0.9904761904761905
+  }
+ },
+ {
+  "id": "K3-s7",
+  "source_site": 3,
+  "pattern": "s7<-0.967",
+  "conditions": [
+   "condition-normalised s7 < -0.967 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 105,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8210000000000001,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.105,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K3-s8",
+  "source_site": 3,
+  "pattern": "s8>1.270",
+  "conditions": [
+   "condition-normalised s8 > 1.270 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 105,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8210000000000001,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.105,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K3-s9",
+  "source_site": 3,
+  "pattern": "s9>3.032",
+  "conditions": [
+   "condition-normalised s9 > 3.032 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.9809523809523809,
+  "support": 105,
+  "quality": 0.9809523809523809,
+  "source_reliability": 0.9809523809523809,
+  "trust": 0.8057619047619048,
+  "trust_components": {
+   "confidence": 0.9809523809523809,
+   "support_score": 0.105,
+   "quality": 0.9809523809523809,
+   "source_reliability": 0.9809523809523809
+  }
+ },
+ {
+  "id": "K3-s11",
+  "source_site": 3,
+  "pattern": "s11>2.138",
+  "conditions": [
+   "condition-normalised s11 > 2.138 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 105,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8210000000000001,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.105,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K3-s12",
+  "source_site": 3,
+  "pattern": "s12<-0.927",
+  "conditions": [
+   "condition-normalised s12 < -0.927 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 105,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8210000000000001,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.105,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K3-s13",
+  "source_site": 3,
+  "pattern": "s13>1.192",
+  "conditions": [
+   "condition-normalised s13 > 1.192 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 105,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8210000000000001,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.105,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K3-s14",
+  "source_site": 3,
+  "pattern": "s14>2.867",
+  "conditions": [
+   "condition-normalised s14 > 2.867 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.9809523809523809,
+  "support": 105,
+  "quality": 0.9809523809523809,
+  "source_reliability": 0.9809523809523809,
+  "trust": 0.8057619047619048,
+  "trust_components": {
+   "confidence": 0.9809523809523809,
+   "support_score": 0.105,
+   "quality": 0.9809523809523809,
+   "source_reliability": 0.9809523809523809
+  }
+ },
+ {
+  "id": "K3-s15",
+  "source_site": 3,
+  "pattern": "s15>1.721",
+  "conditions": [
+   "condition-normalised s15 > 1.721 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 105,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8210000000000001,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.105,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K3-s17",
+  "source_site": 3,
+  "pattern": "s17>1.852",
+  "conditions": [
+   "condition-normalised s17 > 1.852 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 104,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8208000000000001,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.104,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K3-s20",
+  "source_site": 3,
+  "pattern": "s20<-1.837",
+  "conditions": [
+   "condition-normalised s20 < -1.837 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 105,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8210000000000001,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.105,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K3-s21",
+  "source_site": 3,
+  "pattern": "s21<-1.803",
+  "conditions": [
+   "condition-normalised s21 < -1.803 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 105,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8210000000000001,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.105,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K21-s2",
+  "source_site": 21,
+  "pattern": "s2>1.707",
+  "conditions": [
+   "condition-normalised s2 > 1.707 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.9769230769230769,
+  "support": 130,
+  "quality": 0.9769230769230769,
+  "source_reliability": 0.9769230769230769,
+  "trust": 0.8075384615384615,
+  "trust_components": {
+   "confidence": 0.9769230769230769,
+   "support_score": 0.13,
+   "quality": 0.9769230769230769,
+   "source_reliability": 0.9769230769230769
+  }
+ },
+ {
+  "id": "K21-s3",
+  "source_site": 21,
+  "pattern": "s3>1.747",
+  "conditions": [
+   "condition-normalised s3 > 1.747 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 130,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8260000000000001,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.13,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K21-s4",
+  "source_site": 21,
+  "pattern": "s4>1.869",
+  "conditions": [
+   "condition-normalised s4 > 1.869 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.9769230769230769,
+  "support": 130,
+  "quality": 0.9769230769230769,
+  "source_reliability": 0.9769230769230769,
+  "trust": 0.8075384615384615,
+  "trust_components": {
+   "confidence": 0.9769230769230769,
+   "support_score": 0.13,
+   "quality": 0.9769230769230769,
+   "source_reliability": 0.9769230769230769
+  }
+ },
+ {
+  "id": "K21-s7",
+  "source_site": 21,
+  "pattern": "s7>4.315",
+  "conditions": [
+   "condition-normalised s7 > 4.315 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 130,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8260000000000001,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.13,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K21-s8",
+  "source_site": 21,
+  "pattern": "s8>2.792",
+  "conditions": [
+   "condition-normalised s8 > 2.792 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 130,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8260000000000001,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.13,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K21-s9",
+  "source_site": 21,
+  "pattern": "s9>2.502",
+  "conditions": [
+   "condition-normalised s9 > 2.502 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.9461538461538461,
+  "support": 130,
+  "quality": 0.9461538461538461,
+  "source_reliability": 0.9461538461538461,
+  "trust": 0.7829230769230769,
+  "trust_components": {
+   "confidence": 0.9461538461538461,
+   "support_score": 0.13,
+   "quality": 0.9461538461538461,
+   "source_reliability": 0.9461538461538461
+  }
+ },
+ {
+  "id": "K21-s11",
+  "source_site": 21,
+  "pattern": "s11>2.021",
+  "conditions": [
+   "condition-normalised s11 > 2.021 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 128,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8256,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.128,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K21-s12",
+  "source_site": 21,
+  "pattern": "s12>4.351",
+  "conditions": [
+   "condition-normalised s12 > 4.351 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 130,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8260000000000001,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.13,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K21-s13",
+  "source_site": 21,
+  "pattern": "s13>2.792",
+  "conditions": [
+   "condition-normalised s13 > 2.792 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 130,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8260000000000001,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.13,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K21-s14",
+  "source_site": 21,
+  "pattern": "s14>2.399",
+  "conditions": [
+   "condition-normalised s14 > 2.399 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.9461538461538461,
+  "support": 130,
+  "quality": 0.9461538461538461,
+  "source_reliability": 0.9461538461538461,
+  "trust": 0.7829230769230769,
+  "trust_components": {
+   "confidence": 0.9461538461538461,
+   "support_score": 0.13,
+   "quality": 0.9461538461538461,
+   "source_reliability": 0.9461538461538461
+  }
+ },
+ {
+  "id": "K21-s15",
+  "source_site": 21,
+  "pattern": "s15<-2.844",
+  "conditions": [
+   "condition-normalised s15 < -2.844 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 130,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8260000000000001,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.13,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K21-s17",
+  "source_site": 21,
+  "pattern": "s17>1.852",
+  "conditions": [
+   "condition-normalised s17 > 1.852 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 126,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8252,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.126,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K21-s20",
+  "source_site": 21,
+  "pattern": "s20<-1.600",
+  "conditions": [
+   "condition-normalised s20 < -1.600 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.9769230769230769,
+  "support": 130,
+  "quality": 0.9769230769230769,
+  "source_reliability": 0.9769230769230769,
+  "trust": 0.8075384615384615,
+  "trust_components": {
+   "confidence": 0.9769230769230769,
+   "support_score": 0.13,
+   "quality": 0.9769230769230769,
+   "source_reliability": 0.9769230769230769
+  }
+ },
+ {
+  "id": "K21-s21",
+  "source_site": 21,
+  "pattern": "s21>2.646",
+  "conditions": [
+   "condition-normalised s21 > 2.646 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 130,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8260000000000001,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.13,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K26-s2",
+  "source_site": 26,
+  "pattern": "s2>1.626",
+  "conditions": [
+   "condition-normalised s2 > 1.626 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.9767441860465116,
+  "support": 129,
+  "quality": 0.9767441860465116,
+  "source_reliability": 0.9767441860465116,
+  "trust": 0.8071953488372093,
+  "trust_components": {
+   "confidence": 0.9767441860465116,
+   "support_score": 0.129,
+   "quality": 0.9767441860465116,
+   "source_reliability": 0.9767441860465116
+  }
+ },
+ {
+  "id": "K26-s3",
+  "source_site": 26,
+  "pattern": "s3>1.752",
+  "conditions": [
+   "condition-normalised s3 > 1.752 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.9302325581395349,
+  "support": 129,
+  "quality": 0.9302325581395349,
+  "source_reliability": 0.9302325581395349,
+  "trust": 0.7699860465116279,
+  "trust_components": {
+   "confidence": 0.9302325581395349,
+   "support_score": 0.129,
+   "quality": 0.9302325581395349,
+   "source_reliability": 0.9302325581395349
+  }
+ },
+ {
+  "id": "K26-s4",
+  "source_site": 26,
+  "pattern": "s4>1.822",
+  "conditions": [
+   "condition-normalised s4 > 1.822 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 129,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8258000000000001,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.129,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K26-s7",
+  "source_site": 26,
+  "pattern": "s7>3.702",
+  "conditions": [
+   "condition-normalised s7 > 3.702 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.7441860465116279,
+  "support": 129,
+  "quality": 0.7441860465116279,
+  "source_reliability": 0.7441860465116279,
+  "trust": 0.6211488372093024,
+  "trust_components": {
+   "confidence": 0.7441860465116279,
+   "support_score": 0.129,
+   "quality": 0.7441860465116279,
+   "source_reliability": 0.7441860465116279
+  }
+ },
+ {
+  "id": "K26-s8",
+  "source_site": 26,
+  "pattern": "s8>2.503",
+  "conditions": [
+   "condition-normalised s8 > 2.503 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.9147286821705426,
+  "support": 129,
+  "quality": 0.9147286821705426,
+  "source_reliability": 0.9147286821705426,
+  "trust": 0.7575829457364341,
+  "trust_components": {
+   "confidence": 0.9147286821705426,
+   "support_score": 0.129,
+   "quality": 0.9147286821705426,
+   "source_reliability": 0.9147286821705426
+  }
+ },
+ {
+  "id": "K26-s9",
+  "source_site": 26,
+  "pattern": "s9>2.829",
+  "conditions": [
+   "condition-normalised s9 > 2.829 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.9224806201550387,
+  "support": 129,
+  "quality": 0.9224806201550387,
+  "source_reliability": 0.9224806201550387,
+  "trust": 0.7637844961240311,
+  "trust_components": {
+   "confidence": 0.9224806201550387,
+   "support_score": 0.129,
+   "quality": 0.9224806201550387,
+   "source_reliability": 0.9224806201550387
+  }
+ },
+ {
+  "id": "K26-s11",
+  "source_site": 26,
+  "pattern": "s11>1.873",
+  "conditions": [
+   "condition-normalised s11 > 1.873 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.9689922480620154,
+  "support": 129,
+  "quality": 0.9689922480620154,
+  "source_reliability": 0.9689922480620154,
+  "trust": 0.8009937984496125,
+  "trust_components": {
+   "confidence": 0.9689922480620154,
+   "support_score": 0.129,
+   "quality": 0.9689922480620154,
+   "source_reliability": 0.9689922480620154
+  }
+ },
+ {
+  "id": "K26-s12",
+  "source_site": 26,
+  "pattern": "s12>3.756",
+  "conditions": [
+   "condition-normalised s12 > 3.756 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.6976744186046512,
+  "support": 129,
+  "quality": 0.6976744186046512,
+  "source_reliability": 0.6976744186046512,
+  "trust": 0.583939534883721,
+  "trust_components": {
+   "confidence": 0.6976744186046512,
+   "support_score": 0.129,
+   "quality": 0.6976744186046512,
+   "source_reliability": 0.6976744186046512
+  }
+ },
+ {
+  "id": "K26-s13",
+  "source_site": 26,
+  "pattern": "s13>2.489",
+  "conditions": [
+   "condition-normalised s13 > 2.489 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.9302325581395349,
+  "support": 129,
+  "quality": 0.9302325581395349,
+  "source_reliability": 0.9302325581395349,
+  "trust": 0.7699860465116279,
+  "trust_components": {
+   "confidence": 0.9302325581395349,
+   "support_score": 0.129,
+   "quality": 0.9302325581395349,
+   "source_reliability": 0.9302325581395349
+  }
+ },
+ {
+  "id": "K26-s14",
+  "source_site": 26,
+  "pattern": "s14>2.808",
+  "conditions": [
+   "condition-normalised s14 > 2.808 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.8837209302325582,
+  "support": 129,
+  "quality": 0.8837209302325582,
+  "source_reliability": 0.8837209302325582,
+  "trust": 0.7327767441860467,
+  "trust_components": {
+   "confidence": 0.8837209302325582,
+   "support_score": 0.129,
+   "quality": 0.8837209302325582,
+   "source_reliability": 0.8837209302325582
+  }
+ },
+ {
+  "id": "K26-s15",
+  "source_site": 26,
+  "pattern": "s15>1.474",
+  "conditions": [
+   "condition-normalised s15 > 1.474 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 129,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8258000000000001,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.129,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K26-s17",
+  "source_site": 26,
+  "pattern": "s17>1.755",
+  "conditions": [
+   "condition-normalised s17 > 1.755 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.9302325581395349,
+  "support": 129,
+  "quality": 0.9302325581395349,
+  "source_reliability": 0.9302325581395349,
+  "trust": 0.7699860465116279,
+  "trust_components": {
+   "confidence": 0.9302325581395349,
+   "support_score": 0.129,
+   "quality": 0.9302325581395349,
+   "source_reliability": 0.9302325581395349
+  }
+ },
+ {
+  "id": "K26-s20",
+  "source_site": 26,
+  "pattern": "s20<-1.342",
+  "conditions": [
+   "condition-normalised s20 < -1.342 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.937984496124031,
+  "support": 129,
+  "quality": 0.937984496124031,
+  "source_reliability": 0.937984496124031,
+  "trust": 0.7761875968992249,
+  "trust_components": {
+   "confidence": 0.937984496124031,
+   "support_score": 0.129,
+   "quality": 0.937984496124031,
+   "source_reliability": 0.937984496124031
+  }
+ },
+ {
+  "id": "K26-s21",
+  "source_site": 26,
+  "pattern": "s21<-1.312",
+  "conditions": [
+   "condition-normalised s21 < -1.312 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.8992248062015504,
+  "support": 129,
+  "quality": 0.8992248062015504,
+  "source_reliability": 0.8992248062015504,
+  "trust": 0.7451798449612405,
+  "trust_components": {
+   "confidence": 0.8992248062015504,
+   "support_score": 0.129,
+   "quality": 0.8992248062015504,
+   "source_reliability": 0.8992248062015504
+  }
+ },
+ {
+  "id": "K20-s2",
+  "source_site": 20,
+  "pattern": "s2>1.714",
+  "conditions": [
+   "condition-normalised s2 > 1.714 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.9913793103448276,
+  "support": 116,
+  "quality": 0.9913793103448276,
+  "source_reliability": 0.9913793103448276,
+  "trust": 0.8163034482758621,
+  "trust_components": {
+   "confidence": 0.9913793103448276,
+   "support_score": 0.116,
+   "quality": 0.9913793103448276,
+   "source_reliability": 0.9913793103448276
+  }
+ },
+ {
+  "id": "K20-s3",
+  "source_site": 20,
+  "pattern": "s3>1.721",
+  "conditions": [
+   "condition-normalised s3 > 1.721 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 116,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8232,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.116,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K20-s4",
+  "source_site": 20,
+  "pattern": "s4>1.910",
+  "conditions": [
+   "condition-normalised s4 > 1.910 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 116,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8232,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.116,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K20-s7",
+  "source_site": 20,
+  "pattern": "s7>3.623",
+  "conditions": [
+   "condition-normalised s7 > 3.623 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 116,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8232,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.116,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K20-s8",
+  "source_site": 20,
+  "pattern": "s8>2.233",
+  "conditions": [
+   "condition-normalised s8 > 2.233 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 116,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8232,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.116,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K20-s9",
+  "source_site": 20,
+  "pattern": "s9>2.486",
+  "conditions": [
+   "condition-normalised s9 > 2.486 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.9137931034482759,
+  "support": 116,
+  "quality": 0.9137931034482759,
+  "source_reliability": 0.9137931034482759,
+  "trust": 0.7542344827586208,
+  "trust_components": {
+   "confidence": 0.9137931034482759,
+   "support_score": 0.116,
+   "quality": 0.9137931034482759,
+   "source_reliability": 0.9137931034482759
+  }
+ },
+ {
+  "id": "K20-s11",
+  "source_site": 20,
+  "pattern": "s11>2.015",
+  "conditions": [
+   "condition-normalised s11 > 2.015 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 116,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8232,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.116,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K20-s12",
+  "source_site": 20,
+  "pattern": "s12>3.683",
+  "conditions": [
+   "condition-normalised s12 > 3.683 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 116,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8232,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.116,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K20-s13",
+  "source_site": 20,
+  "pattern": "s13>2.264",
+  "conditions": [
+   "condition-normalised s13 > 2.264 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 116,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8232,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.116,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K20-s14",
+  "source_site": 20,
+  "pattern": "s14>2.464",
+  "conditions": [
+   "condition-normalised s14 > 2.464 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.896551724137931,
+  "support": 116,
+  "quality": 0.896551724137931,
+  "source_reliability": 0.896551724137931,
+  "trust": 0.7404413793103449,
+  "trust_components": {
+   "confidence": 0.896551724137931,
+   "support_score": 0.116,
+   "quality": 0.896551724137931,
+   "source_reliability": 0.896551724137931
+  }
+ },
+ {
+  "id": "K20-s15",
+  "source_site": 20,
+  "pattern": "s15>1.524",
+  "conditions": [
+   "condition-normalised s15 > 1.524 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 116,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8232,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.116,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K20-s17",
+  "source_site": 20,
+  "pattern": "s17>1.734",
+  "conditions": [
+   "condition-normalised s17 > 1.734 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 111,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8222,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.111,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K20-s20",
+  "source_site": 20,
+  "pattern": "s20<-1.668",
+  "conditions": [
+   "condition-normalised s20 < -1.668 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 116,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8232,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.116,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K20-s21",
+  "source_site": 20,
+  "pattern": "s21<-1.604",
+  "conditions": [
+   "condition-normalised s21 < -1.604 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 116,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8232,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.116,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K11-s2",
+  "source_site": 11,
+  "pattern": "s2>1.850",
+  "conditions": [
+   "condition-normalised s2 > 1.850 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.9904761904761905,
+  "support": 105,
+  "quality": 0.9904761904761905,
+  "source_reliability": 0.9904761904761905,
+  "trust": 0.8133809523809524,
+  "trust_components": {
+   "confidence": 0.9904761904761905,
+   "support_score": 0.105,
+   "quality": 0.9904761904761905,
+   "source_reliability": 0.9904761904761905
+  }
+ },
+ {
+  "id": "K11-s3",
+  "source_site": 11,
+  "pattern": "s3>1.671",
+  "conditions": [
+   "condition-normalised s3 > 1.671 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 105,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8210000000000001,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.105,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K11-s4",
+  "source_site": 11,
+  "pattern": "s4>1.976",
+  "conditions": [
+   "condition-normalised s4 > 1.976 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.9904761904761905,
+  "support": 105,
+  "quality": 0.9904761904761905,
+  "source_reliability": 0.9904761904761905,
+  "trust": 0.8133809523809524,
+  "trust_components": {
+   "confidence": 0.9904761904761905,
+   "support_score": 0.105,
+   "quality": 0.9904761904761905,
+   "source_reliability": 0.9904761904761905
+  }
+ },
+ {
+  "id": "K11-s7",
+  "source_site": 11,
+  "pattern": "s7<-0.876",
+  "conditions": [
+   "condition-normalised s7 < -0.876 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.7714285714285715,
+  "support": 105,
+  "quality": 0.7714285714285715,
+  "source_reliability": 0.7714285714285715,
+  "trust": 0.6381428571428572,
+  "trust_components": {
+   "confidence": 0.7714285714285715,
+   "support_score": 0.105,
+   "quality": 0.7714285714285715,
+   "source_reliability": 0.7714285714285715
+  }
+ },
+ {
+  "id": "K11-s8",
+  "source_site": 11,
+  "pattern": "s8>2.420",
+  "conditions": [
+   "condition-normalised s8 > 2.420 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.9428571428571428,
+  "support": 105,
+  "quality": 0.9428571428571428,
+  "source_reliability": 0.9428571428571428,
+  "trust": 0.7752857142857144,
+  "trust_components": {
+   "confidence": 0.9428571428571428,
+   "support_score": 0.105,
+   "quality": 0.9428571428571428,
+   "source_reliability": 0.9428571428571428
+  }
+ },
+ {
+  "id": "K11-s9",
+  "source_site": 11,
+  "pattern": "s9>3.182",
+  "conditions": [
+   "condition-normalised s9 > 3.182 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 105,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8210000000000001,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.105,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K11-s11",
+  "source_site": 11,
+  "pattern": "s11>2.052",
+  "conditions": [
+   "condition-normalised s11 > 2.052 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.9809523809523809,
+  "support": 105,
+  "quality": 0.9809523809523809,
+  "source_reliability": 0.9809523809523809,
+  "trust": 0.8057619047619048,
+  "trust_components": {
+   "confidence": 0.9809523809523809,
+   "support_score": 0.105,
+   "quality": 0.9809523809523809,
+   "source_reliability": 0.9809523809523809
+  }
+ },
+ {
+  "id": "K11-s12",
+  "source_site": 11,
+  "pattern": "s12<-0.811",
+  "conditions": [
+   "condition-normalised s12 < -0.811 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.9142857142857143,
+  "support": 105,
+  "quality": 0.9142857142857143,
+  "source_reliability": 0.9142857142857143,
+  "trust": 0.7524285714285714,
+  "trust_components": {
+   "confidence": 0.9142857142857143,
+   "support_score": 0.105,
+   "quality": 0.9142857142857143,
+   "source_reliability": 0.9142857142857143
+  }
+ },
+ {
+  "id": "K11-s13",
+  "source_site": 11,
+  "pattern": "s13>2.390",
+  "conditions": [
+   "condition-normalised s13 > 2.390 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.9333333333333333,
+  "support": 105,
+  "quality": 0.9333333333333333,
+  "source_reliability": 0.9333333333333333,
+  "trust": 0.7676666666666667,
+  "trust_components": {
+   "confidence": 0.9333333333333333,
+   "support_score": 0.105,
+   "quality": 0.9333333333333333,
+   "source_reliability": 0.9333333333333333
+  }
+ },
+ {
+  "id": "K11-s14",
+  "source_site": 11,
+  "pattern": "s14>3.222",
+  "conditions": [
+   "condition-normalised s14 > 3.222 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 105,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8210000000000001,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.105,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K11-s15",
+  "source_site": 11,
+  "pattern": "s15>1.640",
+  "conditions": [
+   "condition-normalised s15 > 1.640 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 105,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8210000000000001,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.105,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K11-s17",
+  "source_site": 11,
+  "pattern": "s17>1.771",
+  "conditions": [
+   "condition-normalised s17 > 1.771 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.9904761904761905,
+  "support": 105,
+  "quality": 0.9904761904761905,
+  "source_reliability": 0.9904761904761905,
+  "trust": 0.8133809523809524,
+  "trust_components": {
+   "confidence": 0.9904761904761905,
+   "support_score": 0.105,
+   "quality": 0.9904761904761905,
+   "source_reliability": 0.9904761904761905
+  }
+ },
+ {
+  "id": "K11-s20",
+  "source_site": 11,
+  "pattern": "s20<-1.455",
+  "conditions": [
+   "condition-normalised s20 < -1.455 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.9428571428571428,
+  "support": 105,
+  "quality": 0.9428571428571428,
+  "source_reliability": 0.9428571428571428,
+  "trust": 0.7752857142857144,
+  "trust_components": {
+   "confidence": 0.9428571428571428,
+   "support_score": 0.105,
+   "quality": 0.9428571428571428,
+   "source_reliability": 0.9428571428571428
+  }
+ },
+ {
+  "id": "K11-s21",
+  "source_site": 11,
+  "pattern": "s21<-1.469",
+  "conditions": [
+   "condition-normalised s21 < -1.469 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.9333333333333333,
+  "support": 105,
+  "quality": 0.9333333333333333,
+  "source_reliability": 0.9333333333333333,
+  "trust": 0.7676666666666667,
+  "trust_components": {
+   "confidence": 0.9333333333333333,
+   "support_score": 0.105,
+   "quality": 0.9333333333333333,
+   "source_reliability": 0.9333333333333333
+  }
+ },
+ {
+  "id": "K1-s2",
+  "source_site": 1,
+  "pattern": "s2>1.910",
+  "conditions": [
+   "condition-normalised s2 > 1.910 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 107,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8214,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.107,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K1-s3",
+  "source_site": 1,
+  "pattern": "s3>1.835",
+  "conditions": [
+   "condition-normalised s3 > 1.835 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.9906542056074766,
+  "support": 107,
+  "quality": 0.9906542056074766,
+  "source_reliability": 0.9906542056074766,
+  "trust": 0.8139233644859813,
+  "trust_components": {
+   "confidence": 0.9906542056074766,
+   "support_score": 0.107,
+   "quality": 0.9906542056074766,
+   "source_reliability": 0.9906542056074766
+  }
+ },
+ {
+  "id": "K1-s4",
+  "source_site": 1,
+  "pattern": "s4>2.050",
+  "conditions": [
+   "condition-normalised s4 > 2.050 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 107,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8214,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.107,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K1-s7",
+  "source_site": 1,
+  "pattern": "s7<-0.965",
+  "conditions": [
+   "condition-normalised s7 < -0.965 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 107,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8214,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.107,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K1-s8",
+  "source_site": 1,
+  "pattern": "s8>1.302",
+  "conditions": [
+   "condition-normalised s8 > 1.302 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 107,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8214,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.107,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K1-s9",
+  "source_site": 1,
+  "pattern": "s9>2.821",
+  "conditions": [
+   "condition-normalised s9 > 2.821 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.9813084112149533,
+  "support": 107,
+  "quality": 0.9813084112149533,
+  "source_reliability": 0.9813084112149533,
+  "trust": 0.8064467289719627,
+  "trust_components": {
+   "confidence": 0.9813084112149533,
+   "support_score": 0.107,
+   "quality": 0.9813084112149533,
+   "source_reliability": 0.9813084112149533
+  }
+ },
+ {
+  "id": "K1-s11",
+  "source_site": 1,
+  "pattern": "s11>2.103",
+  "conditions": [
+   "condition-normalised s11 > 2.103 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 107,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8214,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.107,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K1-s12",
+  "source_site": 1,
+  "pattern": "s12<-0.924",
+  "conditions": [
+   "condition-normalised s12 < -0.924 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 107,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8214,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.107,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K1-s13",
+  "source_site": 1,
+  "pattern": "s13>1.304",
+  "conditions": [
+   "condition-normalised s13 > 1.304 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 107,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8214,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.107,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K1-s14",
+  "source_site": 1,
+  "pattern": "s14>2.794",
+  "conditions": [
+   "condition-normalised s14 > 2.794 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.9719626168224299,
+  "support": 107,
+  "quality": 0.9719626168224299,
+  "source_reliability": 0.9719626168224299,
+  "trust": 0.7989700934579439,
+  "trust_components": {
+   "confidence": 0.9719626168224299,
+   "support_score": 0.107,
+   "quality": 0.9719626168224299,
+   "source_reliability": 0.9719626168224299
+  }
+ },
+ {
+  "id": "K1-s15",
+  "source_site": 1,
+  "pattern": "s15>1.722",
+  "conditions": [
+   "condition-normalised s15 > 1.722 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 107,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8214,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.107,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K1-s17",
+  "source_site": 1,
+  "pattern": "s17>1.852",
+  "conditions": [
+   "condition-normalised s17 > 1.852 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.9902912621359223,
+  "support": 103,
+  "quality": 0.9902912621359223,
+  "source_reliability": 0.9902912621359223,
+  "trust": 0.8128330097087378,
+  "trust_components": {
+   "confidence": 0.9902912621359223,
+   "support_score": 0.103,
+   "quality": 0.9902912621359223,
+   "source_reliability": 0.9902912621359223
+  }
+ },
+ {
+  "id": "K1-s20",
+  "source_site": 1,
+  "pattern": "s20<-1.845",
+  "conditions": [
+   "condition-normalised s20 < -1.845 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 107,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8214,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.107,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K1-s21",
+  "source_site": 1,
+  "pattern": "s21<-1.851",
+  "conditions": [
+   "condition-normalised s21 < -1.851 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 107,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8214,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.107,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K0-s2",
+  "source_site": 0,
+  "pattern": "s2>1.977",
+  "conditions": [
+   "condition-normalised s2 > 1.977 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 110,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8220000000000001,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.11,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K0-s3",
+  "source_site": 0,
+  "pattern": "s3>1.784",
+  "conditions": [
+   "condition-normalised s3 > 1.784 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.9363636363636364,
+  "support": 110,
+  "quality": 0.9363636363636364,
+  "source_reliability": 0.9363636363636364,
+  "trust": 0.7710909090909092,
+  "trust_components": {
+   "confidence": 0.9363636363636364,
+   "support_score": 0.11,
+   "quality": 0.9363636363636364,
+   "source_reliability": 0.9363636363636364
+  }
+ },
+ {
+  "id": "K0-s4",
+  "source_site": 0,
+  "pattern": "s4>2.094",
+  "conditions": [
+   "condition-normalised s4 > 2.094 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 110,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8220000000000001,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.11,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K0-s7",
+  "source_site": 0,
+  "pattern": "s7<-1.000",
+  "conditions": [
+   "condition-normalised s7 < -1.000 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 110,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8220000000000001,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.11,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K0-s8",
+  "source_site": 0,
+  "pattern": "s8>1.302",
+  "conditions": [
+   "condition-normalised s8 > 1.302 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 109,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8218000000000001,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.109,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K0-s9",
+  "source_site": 0,
+  "pattern": "s9>3.131",
+  "conditions": [
+   "condition-normalised s9 > 3.131 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.9636363636363636,
+  "support": 110,
+  "quality": 0.9636363636363636,
+  "source_reliability": 0.9636363636363636,
+  "trust": 0.792909090909091,
+  "trust_components": {
+   "confidence": 0.9636363636363636,
+   "support_score": 0.11,
+   "quality": 0.9636363636363636,
+   "source_reliability": 0.9636363636363636
+  }
+ },
+ {
+  "id": "K0-s11",
+  "source_site": 0,
+  "pattern": "s11>2.095",
+  "conditions": [
+   "condition-normalised s11 > 2.095 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 110,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8220000000000001,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.11,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K0-s12",
+  "source_site": 0,
+  "pattern": "s12<-0.936",
+  "conditions": [
+   "condition-normalised s12 < -0.936 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 110,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8220000000000001,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.11,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K0-s13",
+  "source_site": 0,
+  "pattern": "s13>1.320",
+  "conditions": [
+   "condition-normalised s13 > 1.320 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 110,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8220000000000001,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.11,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K0-s14",
+  "source_site": 0,
+  "pattern": "s14>3.119",
+  "conditions": [
+   "condition-normalised s14 > 3.119 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.9454545454545454,
+  "support": 110,
+  "quality": 0.9454545454545454,
+  "source_reliability": 0.9454545454545454,
+  "trust": 0.7783636363636364,
+  "trust_components": {
+   "confidence": 0.9454545454545454,
+   "support_score": 0.11,
+   "quality": 0.9454545454545454,
+   "source_reliability": 0.9454545454545454
+  }
+ },
+ {
+  "id": "K0-s15",
+  "source_site": 0,
+  "pattern": "s15>1.724",
+  "conditions": [
+   "condition-normalised s15 > 1.724 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 110,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8220000000000001,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.11,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K0-s17",
+  "source_site": 0,
+  "pattern": "s17>1.852",
+  "conditions": [
+   "condition-normalised s17 > 1.852 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 107,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8214,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.107,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K0-s20",
+  "source_site": 0,
+  "pattern": "s20<-1.778",
+  "conditions": [
+   "condition-normalised s20 < -1.778 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 108,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8216,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.108,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K0-s21",
+  "source_site": 0,
+  "pattern": "s21<-1.836",
+  "conditions": [
+   "condition-normalised s21 < -1.836 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 110,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8220000000000001,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.11,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K18-s2",
+  "source_site": 18,
+  "pattern": "s2>1.754",
+  "conditions": [
+   "condition-normalised s2 > 1.754 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 130,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8260000000000001,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.13,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K18-s3",
+  "source_site": 18,
+  "pattern": "s3>1.634",
+  "conditions": [
+   "condition-normalised s3 > 1.634 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.9923076923076923,
+  "support": 130,
+  "quality": 0.9923076923076923,
+  "source_reliability": 0.9923076923076923,
+  "trust": 0.8198461538461539,
+  "trust_components": {
+   "confidence": 0.9923076923076923,
+   "support_score": 0.13,
+   "quality": 0.9923076923076923,
+   "source_reliability": 0.9923076923076923
+  }
+ },
+ {
+  "id": "K18-s4",
+  "source_site": 18,
+  "pattern": "s4>1.863",
+  "conditions": [
+   "condition-normalised s4 > 1.863 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 130,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8260000000000001,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.13,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K18-s7",
+  "source_site": 18,
+  "pattern": "s7>3.809",
+  "conditions": [
+   "condition-normalised s7 > 3.809 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 130,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8260000000000001,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.13,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K18-s8",
+  "source_site": 18,
+  "pattern": "s8>2.391",
+  "conditions": [
+   "condition-normalised s8 > 2.391 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 130,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8260000000000001,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.13,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K18-s9",
+  "source_site": 18,
+  "pattern": "s9>2.399",
+  "conditions": [
+   "condition-normalised s9 > 2.399 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.9615384615384616,
+  "support": 130,
+  "quality": 0.9615384615384616,
+  "source_reliability": 0.9615384615384616,
+  "trust": 0.7952307692307693,
+  "trust_components": {
+   "confidence": 0.9615384615384616,
+   "support_score": 0.13,
+   "quality": 0.9615384615384616,
+   "source_reliability": 0.9615384615384616
+  }
+ },
+ {
+  "id": "K18-s11",
+  "source_site": 18,
+  "pattern": "s11>2.014",
+  "conditions": [
+   "condition-normalised s11 > 2.014 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 130,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8260000000000001,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.13,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K18-s12",
+  "source_site": 18,
+  "pattern": "s12>3.883",
+  "conditions": [
+   "condition-normalised s12 > 3.883 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 130,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8260000000000001,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.13,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K18-s13",
+  "source_site": 18,
+  "pattern": "s13>2.360",
+  "conditions": [
+   "condition-normalised s13 > 2.360 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 130,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8260000000000001,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.13,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K18-s14",
+  "source_site": 18,
+  "pattern": "s14>2.287",
+  "conditions": [
+   "condition-normalised s14 > 2.287 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 130,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8260000000000001,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.13,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K18-s15",
+  "source_site": 18,
+  "pattern": "s15>1.504",
+  "conditions": [
+   "condition-normalised s15 > 1.504 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 130,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8260000000000001,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.13,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K18-s17",
+  "source_site": 18,
+  "pattern": "s17>1.734",
+  "conditions": [
+   "condition-normalised s17 > 1.734 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.9921259842519685,
+  "support": 127,
+  "quality": 0.9921259842519685,
+  "source_reliability": 0.9921259842519685,
+  "trust": 0.8191007874015749,
+  "trust_components": {
+   "confidence": 0.9921259842519685,
+   "support_score": 0.127,
+   "quality": 0.9921259842519685,
+   "source_reliability": 0.9921259842519685
+  }
+ },
+ {
+  "id": "K18-s20",
+  "source_site": 18,
+  "pattern": "s20<-1.609",
+  "conditions": [
+   "condition-normalised s20 < -1.609 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.9922480620155039,
+  "support": 129,
+  "quality": 0.9922480620155039,
+  "source_reliability": 0.9922480620155039,
+  "trust": 0.8195984496124031,
+  "trust_components": {
+   "confidence": 0.9922480620155039,
+   "support_score": 0.129,
+   "quality": 0.9922480620155039,
+   "source_reliability": 0.9922480620155039
+  }
+ },
+ {
+  "id": "K18-s21",
+  "source_site": 18,
+  "pattern": "s21<-1.613",
+  "conditions": [
+   "condition-normalised s21 < -1.613 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 130,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8260000000000001,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.13,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K28-s2",
+  "source_site": 28,
+  "pattern": "s2>1.502",
+  "conditions": [
+   "condition-normalised s2 > 1.502 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.9917355371900827,
+  "support": 121,
+  "quality": 0.9917355371900827,
+  "source_reliability": 0.9917355371900827,
+  "trust": 0.8175884297520661,
+  "trust_components": {
+   "confidence": 0.9917355371900827,
+   "support_score": 0.121,
+   "quality": 0.9917355371900827,
+   "source_reliability": 0.9917355371900827
+  }
+ },
+ {
+  "id": "K28-s3",
+  "source_site": 28,
+  "pattern": "s3>1.603",
+  "conditions": [
+   "condition-normalised s3 > 1.603 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 121,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8242,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.121,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K28-s4",
+  "source_site": 28,
+  "pattern": "s4>1.697",
+  "conditions": [
+   "condition-normalised s4 > 1.697 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 121,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8242,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.121,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K28-s7",
+  "source_site": 28,
+  "pattern": "s7>3.933",
+  "conditions": [
+   "condition-normalised s7 > 3.933 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 121,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8242,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.121,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K28-s8",
+  "source_site": 28,
+  "pattern": "s8>2.541",
+  "conditions": [
+   "condition-normalised s8 > 2.541 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.8925619834710744,
+  "support": 121,
+  "quality": 0.8925619834710744,
+  "source_reliability": 0.8925619834710744,
+  "trust": 0.7382495867768596,
+  "trust_components": {
+   "confidence": 0.8925619834710744,
+   "support_score": 0.121,
+   "quality": 0.8925619834710744,
+   "source_reliability": 0.8925619834710744
+  }
+ },
+ {
+  "id": "K28-s9",
+  "source_site": 28,
+  "pattern": "s9>2.683",
+  "conditions": [
+   "condition-normalised s9 > 2.683 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.8677685950413223,
+  "support": 121,
+  "quality": 0.8677685950413223,
+  "source_reliability": 0.8677685950413223,
+  "trust": 0.7184148760330579,
+  "trust_components": {
+   "confidence": 0.8677685950413223,
+   "support_score": 0.121,
+   "quality": 0.8677685950413223,
+   "source_reliability": 0.8677685950413223
+  }
+ },
+ {
+  "id": "K28-s11",
+  "source_site": 28,
+  "pattern": "s11>1.838",
+  "conditions": [
+   "condition-normalised s11 > 1.838 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 121,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8242,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.121,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K28-s12",
+  "source_site": 28,
+  "pattern": "s12>3.965",
+  "conditions": [
+   "condition-normalised s12 > 3.965 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 121,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8242,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.121,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K28-s13",
+  "source_site": 28,
+  "pattern": "s13>2.587",
+  "conditions": [
+   "condition-normalised s13 > 2.587 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.8925619834710744,
+  "support": 121,
+  "quality": 0.8925619834710744,
+  "source_reliability": 0.8925619834710744,
+  "trust": 0.7382495867768596,
+  "trust_components": {
+   "confidence": 0.8925619834710744,
+   "support_score": 0.121,
+   "quality": 0.8925619834710744,
+   "source_reliability": 0.8925619834710744
+  }
+ },
+ {
+  "id": "K28-s14",
+  "source_site": 28,
+  "pattern": "s14>2.674",
+  "conditions": [
+   "condition-normalised s14 > 2.674 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.8760330578512396,
+  "support": 121,
+  "quality": 0.8760330578512396,
+  "source_reliability": 0.8760330578512396,
+  "trust": 0.7250264462809918,
+  "trust_components": {
+   "confidence": 0.8760330578512396,
+   "support_score": 0.121,
+   "quality": 0.8760330578512396,
+   "source_reliability": 0.8760330578512396
+  }
+ },
+ {
+  "id": "K28-s15",
+  "source_site": 28,
+  "pattern": "s15<-3.042",
+  "conditions": [
+   "condition-normalised s15 < -3.042 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 121,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8242,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.121,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K28-s17",
+  "source_site": 28,
+  "pattern": "s17>1.604",
+  "conditions": [
+   "condition-normalised s17 > 1.604 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 121,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8242,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.121,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K28-s20",
+  "source_site": 28,
+  "pattern": "s20>2.113",
+  "conditions": [
+   "condition-normalised s20 > 2.113 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.9669421487603306,
+  "support": 121,
+  "quality": 0.9669421487603306,
+  "source_reliability": 0.9669421487603306,
+  "trust": 0.7977537190082645,
+  "trust_components": {
+   "confidence": 0.9669421487603306,
+   "support_score": 0.121,
+   "quality": 0.9669421487603306,
+   "source_reliability": 0.9669421487603306
+  }
+ },
+ {
+  "id": "K28-s21",
+  "source_site": 28,
+  "pattern": "s21>2.182",
+  "conditions": [
+   "condition-normalised s21 > 2.182 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.9669421487603306,
+  "support": 121,
+  "quality": 0.9669421487603306,
+  "source_reliability": 0.9669421487603306,
+  "trust": 0.7977537190082645,
+  "trust_components": {
+   "confidence": 0.9669421487603306,
+   "support_score": 0.121,
+   "quality": 0.9669421487603306,
+   "source_reliability": 0.9669421487603306
+  }
+ },
+ {
+  "id": "K10-s2",
+  "source_site": 10,
+  "pattern": "s2>1.777",
+  "conditions": [
+   "condition-normalised s2 > 1.777 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 98,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8196,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.098,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K10-s3",
+  "source_site": 10,
+  "pattern": "s3>1.650",
+  "conditions": [
+   "condition-normalised s3 > 1.650 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 98,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8196,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.098,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K10-s4",
+  "source_site": 10,
+  "pattern": "s4>1.949",
+  "conditions": [
+   "condition-normalised s4 > 1.949 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 98,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8196,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.098,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K10-s7",
+  "source_site": 10,
+  "pattern": "s7<-0.821",
+  "conditions": [
+   "condition-normalised s7 < -0.821 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.9387755102040817,
+  "support": 98,
+  "quality": 0.9387755102040817,
+  "source_reliability": 0.9387755102040817,
+  "trust": 0.7706204081632654,
+  "trust_components": {
+   "confidence": 0.9387755102040817,
+   "support_score": 0.098,
+   "quality": 0.9387755102040817,
+   "source_reliability": 0.9387755102040817
+  }
+ },
+ {
+  "id": "K10-s8",
+  "source_site": 10,
+  "pattern": "s8>2.486",
+  "conditions": [
+   "condition-normalised s8 > 2.486 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.9285714285714286,
+  "support": 98,
+  "quality": 0.9285714285714286,
+  "source_reliability": 0.9285714285714286,
+  "trust": 0.7624571428571428,
+  "trust_components": {
+   "confidence": 0.9285714285714286,
+   "support_score": 0.098,
+   "quality": 0.9285714285714286,
+   "source_reliability": 0.9285714285714286
+  }
+ },
+ {
+  "id": "K10-s9",
+  "source_site": 10,
+  "pattern": "s9>2.960",
+  "conditions": [
+   "condition-normalised s9 > 2.960 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 98,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8196,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.098,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K10-s11",
+  "source_site": 10,
+  "pattern": "s11>1.994",
+  "conditions": [
+   "condition-normalised s11 > 1.994 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 98,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8196,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.098,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K10-s12",
+  "source_site": 10,
+  "pattern": "s12<-0.798",
+  "conditions": [
+   "condition-normalised s12 < -0.798 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.9795918367346939,
+  "support": 98,
+  "quality": 0.9795918367346939,
+  "source_reliability": 0.9795918367346939,
+  "trust": 0.8032734693877551,
+  "trust_components": {
+   "confidence": 0.9795918367346939,
+   "support_score": 0.098,
+   "quality": 0.9795918367346939,
+   "source_reliability": 0.9795918367346939
+  }
+ },
+ {
+  "id": "K10-s13",
+  "source_site": 10,
+  "pattern": "s13>2.479",
+  "conditions": [
+   "condition-normalised s13 > 2.479 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.9285714285714286,
+  "support": 98,
+  "quality": 0.9285714285714286,
+  "source_reliability": 0.9285714285714286,
+  "trust": 0.7624571428571428,
+  "trust_components": {
+   "confidence": 0.9285714285714286,
+   "support_score": 0.098,
+   "quality": 0.9285714285714286,
+   "source_reliability": 0.9285714285714286
+  }
+ },
+ {
+  "id": "K10-s14",
+  "source_site": 10,
+  "pattern": "s14>2.921",
+  "conditions": [
+   "condition-normalised s14 > 2.921 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.9897959183673469,
+  "support": 98,
+  "quality": 0.9897959183673469,
+  "source_reliability": 0.9897959183673469,
+  "trust": 0.8114367346938776,
+  "trust_components": {
+   "confidence": 0.9897959183673469,
+   "support_score": 0.098,
+   "quality": 0.9897959183673469,
+   "source_reliability": 0.9897959183673469
+  }
+ },
+ {
+  "id": "K10-s15",
+  "source_site": 10,
+  "pattern": "s15>1.577",
+  "conditions": [
+   "condition-normalised s15 > 1.577 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 98,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8196,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.098,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K10-s17",
+  "source_site": 10,
+  "pattern": "s17>1.769",
+  "conditions": [
+   "condition-normalised s17 > 1.769 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 98,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8196,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.098,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K10-s20",
+  "source_site": 10,
+  "pattern": "s20<-1.395",
+  "conditions": [
+   "condition-normalised s20 < -1.395 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.9489795918367347,
+  "support": 98,
+  "quality": 0.9489795918367347,
+  "source_reliability": 0.9489795918367347,
+  "trust": 0.7787836734693878,
+  "trust_components": {
+   "confidence": 0.9489795918367347,
+   "support_score": 0.098,
+   "quality": 0.9489795918367347,
+   "source_reliability": 0.9489795918367347
+  }
+ },
+ {
+  "id": "K10-s21",
+  "source_site": 10,
+  "pattern": "s21<-1.525",
+  "conditions": [
+   "condition-normalised s21 < -1.525 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.9693877551020408,
+  "support": 98,
+  "quality": 0.9693877551020408,
+  "source_reliability": 0.9693877551020408,
+  "trust": 0.7951102040816326,
+  "trust_components": {
+   "confidence": 0.9693877551020408,
+   "support_score": 0.098,
+   "quality": 0.9693877551020408,
+   "source_reliability": 0.9693877551020408
+  }
+ },
+ {
+  "id": "K9-s2",
+  "source_site": 9,
+  "pattern": "s2>1.732",
+  "conditions": [
+   "condition-normalised s2 > 1.732 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.9903846153846154,
+  "support": 104,
+  "quality": 0.9903846153846154,
+  "source_reliability": 0.9903846153846154,
+  "trust": 0.8131076923076924,
+  "trust_components": {
+   "confidence": 0.9903846153846154,
+   "support_score": 0.104,
+   "quality": 0.9903846153846154,
+   "source_reliability": 0.9903846153846154
+  }
+ },
+ {
+  "id": "K9-s3",
+  "source_site": 9,
+  "pattern": "s3>1.725",
+  "conditions": [
+   "condition-normalised s3 > 1.725 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.9519230769230769,
+  "support": 104,
+  "quality": 0.9519230769230769,
+  "source_reliability": 0.9519230769230769,
+  "trust": 0.7823384615384615,
+  "trust_components": {
+   "confidence": 0.9519230769230769,
+   "support_score": 0.104,
+   "quality": 0.9519230769230769,
+   "source_reliability": 0.9519230769230769
+  }
+ },
+ {
+  "id": "K9-s4",
+  "source_site": 9,
+  "pattern": "s4>1.962",
+  "conditions": [
+   "condition-normalised s4 > 1.962 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 104,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8208000000000001,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.104,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K9-s7",
+  "source_site": 9,
+  "pattern": "s7<-0.897",
+  "conditions": [
+   "condition-normalised s7 < -0.897 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.9903846153846154,
+  "support": 104,
+  "quality": 0.9903846153846154,
+  "source_reliability": 0.9903846153846154,
+  "trust": 0.8131076923076924,
+  "trust_components": {
+   "confidence": 0.9903846153846154,
+   "support_score": 0.104,
+   "quality": 0.9903846153846154,
+   "source_reliability": 0.9903846153846154
+  }
+ },
+ {
+  "id": "K9-s8",
+  "source_site": 9,
+  "pattern": "s8>1.823",
+  "conditions": [
+   "condition-normalised s8 > 1.823 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.9230769230769231,
+  "support": 104,
+  "quality": 0.9230769230769231,
+  "source_reliability": 0.9230769230769231,
+  "trust": 0.7592615384615385,
+  "trust_components": {
+   "confidence": 0.9230769230769231,
+   "support_score": 0.104,
+   "quality": 0.9230769230769231,
+   "source_reliability": 0.9230769230769231
+  }
+ },
+ {
+  "id": "K9-s9",
+  "source_site": 9,
+  "pattern": "s9>2.310",
+  "conditions": [
+   "condition-normalised s9 > 2.310 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.9134615384615384,
+  "support": 104,
+  "quality": 0.9134615384615384,
+  "source_reliability": 0.9134615384615384,
+  "trust": 0.7515692307692309,
+  "trust_components": {
+   "confidence": 0.9134615384615384,
+   "support_score": 0.104,
+   "quality": 0.9134615384615384,
+   "source_reliability": 0.9134615384615384
+  }
+ },
+ {
+  "id": "K9-s11",
+  "source_site": 9,
+  "pattern": "s11>1.972",
+  "conditions": [
+   "condition-normalised s11 > 1.972 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 104,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8208000000000001,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.104,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K9-s12",
+  "source_site": 9,
+  "pattern": "s12<-0.808",
+  "conditions": [
+   "condition-normalised s12 < -0.808 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.9134615384615384,
+  "support": 104,
+  "quality": 0.9134615384615384,
+  "source_reliability": 0.9134615384615384,
+  "trust": 0.7515692307692309,
+  "trust_components": {
+   "confidence": 0.9134615384615384,
+   "support_score": 0.104,
+   "quality": 0.9134615384615384,
+   "source_reliability": 0.9134615384615384
+  }
+ },
+ {
+  "id": "K9-s13",
+  "source_site": 9,
+  "pattern": "s13>1.787",
+  "conditions": [
+   "condition-normalised s13 > 1.787 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.9230769230769231,
+  "support": 104,
+  "quality": 0.9230769230769231,
+  "source_reliability": 0.9230769230769231,
+  "trust": 0.7592615384615385,
+  "trust_components": {
+   "confidence": 0.9230769230769231,
+   "support_score": 0.104,
+   "quality": 0.9230769230769231,
+   "source_reliability": 0.9230769230769231
+  }
+ },
+ {
+  "id": "K9-s14",
+  "source_site": 9,
+  "pattern": "s14>2.231",
+  "conditions": [
+   "condition-normalised s14 > 2.231 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.8846153846153846,
+  "support": 104,
+  "quality": 0.8846153846153846,
+  "source_reliability": 0.8846153846153846,
+  "trust": 0.7284923076923078,
+  "trust_components": {
+   "confidence": 0.8846153846153846,
+   "support_score": 0.104,
+   "quality": 0.8846153846153846,
+   "source_reliability": 0.8846153846153846
+  }
+ },
+ {
+  "id": "K9-s15",
+  "source_site": 9,
+  "pattern": "s15>1.616",
+  "conditions": [
+   "condition-normalised s15 > 1.616 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 104,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8208000000000001,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.104,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K9-s17",
+  "source_site": 9,
+  "pattern": "s17>1.757",
+  "conditions": [
+   "condition-normalised s17 > 1.757 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.9807692307692307,
+  "support": 104,
+  "quality": 0.9807692307692307,
+  "source_reliability": 0.9807692307692307,
+  "trust": 0.8054153846153846,
+  "trust_components": {
+   "confidence": 0.9807692307692307,
+   "support_score": 0.104,
+   "quality": 0.9807692307692307,
+   "source_reliability": 0.9807692307692307
+  }
+ },
+ {
+  "id": "K9-s20",
+  "source_site": 9,
+  "pattern": "s20<-1.399",
+  "conditions": [
+   "condition-normalised s20 < -1.399 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.7884615384615384,
+  "support": 104,
+  "quality": 0.7884615384615384,
+  "source_reliability": 0.7884615384615384,
+  "trust": 0.6515692307692308,
+  "trust_components": {
+   "confidence": 0.7884615384615384,
+   "support_score": 0.104,
+   "quality": 0.7884615384615384,
+   "source_reliability": 0.7884615384615384
+  }
+ },
+ {
+  "id": "K9-s21",
+  "source_site": 9,
+  "pattern": "s21<-1.409",
+  "conditions": [
+   "condition-normalised s21 < -1.409 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.9038461538461539,
+  "support": 104,
+  "quality": 0.9038461538461539,
+  "source_reliability": 0.9038461538461539,
+  "trust": 0.7438769230769232,
+  "trust_components": {
+   "confidence": 0.9038461538461539,
+   "support_score": 0.104,
+   "quality": 0.9038461538461539,
+   "source_reliability": 0.9038461538461539
+  }
+ },
+ {
+  "id": "K6-s2",
+  "source_site": 6,
+  "pattern": "s2>1.809",
+  "conditions": [
+   "condition-normalised s2 > 1.809 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.9907407407407407,
+  "support": 108,
+  "quality": 0.9907407407407407,
+  "source_reliability": 0.9907407407407407,
+  "trust": 0.8141925925925926,
+  "trust_components": {
+   "confidence": 0.9907407407407407,
+   "support_score": 0.108,
+   "quality": 0.9907407407407407,
+   "source_reliability": 0.9907407407407407
+  }
+ },
+ {
+  "id": "K6-s3",
+  "source_site": 6,
+  "pattern": "s3>1.637",
+  "conditions": [
+   "condition-normalised s3 > 1.637 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.9907407407407407,
+  "support": 108,
+  "quality": 0.9907407407407407,
+  "source_reliability": 0.9907407407407407,
+  "trust": 0.8141925925925926,
+  "trust_components": {
+   "confidence": 0.9907407407407407,
+   "support_score": 0.108,
+   "quality": 0.9907407407407407,
+   "source_reliability": 0.9907407407407407
+  }
+ },
+ {
+  "id": "K6-s4",
+  "source_site": 6,
+  "pattern": "s4>1.899",
+  "conditions": [
+   "condition-normalised s4 > 1.899 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 108,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8216,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.108,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K6-s7",
+  "source_site": 6,
+  "pattern": "s7<-0.844",
+  "conditions": [
+   "condition-normalised s7 < -0.844 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.9537037037037037,
+  "support": 108,
+  "quality": 0.9537037037037037,
+  "source_reliability": 0.9537037037037037,
+  "trust": 0.784562962962963,
+  "trust_components": {
+   "confidence": 0.9537037037037037,
+   "support_score": 0.108,
+   "quality": 0.9537037037037037,
+   "source_reliability": 0.9537037037037037
+  }
+ },
+ {
+  "id": "K6-s8",
+  "source_site": 6,
+  "pattern": "s8>2.241",
+  "conditions": [
+   "condition-normalised s8 > 2.241 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.9722222222222222,
+  "support": 108,
+  "quality": 0.9722222222222222,
+  "source_reliability": 0.9722222222222222,
+  "trust": 0.7993777777777777,
+  "trust_components": {
+   "confidence": 0.9722222222222222,
+   "support_score": 0.108,
+   "quality": 0.9722222222222222,
+   "source_reliability": 0.9722222222222222
+  }
+ },
+ {
+  "id": "K6-s9",
+  "source_site": 6,
+  "pattern": "s9>2.785",
+  "conditions": [
+   "condition-normalised s9 > 2.785 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 108,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8216,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.108,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K6-s11",
+  "source_site": 6,
+  "pattern": "s11>1.977",
+  "conditions": [
+   "condition-normalised s11 > 1.977 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 108,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8216,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.108,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K6-s12",
+  "source_site": 6,
+  "pattern": "s12<-0.810",
+  "conditions": [
+   "condition-normalised s12 < -0.810 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.9351851851851852,
+  "support": 108,
+  "quality": 0.9351851851851852,
+  "source_reliability": 0.9351851851851852,
+  "trust": 0.7697481481481482,
+  "trust_components": {
+   "confidence": 0.9351851851851852,
+   "support_score": 0.108,
+   "quality": 0.9351851851851852,
+   "source_reliability": 0.9351851851851852
+  }
+ },
+ {
+  "id": "K6-s13",
+  "source_site": 6,
+  "pattern": "s13>2.200",
+  "conditions": [
+   "condition-normalised s13 > 2.200 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.9629629629629629,
+  "support": 108,
+  "quality": 0.9629629629629629,
+  "source_reliability": 0.9629629629629629,
+  "trust": 0.7919703703703703,
+  "trust_components": {
+   "confidence": 0.9629629629629629,
+   "support_score": 0.108,
+   "quality": 0.9629629629629629,
+   "source_reliability": 0.9629629629629629
+  }
+ },
+ {
+  "id": "K6-s14",
+  "source_site": 6,
+  "pattern": "s14>2.630",
+  "conditions": [
+   "condition-normalised s14 > 2.630 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 108,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8216,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.108,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K6-s15",
+  "source_site": 6,
+  "pattern": "s15>1.623",
+  "conditions": [
+   "condition-normalised s15 > 1.623 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 108,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8216,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.108,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K6-s17",
+  "source_site": 6,
+  "pattern": "s17>1.723",
+  "conditions": [
+   "condition-normalised s17 > 1.723 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 107,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8214,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.107,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K6-s20",
+  "source_site": 6,
+  "pattern": "s20<-1.425",
+  "conditions": [
+   "condition-normalised s20 < -1.425 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.9537037037037037,
+  "support": 108,
+  "quality": 0.9537037037037037,
+  "source_reliability": 0.9537037037037037,
+  "trust": 0.784562962962963,
+  "trust_components": {
+   "confidence": 0.9537037037037037,
+   "support_score": 0.108,
+   "quality": 0.9537037037037037,
+   "source_reliability": 0.9537037037037037
+  }
+ },
+ {
+  "id": "K6-s21",
+  "source_site": 6,
+  "pattern": "s21<-1.429",
+  "conditions": [
+   "condition-normalised s21 < -1.429 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.9351851851851852,
+  "support": 108,
+  "quality": 0.9351851851851852,
+  "source_reliability": 0.9351851851851852,
+  "trust": 0.7697481481481482,
+  "trust_components": {
+   "confidence": 0.9351851851851852,
+   "support_score": 0.108,
+   "quality": 0.9351851851851852,
+   "source_reliability": 0.9351851851851852
+  }
+ },
+ {
+  "id": "K34-s2",
+  "source_site": 34,
+  "pattern": "s2>1.600",
+  "conditions": [
+   "condition-normalised s2 > 1.600 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 117,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8234,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.117,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K34-s3",
+  "source_site": 34,
+  "pattern": "s3>1.632",
+  "conditions": [
+   "condition-normalised s3 > 1.632 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 117,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8234,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.117,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K34-s4",
+  "source_site": 34,
+  "pattern": "s4>1.742",
+  "conditions": [
+   "condition-normalised s4 > 1.742 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 117,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8234,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.117,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K34-s7",
+  "source_site": 34,
+  "pattern": "s7>3.884",
+  "conditions": [
+   "condition-normalised s7 > 3.884 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 117,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8234,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.117,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K34-s8",
+  "source_site": 34,
+  "pattern": "s8>2.498",
+  "conditions": [
+   "condition-normalised s8 > 2.498 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 117,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8234,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.117,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K34-s9",
+  "source_site": 34,
+  "pattern": "s9>2.677",
+  "conditions": [
+   "condition-normalised s9 > 2.677 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.9230769230769231,
+  "support": 117,
+  "quality": 0.9230769230769231,
+  "source_reliability": 0.9230769230769231,
+  "trust": 0.7618615384615385,
+  "trust_components": {
+   "confidence": 0.9230769230769231,
+   "support_score": 0.117,
+   "quality": 0.9230769230769231,
+   "source_reliability": 0.9230769230769231
+  }
+ },
+ {
+  "id": "K34-s11",
+  "source_site": 34,
+  "pattern": "s11>1.855",
+  "conditions": [
+   "condition-normalised s11 > 1.855 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 117,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8234,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.117,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K34-s12",
+  "source_site": 34,
+  "pattern": "s12>4.078",
+  "conditions": [
+   "condition-normalised s12 > 4.078 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 117,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8234,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.117,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K34-s13",
+  "source_site": 34,
+  "pattern": "s13>2.501",
+  "conditions": [
+   "condition-normalised s13 > 2.501 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 117,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8234,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.117,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K34-s14",
+  "source_site": 34,
+  "pattern": "s14>2.651",
+  "conditions": [
+   "condition-normalised s14 > 2.651 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.9401709401709402,
+  "support": 117,
+  "quality": 0.9401709401709402,
+  "source_reliability": 0.9401709401709402,
+  "trust": 0.7755367521367521,
+  "trust_components": {
+   "confidence": 0.9401709401709402,
+   "support_score": 0.117,
+   "quality": 0.9401709401709402,
+   "source_reliability": 0.9401709401709402
+  }
+ },
+ {
+  "id": "K34-s15",
+  "source_site": 34,
+  "pattern": "s15<-2.966",
+  "conditions": [
+   "condition-normalised s15 < -2.966 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 117,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8234,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.117,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K34-s17",
+  "source_site": 34,
+  "pattern": "s17>1.684",
+  "conditions": [
+   "condition-normalised s17 > 1.684 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 117,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8234,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.117,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K34-s20",
+  "source_site": 34,
+  "pattern": "s20<-1.238",
+  "conditions": [
+   "condition-normalised s20 < -1.238 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.9487179487179487,
+  "support": 117,
+  "quality": 0.9487179487179487,
+  "source_reliability": 0.9487179487179487,
+  "trust": 0.7823743589743589,
+  "trust_components": {
+   "confidence": 0.9487179487179487,
+   "support_score": 0.117,
+   "quality": 0.9487179487179487,
+   "source_reliability": 0.9487179487179487
+  }
+ },
+ {
+  "id": "K34-s21",
+  "source_site": 34,
+  "pattern": "s21<-1.267",
+  "conditions": [
+   "condition-normalised s21 < -1.267 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.9401709401709402,
+  "support": 117,
+  "quality": 0.9401709401709402,
+  "source_reliability": 0.9401709401709402,
+  "trust": 0.7755367521367521,
+  "trust_components": {
+   "confidence": 0.9401709401709402,
+   "support_score": 0.117,
+   "quality": 0.9401709401709402,
+   "source_reliability": 0.9401709401709402
+  }
+ },
+ {
+  "id": "K19-s2",
+  "source_site": 19,
+  "pattern": "s2>1.587",
+  "conditions": [
+   "condition-normalised s2 > 1.587 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 125,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8250000000000001,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.125,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K19-s3",
+  "source_site": 19,
+  "pattern": "s3>1.718",
+  "conditions": [
+   "condition-normalised s3 > 1.718 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 125,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8250000000000001,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.125,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K19-s4",
+  "source_site": 19,
+  "pattern": "s4>1.800",
+  "conditions": [
+   "condition-normalised s4 > 1.800 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 125,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8250000000000001,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.125,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K19-s7",
+  "source_site": 19,
+  "pattern": "s7>4.153",
+  "conditions": [
+   "condition-normalised s7 > 4.153 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 125,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8250000000000001,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.125,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K19-s8",
+  "source_site": 19,
+  "pattern": "s8>2.676",
+  "conditions": [
+   "condition-normalised s8 > 2.676 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 125,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8250000000000001,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.125,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K19-s9",
+  "source_site": 19,
+  "pattern": "s9>2.483",
+  "conditions": [
+   "condition-normalised s9 > 2.483 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 125,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8250000000000001,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.125,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K19-s11",
+  "source_site": 19,
+  "pattern": "s11>1.910",
+  "conditions": [
+   "condition-normalised s11 > 1.910 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 124,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8248000000000001,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.124,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K19-s12",
+  "source_site": 19,
+  "pattern": "s12>4.270",
+  "conditions": [
+   "condition-normalised s12 > 4.270 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 125,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8250000000000001,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.125,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K19-s13",
+  "source_site": 19,
+  "pattern": "s13>2.690",
+  "conditions": [
+   "condition-normalised s13 > 2.690 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 125,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8250000000000001,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.125,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K19-s14",
+  "source_site": 19,
+  "pattern": "s14>2.431",
+  "conditions": [
+   "condition-normalised s14 > 2.431 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 125,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8250000000000001,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.125,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K19-s15",
+  "source_site": 19,
+  "pattern": "s15<-2.809",
+  "conditions": [
+   "condition-normalised s15 < -2.809 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 125,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8250000000000001,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.125,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K19-s17",
+  "source_site": 19,
+  "pattern": "s17>1.852",
+  "conditions": [
+   "condition-normalised s17 > 1.852 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 122,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8244,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.122,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K19-s20",
+  "source_site": 19,
+  "pattern": "s20>2.564",
+  "conditions": [
+   "condition-normalised s20 > 2.564 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 125,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8250000000000001,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.125,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K19-s21",
+  "source_site": 19,
+  "pattern": "s21>2.574",
+  "conditions": [
+   "condition-normalised s21 > 2.574 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 125,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8250000000000001,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.125,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K8-s2",
+  "source_site": 8,
+  "pattern": "s2>1.793",
+  "conditions": [
+   "condition-normalised s2 > 1.793 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 96,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8192,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.096,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K8-s3",
+  "source_site": 8,
+  "pattern": "s3>1.654",
+  "conditions": [
+   "condition-normalised s3 > 1.654 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 96,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8192,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.096,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K8-s4",
+  "source_site": 8,
+  "pattern": "s4>1.984",
+  "conditions": [
+   "condition-normalised s4 > 1.984 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 96,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8192,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.096,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K8-s7",
+  "source_site": 8,
+  "pattern": "s7<-0.853",
+  "conditions": [
+   "condition-normalised s7 < -0.853 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.9895833333333334,
+  "support": 96,
+  "quality": 0.9895833333333334,
+  "source_reliability": 0.9895833333333334,
+  "trust": 0.8108666666666667,
+  "trust_components": {
+   "confidence": 0.9895833333333334,
+   "support_score": 0.096,
+   "quality": 0.9895833333333334,
+   "source_reliability": 0.9895833333333334
+  }
+ },
+ {
+  "id": "K8-s8",
+  "source_site": 8,
+  "pattern": "s8>2.299",
+  "conditions": [
+   "condition-normalised s8 > 2.299 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.9895833333333334,
+  "support": 96,
+  "quality": 0.9895833333333334,
+  "source_reliability": 0.9895833333333334,
+  "trust": 0.8108666666666667,
+  "trust_components": {
+   "confidence": 0.9895833333333334,
+   "support_score": 0.096,
+   "quality": 0.9895833333333334,
+   "source_reliability": 0.9895833333333334
+  }
+ },
+ {
+  "id": "K8-s9",
+  "source_site": 8,
+  "pattern": "s9>3.246",
+  "conditions": [
+   "condition-normalised s9 > 3.246 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 96,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8192,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.096,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K8-s11",
+  "source_site": 8,
+  "pattern": "s11>1.995",
+  "conditions": [
+   "condition-normalised s11 > 1.995 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 96,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8192,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.096,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K8-s12",
+  "source_site": 8,
+  "pattern": "s12<-0.811",
+  "conditions": [
+   "condition-normalised s12 < -0.811 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.9895833333333334,
+  "support": 96,
+  "quality": 0.9895833333333334,
+  "source_reliability": 0.9895833333333334,
+  "trust": 0.8108666666666667,
+  "trust_components": {
+   "confidence": 0.9895833333333334,
+   "support_score": 0.096,
+   "quality": 0.9895833333333334,
+   "source_reliability": 0.9895833333333334
+  }
+ },
+ {
+  "id": "K8-s13",
+  "source_site": 8,
+  "pattern": "s13>2.269",
+  "conditions": [
+   "condition-normalised s13 > 2.269 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.9895833333333334,
+  "support": 96,
+  "quality": 0.9895833333333334,
+  "source_reliability": 0.9895833333333334,
+  "trust": 0.8108666666666667,
+  "trust_components": {
+   "confidence": 0.9895833333333334,
+   "support_score": 0.096,
+   "quality": 0.9895833333333334,
+   "source_reliability": 0.9895833333333334
+  }
+ },
+ {
+  "id": "K8-s14",
+  "source_site": 8,
+  "pattern": "s14>3.204",
+  "conditions": [
+   "condition-normalised s14 > 3.204 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 96,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8192,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.096,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K8-s15",
+  "source_site": 8,
+  "pattern": "s15>1.620",
+  "conditions": [
+   "condition-normalised s15 > 1.620 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 96,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8192,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.096,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K8-s17",
+  "source_site": 8,
+  "pattern": "s17>1.750",
+  "conditions": [
+   "condition-normalised s17 > 1.750 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 95,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8190000000000001,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.095,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K8-s20",
+  "source_site": 8,
+  "pattern": "s20<-1.497",
+  "conditions": [
+   "condition-normalised s20 < -1.497 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.9375,
+  "support": 96,
+  "quality": 0.9375,
+  "source_reliability": 0.9375,
+  "trust": 0.7692,
+  "trust_components": {
+   "confidence": 0.9375,
+   "support_score": 0.096,
+   "quality": 0.9375,
+   "source_reliability": 0.9375
+  }
+ },
+ {
+  "id": "K8-s21",
+  "source_site": 8,
+  "pattern": "s21<-1.426",
+  "conditions": [
+   "condition-normalised s21 < -1.426 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.9895833333333334,
+  "support": 96,
+  "quality": 0.9895833333333334,
+  "source_reliability": 0.9895833333333334,
+  "trust": 0.8108666666666667,
+  "trust_components": {
+   "confidence": 0.9895833333333334,
+   "support_score": 0.096,
+   "quality": 0.9895833333333334,
+   "source_reliability": 0.9895833333333334
+  }
+ },
+ {
+  "id": "K16-s2",
+  "source_site": 16,
+  "pattern": "s2>1.702",
+  "conditions": [
+   "condition-normalised s2 > 1.702 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.981651376146789,
+  "support": 109,
+  "quality": 0.981651376146789,
+  "source_reliability": 0.981651376146789,
+  "trust": 0.8071211009174313,
+  "trust_components": {
+   "confidence": 0.981651376146789,
+   "support_score": 0.109,
+   "quality": 0.981651376146789,
+   "source_reliability": 0.981651376146789
+  }
+ },
+ {
+  "id": "K16-s3",
+  "source_site": 16,
+  "pattern": "s3>1.635",
+  "conditions": [
+   "condition-normalised s3 > 1.635 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 109,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8218000000000001,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.109,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K16-s4",
+  "source_site": 16,
+  "pattern": "s4>2.009",
+  "conditions": [
+   "condition-normalised s4 > 2.009 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 109,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8218000000000001,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.109,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K16-s7",
+  "source_site": 16,
+  "pattern": "s7<-0.900",
+  "conditions": [
+   "condition-normalised s7 < -0.900 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.9908256880733946,
+  "support": 109,
+  "quality": 0.9908256880733946,
+  "source_reliability": 0.9908256880733946,
+  "trust": 0.8144605504587157,
+  "trust_components": {
+   "confidence": 0.9908256880733946,
+   "support_score": 0.109,
+   "quality": 0.9908256880733946,
+   "source_reliability": 0.9908256880733946
+  }
+ },
+ {
+  "id": "K16-s8",
+  "source_site": 16,
+  "pattern": "s8>0.826",
+  "conditions": [
+   "condition-normalised s8 > 0.826 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.9908256880733946,
+  "support": 109,
+  "quality": 0.9908256880733946,
+  "source_reliability": 0.9908256880733946,
+  "trust": 0.8144605504587157,
+  "trust_components": {
+   "confidence": 0.9908256880733946,
+   "support_score": 0.109,
+   "quality": 0.9908256880733946,
+   "source_reliability": 0.9908256880733946
+  }
+ },
+ {
+  "id": "K16-s9",
+  "source_site": 16,
+  "pattern": "s9>0.788",
+  "conditions": [
+   "condition-normalised s9 > 0.788 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.926605504587156,
+  "support": 109,
+  "quality": 0.926605504587156,
+  "source_reliability": 0.926605504587156,
+  "trust": 0.7630844036697249,
+  "trust_components": {
+   "confidence": 0.926605504587156,
+   "support_score": 0.109,
+   "quality": 0.926605504587156,
+   "source_reliability": 0.926605504587156
+  }
+ },
+ {
+  "id": "K16-s11",
+  "source_site": 16,
+  "pattern": "s11>2.063",
+  "conditions": [
+   "condition-normalised s11 > 2.063 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 109,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8218000000000001,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.109,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K16-s12",
+  "source_site": 16,
+  "pattern": "s12<-0.858",
+  "conditions": [
+   "condition-normalised s12 < -0.858 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.9908256880733946,
+  "support": 109,
+  "quality": 0.9908256880733946,
+  "source_reliability": 0.9908256880733946,
+  "trust": 0.8144605504587157,
+  "trust_components": {
+   "confidence": 0.9908256880733946,
+   "support_score": 0.109,
+   "quality": 0.9908256880733946,
+   "source_reliability": 0.9908256880733946
+  }
+ },
+ {
+  "id": "K16-s13",
+  "source_site": 16,
+  "pattern": "s13>0.842",
+  "conditions": [
+   "condition-normalised s13 > 0.842 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.9908256880733946,
+  "support": 109,
+  "quality": 0.9908256880733946,
+  "source_reliability": 0.9908256880733946,
+  "trust": 0.8144605504587157,
+  "trust_components": {
+   "confidence": 0.9908256880733946,
+   "support_score": 0.109,
+   "quality": 0.9908256880733946,
+   "source_reliability": 0.9908256880733946
+  }
+ },
+ {
+  "id": "K16-s14",
+  "source_site": 16,
+  "pattern": "s14>0.562",
+  "conditions": [
+   "condition-normalised s14 > 0.562 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.7981651376146789,
+  "support": 109,
+  "quality": 0.7981651376146789,
+  "source_reliability": 0.7981651376146789,
+  "trust": 0.6603321100917432,
+  "trust_components": {
+   "confidence": 0.7981651376146789,
+   "support_score": 0.109,
+   "quality": 0.7981651376146789,
+   "source_reliability": 0.7981651376146789
+  }
+ },
+ {
+  "id": "K16-s15",
+  "source_site": 16,
+  "pattern": "s15>1.614",
+  "conditions": [
+   "condition-normalised s15 > 1.614 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 109,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8218000000000001,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.109,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K16-s17",
+  "source_site": 16,
+  "pattern": "s17>1.744",
+  "conditions": [
+   "condition-normalised s17 > 1.744 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 109,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8218000000000001,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.109,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K16-s20",
+  "source_site": 16,
+  "pattern": "s20<-1.449",
+  "conditions": [
+   "condition-normalised s20 < -1.449 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.9724770642201835,
+  "support": 109,
+  "quality": 0.9724770642201835,
+  "source_reliability": 0.9724770642201835,
+  "trust": 0.7997816513761469,
+  "trust_components": {
+   "confidence": 0.9724770642201835,
+   "support_score": 0.109,
+   "quality": 0.9724770642201835,
+   "source_reliability": 0.9724770642201835
+  }
+ },
+ {
+  "id": "K16-s21",
+  "source_site": 16,
+  "pattern": "s21<-1.446",
+  "conditions": [
+   "condition-normalised s21 < -1.446 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.944954128440367,
+  "support": 109,
+  "quality": 0.944954128440367,
+  "source_reliability": 0.944954128440367,
+  "trust": 0.7777633027522937,
+  "trust_components": {
+   "confidence": 0.944954128440367,
+   "support_score": 0.109,
+   "quality": 0.944954128440367,
+   "source_reliability": 0.944954128440367
+  }
+ },
+ {
+  "id": "K23-s2",
+  "source_site": 23,
+  "pattern": "s2>1.546",
+  "conditions": [
+   "condition-normalised s2 > 1.546 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.9366197183098591,
+  "support": 142,
+  "quality": 0.9366197183098591,
+  "source_reliability": 0.9366197183098591,
+  "trust": 0.7776957746478873,
+  "trust_components": {
+   "confidence": 0.9366197183098591,
+   "support_score": 0.142,
+   "quality": 0.9366197183098591,
+   "source_reliability": 0.9366197183098591
+  }
+ },
+ {
+  "id": "K23-s3",
+  "source_site": 23,
+  "pattern": "s3>1.692",
+  "conditions": [
+   "condition-normalised s3 > 1.692 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 142,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8284,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.142,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K23-s4",
+  "source_site": 23,
+  "pattern": "s4>1.777",
+  "conditions": [
+   "condition-normalised s4 > 1.777 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.9859154929577465,
+  "support": 142,
+  "quality": 0.9859154929577465,
+  "source_reliability": 0.9859154929577465,
+  "trust": 0.8171323943661972,
+  "trust_components": {
+   "confidence": 0.9859154929577465,
+   "support_score": 0.142,
+   "quality": 0.9859154929577465,
+   "source_reliability": 0.9859154929577465
+  }
+ },
+ {
+  "id": "K23-s7",
+  "source_site": 23,
+  "pattern": "s7>3.515",
+  "conditions": [
+   "condition-normalised s7 > 3.515 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.9859154929577465,
+  "support": 142,
+  "quality": 0.9859154929577465,
+  "source_reliability": 0.9859154929577465,
+  "trust": 0.8171323943661972,
+  "trust_components": {
+   "confidence": 0.9859154929577465,
+   "support_score": 0.142,
+   "quality": 0.9859154929577465,
+   "source_reliability": 0.9859154929577465
+  }
+ },
+ {
+  "id": "K23-s8",
+  "source_site": 23,
+  "pattern": "s8>2.467",
+  "conditions": [
+   "condition-normalised s8 > 2.467 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.9084507042253521,
+  "support": 142,
+  "quality": 0.9084507042253521,
+  "source_reliability": 0.9084507042253521,
+  "trust": 0.7551605633802817,
+  "trust_components": {
+   "confidence": 0.9084507042253521,
+   "support_score": 0.142,
+   "quality": 0.9084507042253521,
+   "source_reliability": 0.9084507042253521
+  }
+ },
+ {
+  "id": "K23-s9",
+  "source_site": 23,
+  "pattern": "s9>2.524",
+  "conditions": [
+   "condition-normalised s9 > 2.524 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.8661971830985915,
+  "support": 142,
+  "quality": 0.8661971830985915,
+  "source_reliability": 0.8661971830985915,
+  "trust": 0.7213577464788732,
+  "trust_components": {
+   "confidence": 0.8661971830985915,
+   "support_score": 0.142,
+   "quality": 0.8661971830985915,
+   "source_reliability": 0.8661971830985915
+  }
+ },
+ {
+  "id": "K23-s11",
+  "source_site": 23,
+  "pattern": "s11>1.907",
+  "conditions": [
+   "condition-normalised s11 > 1.907 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 142,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8284,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.142,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K23-s12",
+  "source_site": 23,
+  "pattern": "s12>3.605",
+  "conditions": [
+   "condition-normalised s12 > 3.605 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 142,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8284,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.142,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K23-s13",
+  "source_site": 23,
+  "pattern": "s13>2.447",
+  "conditions": [
+   "condition-normalised s13 > 2.447 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.9084507042253521,
+  "support": 142,
+  "quality": 0.9084507042253521,
+  "source_reliability": 0.9084507042253521,
+  "trust": 0.7551605633802817,
+  "trust_components": {
+   "confidence": 0.9084507042253521,
+   "support_score": 0.142,
+   "quality": 0.9084507042253521,
+   "source_reliability": 0.9084507042253521
+  }
+ },
+ {
+  "id": "K23-s14",
+  "source_site": 23,
+  "pattern": "s14>2.519",
+  "conditions": [
+   "condition-normalised s14 > 2.519 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.8591549295774648,
+  "support": 142,
+  "quality": 0.8591549295774648,
+  "source_reliability": 0.8591549295774648,
+  "trust": 0.7157239436619718,
+  "trust_components": {
+   "confidence": 0.8591549295774648,
+   "support_score": 0.142,
+   "quality": 0.8591549295774648,
+   "source_reliability": 0.8591549295774648
+  }
+ },
+ {
+  "id": "K23-s15",
+  "source_site": 23,
+  "pattern": "s15<-2.958",
+  "conditions": [
+   "condition-normalised s15 < -2.958 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 142,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8284,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.142,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K23-s17",
+  "source_site": 23,
+  "pattern": "s17>1.692",
+  "conditions": [
+   "condition-normalised s17 > 1.692 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 142,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8284,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.142,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K23-s20",
+  "source_site": 23,
+  "pattern": "s20<-1.284",
+  "conditions": [
+   "condition-normalised s20 < -1.284 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.7605633802816901,
+  "support": 142,
+  "quality": 0.7605633802816901,
+  "source_reliability": 0.7605633802816901,
+  "trust": 0.6368507042253522,
+  "trust_components": {
+   "confidence": 0.7605633802816901,
+   "support_score": 0.142,
+   "quality": 0.7605633802816901,
+   "source_reliability": 0.7605633802816901
+  }
+ },
+ {
+  "id": "K23-s21",
+  "source_site": 23,
+  "pattern": "s21<-1.282",
+  "conditions": [
+   "condition-normalised s21 < -1.282 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.9295774647887324,
+  "support": 142,
+  "quality": 0.9295774647887324,
+  "source_reliability": 0.9295774647887324,
+  "trust": 0.7720619718309859,
+  "trust_components": {
+   "confidence": 0.9295774647887324,
+   "support_score": 0.142,
+   "quality": 0.9295774647887324,
+   "source_reliability": 0.9295774647887324
+  }
+ },
+ {
+  "id": "K12-s2",
+  "source_site": 12,
+  "pattern": "s2>1.823",
+  "conditions": [
+   "condition-normalised s2 > 1.823 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.9203539823008849,
+  "support": 113,
+  "quality": 0.9203539823008849,
+  "source_reliability": 0.9203539823008849,
+  "trust": 0.7588831858407079,
+  "trust_components": {
+   "confidence": 0.9203539823008849,
+   "support_score": 0.113,
+   "quality": 0.9203539823008849,
+   "source_reliability": 0.9203539823008849
+  }
+ },
+ {
+  "id": "K12-s3",
+  "source_site": 12,
+  "pattern": "s3>1.713",
+  "conditions": [
+   "condition-normalised s3 > 1.713 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 113,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8226,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.113,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K12-s4",
+  "source_site": 12,
+  "pattern": "s4>1.960",
+  "conditions": [
+   "condition-normalised s4 > 1.960 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 113,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8226,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.113,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K12-s7",
+  "source_site": 12,
+  "pattern": "s7<-0.883",
+  "conditions": [
+   "condition-normalised s7 < -0.883 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.911504424778761,
+  "support": 113,
+  "quality": 0.911504424778761,
+  "source_reliability": 0.911504424778761,
+  "trust": 0.7518035398230088,
+  "trust_components": {
+   "confidence": 0.911504424778761,
+   "support_score": 0.113,
+   "quality": 0.911504424778761,
+   "source_reliability": 0.911504424778761
+  }
+ },
+ {
+  "id": "K12-s8",
+  "source_site": 12,
+  "pattern": "s8>1.813",
+  "conditions": [
+   "condition-normalised s8 > 1.813 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.8407079646017699,
+  "support": 113,
+  "quality": 0.8407079646017699,
+  "source_reliability": 0.8407079646017699,
+  "trust": 0.6951663716814159,
+  "trust_components": {
+   "confidence": 0.8407079646017699,
+   "support_score": 0.113,
+   "quality": 0.8407079646017699,
+   "source_reliability": 0.8407079646017699
+  }
+ },
+ {
+  "id": "K12-s9",
+  "source_site": 12,
+  "pattern": "s9>2.361",
+  "conditions": [
+   "condition-normalised s9 > 2.361 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.7964601769911505,
+  "support": 113,
+  "quality": 0.7964601769911505,
+  "source_reliability": 0.7964601769911505,
+  "trust": 0.6597681415929204,
+  "trust_components": {
+   "confidence": 0.7964601769911505,
+   "support_score": 0.113,
+   "quality": 0.7964601769911505,
+   "source_reliability": 0.7964601769911505
+  }
+ },
+ {
+  "id": "K12-s11",
+  "source_site": 12,
+  "pattern": "s11>2.054",
+  "conditions": [
+   "condition-normalised s11 > 2.054 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 113,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8226,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.113,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K12-s12",
+  "source_site": 12,
+  "pattern": "s12<-0.834",
+  "conditions": [
+   "condition-normalised s12 < -0.834 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.9646017699115044,
+  "support": 113,
+  "quality": 0.9646017699115044,
+  "source_reliability": 0.9646017699115044,
+  "trust": 0.7942814159292035,
+  "trust_components": {
+   "confidence": 0.9646017699115044,
+   "support_score": 0.113,
+   "quality": 0.9646017699115044,
+   "source_reliability": 0.9646017699115044
+  }
+ },
+ {
+  "id": "K12-s13",
+  "source_site": 12,
+  "pattern": "s13>1.850",
+  "conditions": [
+   "condition-normalised s13 > 1.850 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.831858407079646,
+  "support": 113,
+  "quality": 0.831858407079646,
+  "source_reliability": 0.831858407079646,
+  "trust": 0.6880867256637168,
+  "trust_components": {
+   "confidence": 0.831858407079646,
+   "support_score": 0.113,
+   "quality": 0.831858407079646,
+   "source_reliability": 0.831858407079646
+  }
+ },
+ {
+  "id": "K12-s14",
+  "source_site": 12,
+  "pattern": "s14>2.291",
+  "conditions": [
+   "condition-normalised s14 > 2.291 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.7522123893805309,
+  "support": 113,
+  "quality": 0.7522123893805309,
+  "source_reliability": 0.7522123893805309,
+  "trust": 0.6243699115044248,
+  "trust_components": {
+   "confidence": 0.7522123893805309,
+   "support_score": 0.113,
+   "quality": 0.7522123893805309,
+   "source_reliability": 0.7522123893805309
+  }
+ },
+ {
+  "id": "K12-s15",
+  "source_site": 12,
+  "pattern": "s15>1.627",
+  "conditions": [
+   "condition-normalised s15 > 1.627 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 113,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8226,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.113,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K12-s17",
+  "source_site": 12,
+  "pattern": "s17>1.779",
+  "conditions": [
+   "condition-normalised s17 > 1.779 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 113,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8226,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.113,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K12-s20",
+  "source_site": 12,
+  "pattern": "s20<-1.455",
+  "conditions": [
+   "condition-normalised s20 < -1.455 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.9469026548672567,
+  "support": 113,
+  "quality": 0.9469026548672567,
+  "source_reliability": 0.9469026548672567,
+  "trust": 0.7801221238938053,
+  "trust_components": {
+   "confidence": 0.9469026548672567,
+   "support_score": 0.113,
+   "quality": 0.9469026548672567,
+   "source_reliability": 0.9469026548672567
+  }
+ },
+ {
+  "id": "K12-s21",
+  "source_site": 12,
+  "pattern": "s21<-1.503",
+  "conditions": [
+   "condition-normalised s21 < -1.503 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.9734513274336283,
+  "support": 113,
+  "quality": 0.9734513274336283,
+  "source_reliability": 0.9734513274336283,
+  "trust": 0.8013610619469026,
+  "trust_components": {
+   "confidence": 0.9734513274336283,
+   "support_score": 0.113,
+   "quality": 0.9734513274336283,
+   "source_reliability": 0.9734513274336283
+  }
+ },
+ {
+  "id": "K32-s2",
+  "source_site": 32,
+  "pattern": "s2>1.574",
+  "conditions": [
+   "condition-normalised s2 > 1.574 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.9841269841269841,
+  "support": 126,
+  "quality": 0.9841269841269841,
+  "source_reliability": 0.9841269841269841,
+  "trust": 0.8125015873015873,
+  "trust_components": {
+   "confidence": 0.9841269841269841,
+   "support_score": 0.126,
+   "quality": 0.9841269841269841,
+   "source_reliability": 0.9841269841269841
+  }
+ },
+ {
+  "id": "K32-s3",
+  "source_site": 32,
+  "pattern": "s3>1.629",
+  "conditions": [
+   "condition-normalised s3 > 1.629 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 126,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8252,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.126,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K32-s4",
+  "source_site": 32,
+  "pattern": "s4>1.741",
+  "conditions": [
+   "condition-normalised s4 > 1.741 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.9841269841269841,
+  "support": 126,
+  "quality": 0.9841269841269841,
+  "source_reliability": 0.9841269841269841,
+  "trust": 0.8125015873015873,
+  "trust_components": {
+   "confidence": 0.9841269841269841,
+   "support_score": 0.126,
+   "quality": 0.9841269841269841,
+   "source_reliability": 0.9841269841269841
+  }
+ },
+ {
+  "id": "K32-s7",
+  "source_site": 32,
+  "pattern": "s7>3.746",
+  "conditions": [
+   "condition-normalised s7 > 3.746 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.9841269841269841,
+  "support": 126,
+  "quality": 0.9841269841269841,
+  "source_reliability": 0.9841269841269841,
+  "trust": 0.8125015873015873,
+  "trust_components": {
+   "confidence": 0.9841269841269841,
+   "support_score": 0.126,
+   "quality": 0.9841269841269841,
+   "source_reliability": 0.9841269841269841
+  }
+ },
+ {
+  "id": "K32-s8",
+  "source_site": 32,
+  "pattern": "s8>2.215",
+  "conditions": [
+   "condition-normalised s8 > 2.215 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.9523809523809523,
+  "support": 126,
+  "quality": 0.9523809523809523,
+  "source_reliability": 0.9523809523809523,
+  "trust": 0.7871047619047619,
+  "trust_components": {
+   "confidence": 0.9523809523809523,
+   "support_score": 0.126,
+   "quality": 0.9523809523809523,
+   "source_reliability": 0.9523809523809523
+  }
+ },
+ {
+  "id": "K32-s9",
+  "source_site": 32,
+  "pattern": "s9>2.529",
+  "conditions": [
+   "condition-normalised s9 > 2.529 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 126,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8252,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.126,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K32-s11",
+  "source_site": 32,
+  "pattern": "s11>1.854",
+  "conditions": [
+   "condition-normalised s11 > 1.854 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 126,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8252,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.126,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K32-s12",
+  "source_site": 32,
+  "pattern": "s12>3.780",
+  "conditions": [
+   "condition-normalised s12 > 3.780 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 126,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8252,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.126,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K32-s13",
+  "source_site": 32,
+  "pattern": "s13>2.224",
+  "conditions": [
+   "condition-normalised s13 > 2.224 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.9682539682539683,
+  "support": 126,
+  "quality": 0.9682539682539683,
+  "source_reliability": 0.9682539682539683,
+  "trust": 0.7998031746031746,
+  "trust_components": {
+   "confidence": 0.9682539682539683,
+   "support_score": 0.126,
+   "quality": 0.9682539682539683,
+   "source_reliability": 0.9682539682539683
+  }
+ },
+ {
+  "id": "K32-s14",
+  "source_site": 32,
+  "pattern": "s14>2.515",
+  "conditions": [
+   "condition-normalised s14 > 2.515 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 126,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8252,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.126,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K32-s15",
+  "source_site": 32,
+  "pattern": "s15<-3.058",
+  "conditions": [
+   "condition-normalised s15 < -3.058 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.9761904761904762,
+  "support": 126,
+  "quality": 0.9761904761904762,
+  "source_reliability": 0.9761904761904762,
+  "trust": 0.806152380952381,
+  "trust_components": {
+   "confidence": 0.9761904761904762,
+   "support_score": 0.126,
+   "quality": 0.9761904761904762,
+   "source_reliability": 0.9761904761904762
+  }
+ },
+ {
+  "id": "K32-s17",
+  "source_site": 32,
+  "pattern": "s17>1.750",
+  "conditions": [
+   "condition-normalised s17 > 1.750 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.9761904761904762,
+  "support": 126,
+  "quality": 0.9761904761904762,
+  "source_reliability": 0.9761904761904762,
+  "trust": 0.806152380952381,
+  "trust_components": {
+   "confidence": 0.9761904761904762,
+   "support_score": 0.126,
+   "quality": 0.9761904761904762,
+   "source_reliability": 0.9761904761904762
+  }
+ },
+ {
+  "id": "K32-s20",
+  "source_site": 32,
+  "pattern": "s20>1.927",
+  "conditions": [
+   "condition-normalised s20 > 1.927 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.873015873015873,
+  "support": 126,
+  "quality": 0.873015873015873,
+  "source_reliability": 0.873015873015873,
+  "trust": 0.7236126984126985,
+  "trust_components": {
+   "confidence": 0.873015873015873,
+   "support_score": 0.126,
+   "quality": 0.873015873015873,
+   "source_reliability": 0.873015873015873
+  }
+ },
+ {
+  "id": "K32-s21",
+  "source_site": 32,
+  "pattern": "s21>1.952",
+  "conditions": [
+   "condition-normalised s21 > 1.952 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.8968253968253969,
+  "support": 126,
+  "quality": 0.8968253968253969,
+  "source_reliability": 0.8968253968253969,
+  "trust": 0.7426603174603176,
+  "trust_components": {
+   "confidence": 0.8968253968253969,
+   "support_score": 0.126,
+   "quality": 0.8968253968253969,
+   "source_reliability": 0.8968253968253969
+  }
+ },
+ {
+  "id": "K13-s2",
+  "source_site": 13,
+  "pattern": "s2>1.884",
+  "conditions": [
+   "condition-normalised s2 > 1.884 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 98,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8196,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.098,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K13-s3",
+  "source_site": 13,
+  "pattern": "s3>1.736",
+  "conditions": [
+   "condition-normalised s3 > 1.736 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 98,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8196,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.098,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K13-s4",
+  "source_site": 13,
+  "pattern": "s4>1.980",
+  "conditions": [
+   "condition-normalised s4 > 1.980 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 98,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8196,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.098,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K13-s7",
+  "source_site": 13,
+  "pattern": "s7<-0.872",
+  "conditions": [
+   "condition-normalised s7 < -0.872 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.9591836734693877,
+  "support": 98,
+  "quality": 0.9591836734693877,
+  "source_reliability": 0.9591836734693877,
+  "trust": 0.7869469387755101,
+  "trust_components": {
+   "confidence": 0.9591836734693877,
+   "support_score": 0.098,
+   "quality": 0.9591836734693877,
+   "source_reliability": 0.9591836734693877
+  }
+ },
+ {
+  "id": "K13-s8",
+  "source_site": 13,
+  "pattern": "s8>2.501",
+  "conditions": [
+   "condition-normalised s8 > 2.501 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.9795918367346939,
+  "support": 98,
+  "quality": 0.9795918367346939,
+  "source_reliability": 0.9795918367346939,
+  "trust": 0.8032734693877551,
+  "trust_components": {
+   "confidence": 0.9795918367346939,
+   "support_score": 0.098,
+   "quality": 0.9795918367346939,
+   "source_reliability": 0.9795918367346939
+  }
+ },
+ {
+  "id": "K13-s9",
+  "source_site": 13,
+  "pattern": "s9>3.169",
+  "conditions": [
+   "condition-normalised s9 > 3.169 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.9795918367346939,
+  "support": 98,
+  "quality": 0.9795918367346939,
+  "source_reliability": 0.9795918367346939,
+  "trust": 0.8032734693877551,
+  "trust_components": {
+   "confidence": 0.9795918367346939,
+   "support_score": 0.098,
+   "quality": 0.9795918367346939,
+   "source_reliability": 0.9795918367346939
+  }
+ },
+ {
+  "id": "K13-s11",
+  "source_site": 13,
+  "pattern": "s11>2.002",
+  "conditions": [
+   "condition-normalised s11 > 2.002 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 98,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8196,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.098,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K13-s12",
+  "source_site": 13,
+  "pattern": "s12<-0.797",
+  "conditions": [
+   "condition-normalised s12 < -0.797 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.9489795918367347,
+  "support": 98,
+  "quality": 0.9489795918367347,
+  "source_reliability": 0.9489795918367347,
+  "trust": 0.7787836734693878,
+  "trust_components": {
+   "confidence": 0.9489795918367347,
+   "support_score": 0.098,
+   "quality": 0.9489795918367347,
+   "source_reliability": 0.9489795918367347
+  }
+ },
+ {
+  "id": "K13-s13",
+  "source_site": 13,
+  "pattern": "s13>2.498",
+  "conditions": [
+   "condition-normalised s13 > 2.498 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.9897959183673469,
+  "support": 98,
+  "quality": 0.9897959183673469,
+  "source_reliability": 0.9897959183673469,
+  "trust": 0.8114367346938776,
+  "trust_components": {
+   "confidence": 0.9897959183673469,
+   "support_score": 0.098,
+   "quality": 0.9897959183673469,
+   "source_reliability": 0.9897959183673469
+  }
+ },
+ {
+  "id": "K13-s14",
+  "source_site": 13,
+  "pattern": "s14>2.994",
+  "conditions": [
+   "condition-normalised s14 > 2.994 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.9693877551020408,
+  "support": 98,
+  "quality": 0.9693877551020408,
+  "source_reliability": 0.9693877551020408,
+  "trust": 0.7951102040816326,
+  "trust_components": {
+   "confidence": 0.9693877551020408,
+   "support_score": 0.098,
+   "quality": 0.9693877551020408,
+   "source_reliability": 0.9693877551020408
+  }
+ },
+ {
+  "id": "K13-s15",
+  "source_site": 13,
+  "pattern": "s15>1.632",
+  "conditions": [
+   "condition-normalised s15 > 1.632 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 1.0,
+  "support": 98,
+  "quality": 1.0,
+  "source_reliability": 1.0,
+  "trust": 0.8196,
+  "trust_components": {
+   "confidence": 1.0,
+   "support_score": 0.098,
+   "quality": 1.0,
+   "source_reliability": 1.0
+  }
+ },
+ {
+  "id": "K13-s17",
+  "source_site": 13,
+  "pattern": "s17>1.724",
+  "conditions": [
+   "condition-normalised s17 > 1.724 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.9795918367346939,
+  "support": 98,
+  "quality": 0.9795918367346939,
+  "source_reliability": 0.9795918367346939,
+  "trust": 0.8032734693877551,
+  "trust_components": {
+   "confidence": 0.9795918367346939,
+   "support_score": 0.098,
+   "quality": 0.9795918367346939,
+   "source_reliability": 0.9795918367346939
+  }
+ },
+ {
+  "id": "K13-s20",
+  "source_site": 13,
+  "pattern": "s20<-1.437",
+  "conditions": [
+   "condition-normalised s20 < -1.437 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.9387755102040817,
+  "support": 98,
+  "quality": 0.9387755102040817,
+  "source_reliability": 0.9387755102040817,
+  "trust": 0.7706204081632654,
+  "trust_components": {
+   "confidence": 0.9387755102040817,
+   "support_score": 0.098,
+   "quality": 0.9387755102040817,
+   "source_reliability": 0.9387755102040817
+  }
+ },
+ {
+  "id": "K13-s21",
+  "source_site": 13,
+  "pattern": "s21<-1.426",
+  "conditions": [
+   "condition-normalised s21 < -1.426 (5-cycle mean)"
+  ],
+  "outcome": "failure within 30 cycles",
+  "confidence": 0.9795918367346939,
+  "support": 98,
+  "quality": 0.9795918367346939,
+  "source_reliability": 0.9795918367346939,
+  "trust": 0.8032734693877551,
+  "trust_components": {
+   "confidence": 0.9795918367346939,
+   "support_score": 0.098,
+   "quality": 0.9795918367346939,
+   "source_reliability": 0.9795918367346939
+  }
+ }
+]

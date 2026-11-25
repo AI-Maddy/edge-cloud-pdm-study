@@ -1,0 +1,880 @@
+{
+ "0": {
+  "history": [
+   {
+    "round": 1,
+    "val_rmse": 51.31904220581055,
+    "model_energy": 7.242877960205078,
+    "client_drift": 0.250432836157935,
+    "cluster_energy": 0.0,
+    "knowledge_energy": 0.0,
+    "quality": -51.31904220581055
+   },
+   {
+    "round": 2,
+    "val_rmse": 38.44934844970703,
+    "model_energy": 0.3844420313835144,
+    "client_drift": 0.291676161970411,
+    "cluster_energy": 0.0,
+    "knowledge_energy": 0.0,
+    "quality": -38.44934844970703
+   },
+   {
+    "round": 3,
+    "val_rmse": 36.11549377441406,
+    "model_energy": 0.11335091292858124,
+    "client_drift": 0.2231921740940639,
+    "cluster_energy": 0.0,
+    "knowledge_energy": 0.0,
+    "quality": -36.11549377441406
+   },
+   {
+    "round": 4,
+    "val_rmse": 31.805919647216797,
+    "model_energy": 0.10259266942739487,
+    "client_drift": 0.1580975015248571,
+    "cluster_energy": 0.0,
+    "knowledge_energy": 0.0,
+    "quality": -31.805919647216797
+   },
+   {
+    "round": 5,
+    "val_rmse": 29.73843002319336,
+    "model_energy": 0.05741158872842789,
+    "client_drift": 0.10968396940401622,
+    "cluster_energy": 0.0,
+    "knowledge_energy": 0.0,
+    "quality": -29.73843002319336
+   },
+   {
+    "round": 6,
+    "val_rmse": 28.020910263061523,
+    "model_energy": 0.03619133308529854,
+    "client_drift": 0.08839205514107432,
+    "cluster_energy": 0.0,
+    "knowledge_energy": 0.0,
+    "quality": -28.020910263061523
+   },
+   {
+    "round": 7,
+    "val_rmse": 26.948650360107422,
+    "model_energy": 0.030458567664027214,
+    "client_drift": 0.07559249422379903,
+    "cluster_energy": 0.0,
+    "knowledge_energy": 0.0,
+    "quality": -26.948650360107422
+   },
+   {
+    "round": 8,
+    "val_rmse": 26.125673294067383,
+    "model_energy": 0.033615924417972565,
+    "client_drift": 0.07869168977652277,
+    "cluster_energy": 0.0,
+    "knowledge_energy": 0.0,
+    "quality": -26.125673294067383
+   },
+   {
+    "round": 9,
+    "val_rmse": 24.862943649291992,
+    "model_energy": 0.05594281479716301,
+    "client_drift": 0.07951472593205315,
+    "cluster_energy": 0.0,
+    "knowledge_energy": 0.0,
+    "quality": -24.862943649291992
+   },
+   {
+    "round": 10,
+    "val_rmse": 24.09541130065918,
+    "model_energy": 0.0500490702688694,
+    "client_drift": 0.0822577855948891,
+    "cluster_energy": 0.0,
+    "knowledge_energy": 0.0,
+    "quality": -24.09541130065918
+   },
+   {
+    "round": 11,
+    "val_rmse": 23.250831604003906,
+    "model_energy": 0.048243843019008636,
+    "client_drift": 0.08181134568793433,
+    "cluster_energy": 0.0,
+    "knowledge_energy": 0.0,
+    "quality": -23.250831604003906
+   },
+   {
+    "round": 12,
+    "val_rmse": 22.84366798400879,
+    "model_energy": 0.027264228090643883,
+    "client_drift": 0.07379371438707624,
+    "cluster_energy": 0.0,
+    "knowledge_energy": 0.0,
+    "quality": -22.84366798400879
+   },
+   {
+    "round": 13,
+    "val_rmse": 22.512645721435547,
+    "model_energy": 0.014292066916823387,
+    "client_drift": 0.056236486456223894,
+    "cluster_energy": 0.0,
+    "knowledge_energy": 0.0,
+    "quality": -22.512645721435547
+   },
+   {
+    "round": 14,
+    "val_rmse": 22.550649642944336,
+    "model_energy": 0.013627355918288231,
+    "client_drift": 0.06570924121354307,
+    "cluster_energy": 0.0,
+    "knowledge_energy": 0.0,
+    "quality": -22.550649642944336
+   },
+   {
+    "round": 15,
+    "val_rmse": 22.516477584838867,
+    "model_energy": 0.01036074198782444,
+    "client_drift": 0.05741962976753712,
+    "cluster_energy": 0.0,
+    "knowledge_energy": 0.0,
+    "quality": -22.516477584838867
+   },
+   {
+    "round": 16,
+    "val_rmse": 22.083267211914062,
+    "model_energy": 0.011881948448717594,
+    "client_drift": 0.06549197669540133,
+    "cluster_energy": 0.0,
+    "knowledge_energy": 0.0,
+    "quality": -22.083267211914062
+   },
+   {
+    "round": 17,
+    "val_rmse": 21.963651657104492,
+    "model_energy": 0.01044833566993475,
+    "client_drift": 0.06750383552696024,
+    "cluster_energy": 0.0,
+    "knowledge_energy": 0.0,
+    "quality": -21.963651657104492
+   },
+   {
+    "round": 18,
+    "val_rmse": 21.828126907348633,
+    "model_energy": 0.008747866377234459,
+    "client_drift": 0.06079692462725299,
+    "cluster_energy": 0.0,
+    "knowledge_energy": 0.0,
+    "quality": -21.828126907348633
+   },
+   {
+    "round": 19,
+    "val_rmse": 21.689077377319336,
+    "model_energy": 0.007860058918595314,
+    "client_drift": 0.0648836256137916,
+    "cluster_energy": 0.0,
+    "knowledge_energy": 0.0,
+    "quality": -21.689077377319336
+   },
+   {
+    "round": 20,
+    "val_rmse": 21.4635066986084,
+    "model_energy": 0.008458839729428291,
+    "client_drift": 0.07369953654706478,
+    "cluster_energy": 0.0,
+    "knowledge_energy": 0.0,
+    "quality": -21.4635066986084
+   },
+   {
+    "round": 21,
+    "val_rmse": 21.111196517944336,
+    "model_energy": 0.008229109458625317,
+    "client_drift": 0.07603407688438893,
+    "cluster_energy": 0.0,
+    "knowledge_energy": 0.0,
+    "quality": -21.111196517944336
+   },
+   {
+    "round": 22,
+    "val_rmse": 21.054737091064453,
+    "model_energy": 0.008506761863827705,
+    "client_drift": 0.0745489453630788,
+    "cluster_energy": 0.0,
+    "knowledge_energy": 0.0,
+    "quality": -21.054737091064453
+   },
+   {
+    "round": 23,
+    "val_rmse": 21.08655548095703,
+    "model_energy": 0.00793540570884943,
+    "client_drift": 0.07279803311186177,
+    "cluster_energy": 0.0,
+    "knowledge_energy": 0.0,
+    "quality": -21.08655548095703
+   },
+   {
+    "round": 24,
+    "val_rmse": 20.807371139526367,
+    "model_energy": 0.00717996247112751,
+    "client_drift": 0.07425754597144467,
+    "cluster_energy": 0.0,
+    "knowledge_energy": 0.0,
+    "quality": -20.807371139526367
+   },
+   {
+    "round": 25,
+    "val_rmse": 20.804365158081055,
+    "model_energy": 0.008498632349073887,
+    "client_drift": 0.07353862481457847,
+    "cluster_energy": 0.0,
+    "knowledge_energy": 0.0,
+    "quality": -20.804365158081055
+   },
+   {
+    "round": 26,
+    "val_rmse": 20.70154571533203,
+    "model_energy": 0.00718344934284687,
+    "client_drift": 0.0775558384933642,
+    "cluster_energy": 0.0,
+    "knowledge_energy": 0.0,
+    "quality": -20.70154571533203
+   },
+   {
+    "round": 27,
+    "val_rmse": 20.642959594726562,
+    "model_energy": 0.005671778693795204,
+    "client_drift": 0.07253611071833542,
+    "cluster_energy": 0.0,
+    "knowledge_energy": 0.0,
+    "quality": -20.642959594726562
+   },
+   {
+    "round": 28,
+    "val_rmse": 20.713394165039062,
+    "model_energy": 0.006386022083461285,
+    "client_drift": 0.08029116817883082,
+    "cluster_energy": 0.0,
+    "knowledge_energy": 0.0,
+    "quality": -20.713394165039062
+   },
+   {
+    "round": 29,
+    "val_rmse": 20.485795974731445,
+    "model_energy": 0.007663562893867493,
+    "client_drift": 0.08429167079074042,
+    "cluster_energy": 0.0,
+    "knowledge_energy": 0.0,
+    "quality": -20.485795974731445
+   },
+   {
+    "round": 30,
+    "val_rmse": 20.315452575683594,
+    "model_energy": 0.005242898128926754,
+    "client_drift": 0.08131247168140752,
+    "cluster_energy": 0.0,
+    "knowledge_energy": 0.0,
+    "quality": -20.315452575683594
+   },
+   {
+    "round": 31,
+    "val_rmse": 20.282108306884766,
+    "model_energy": 0.006732480134814978,
+    "client_drift": 0.07535191236862114,
+    "cluster_energy": 0.0,
+    "knowledge_energy": 0.0,
+    "quality": -20.282108306884766
+   },
+   {
+    "round": 32,
+    "val_rmse": 20.261253356933594,
+    "model_energy": 0.008269681595265865,
+    "client_drift": 0.08300091592328888,
+    "cluster_energy": 0.0,
+    "knowledge_energy": 0.0,
+    "quality": -20.261253356933594
+   },
+   {
+    "round": 33,
+    "val_rmse": 20.120689392089844,
+    "model_energy": 0.007569802459329367,
+    "client_drift": 0.08988952881523542,
+    "cluster_energy": 0.0,
+    "knowledge_energy": 0.0,
+    "quality": -20.120689392089844
+   },
+   {
+    "round": 34,
+    "val_rmse": 20.074291229248047,
+    "model_energy": 0.010037445463240147,
+    "client_drift": 0.09543594824416297,
+    "cluster_energy": 0.0,
+    "knowledge_energy": 0.0,
+    "quality": -20.074291229248047
+   },
+   {
+    "round": 35,
+    "val_rmse": 20.102317810058594,
+    "model_energy": 0.009068873710930347,
+    "client_drift": 0.10689395431961332,
+    "cluster_energy": 0.0,
+    "knowledge_energy": 0.0,
+    "quality": -20.102317810058594
+   },
+   {
+    "round": 36,
+    "val_rmse": 20.129743576049805,
+    "model_energy": 0.0078103565610945225,
+    "client_drift": 0.10603116814579283,
+    "cluster_energy": 0.0,
+    "knowledge_energy": 0.0,
+    "quality": -20.129743576049805
+   },
+   {
+    "round": 37,
+    "val_rmse": 19.890830993652344,
+    "model_energy": 0.00682943407446146,
+    "client_drift": 0.11449069061449596,
+    "cluster_energy": 0.0,
+    "knowledge_energy": 0.0,
+    "quality": -19.890830993652344
+   },
+   {
+    "round": 38,
+    "val_rmse": 19.816640853881836,
+    "model_energy": 0.009182204492390156,
+    "client_drift": 0.11280456994261061,
+    "cluster_energy": 0.0,
+    "knowledge_energy": 0.0,
+    "quality": -19.816640853881836
+   },
+   {
+    "round": 39,
+    "val_rmse": 19.859468460083008,
+    "model_energy": 0.00904159527271986,
+    "client_drift": 0.1162721583885806,
+    "cluster_energy": 0.0,
+    "knowledge_energy": 0.0,
+    "quality": -19.859468460083008
+   },
+   {
+    "round": 40,
+    "val_rmse": 19.647123336791992,
+    "model_energy": 0.007355889305472374,
+    "client_drift": 0.10275575241872242,
+    "cluster_energy": 0.0,
+    "knowledge_energy": 0.0,
+    "quality": -19.647123336791992
+   }
+  ],
+  "repo_stability_last20": {
+   "energy": [
+    0.008229109458625317,
+    0.008506761863827705,
+    0.00793540570884943,
+    0.00717996247112751,
+    0.008498632349073887,
+    0.00718344934284687,
+    0.005671778693795204,
+    0.006386022083461285,
+    0.007663562893867493,
+    0.005242898128926754,
+    0.006732480134814978,
+    0.008269681595265865,
+    0.007569802459329367,
+    0.010037445463240147,
+    0.009068873710930347,
+    0.0078103565610945225,
+    0.00682943407446146,
+    0.009182204492390156,
+    0.00904159527271986,
+    0.007355889305472374
+   ],
+   "energy_delta": [
+    0.00027765240520238876,
+    -0.0005713561549782753,
+    -0.00075544323772192,
+    0.0013186698779463768,
+    -0.0013151830062270164,
+    -0.0015116706490516663,
+    0.0007142433896660805,
+    0.001277540810406208,
+    -0.0024206647649407387,
+    0.0014895820058882236,
+    0.0015372014604508877,
+    -0.0006998791359364986,
+    0.00246764300391078,
+    -0.0009685717523097992,
+    -0.001258517149835825,
+    -0.0009809224866330624,
+    0.0023527704179286957,
+    -0.00014060921967029572,
+    -0.0016857059672474861
+   ],
+   "quality_delta": [
+    0.05645942687988281,
+    -0.031818389892578125,
+    0.27918434143066406,
+    0.0030059814453125,
+    0.10281944274902344,
+    0.05858612060546875,
+    -0.0704345703125,
+    0.2275981903076172,
+    0.17034339904785156,
+    0.033344268798828125,
+    0.020854949951171875,
+    0.14056396484375,
+    0.046398162841796875,
+    -0.028026580810546875,
+    -0.027425765991210938,
+    0.23891258239746094,
+    0.07419013977050781,
+    -0.042827606201171875,
+    0.21234512329101562
+   ],
+   "nonincreasing_energy_observed": true,
+   "quality_floor_preserved": false,
+   "stability_proven": false
+  },
+  "T1": true,
+  "rounds_with_rmse_increase_gt1pct": 0,
+  "T2": true,
+  "T3": false,
+  "drift_first10": 0.14375313938196216,
+  "drift_last10": 0.10029265991811243
+ },
+ "1": {
+  "history": [
+   {
+    "round": 1,
+    "val_rmse": 51.77278137207031,
+    "model_energy": 6.99597692489624,
+    "client_drift": 0.30375311970710756,
+    "cluster_energy": 0.0,
+    "knowledge_energy": 0.0,
+    "quality": -51.77278137207031
+   },
+   {
+    "round": 2,
+    "val_rmse": 39.2630500793457,
+    "model_energy": 0.36385130882263184,
+    "client_drift": 0.33316804468631744,
+    "cluster_energy": 0.0,
+    "knowledge_energy": 0.0,
+    "quality": -39.2630500793457
+   },
+   {
+    "round": 3,
+    "val_rmse": 35.64390563964844,
+    "model_energy": 0.1596510112285614,
+    "client_drift": 0.24736754042761666,
+    "cluster_energy": 0.0,
+    "knowledge_energy": 0.0,
+    "quality": -35.64390563964844
+   },
+   {
+    "round": 4,
+    "val_rmse": 32.515830993652344,
+    "model_energy": 0.10869794338941574,
+    "client_drift": 0.18591392380850655,
+    "cluster_energy": 0.0,
+    "knowledge_energy": 0.0,
+    "quality": -32.515830993652344
+   },
+   {
+    "round": 5,
+    "val_rmse": 30.11052703857422,
+    "model_energy": 0.0659162849187851,
+    "client_drift": 0.11889554283448628,
+    "cluster_energy": 0.0,
+    "knowledge_energy": 0.0,
+    "quality": -30.11052703857422
+   },
+   {
+    "round": 6,
+    "val_rmse": 28.120485305786133,
+    "model_energy": 0.05571093037724495,
+    "client_drift": 0.09392283803650311,
+    "cluster_energy": 0.0,
+    "knowledge_energy": 0.0,
+    "quality": -28.120485305786133
+   },
+   {
+    "round": 7,
+    "val_rmse": 27.18330192565918,
+    "model_energy": 0.03421900048851967,
+    "client_drift": 0.07035930018339838,
+    "cluster_energy": 0.0,
+    "knowledge_energy": 0.0,
+    "quality": -27.18330192565918
+   },
+   {
+    "round": 8,
+    "val_rmse": 26.63416290283203,
+    "model_energy": 0.032098133116960526,
+    "client_drift": 0.06975920775106975,
+    "cluster_energy": 0.0,
+    "knowledge_energy": 0.0,
+    "quality": -26.63416290283203
+   },
+   {
+    "round": 9,
+    "val_rmse": 25.967771530151367,
+    "model_energy": 0.039853379130363464,
+    "client_drift": 0.07525756476180893,
+    "cluster_energy": 0.0,
+    "knowledge_energy": 0.0,
+    "quality": -25.967771530151367
+   },
+   {
+    "round": 10,
+    "val_rmse": 24.319114685058594,
+    "model_energy": 0.09355415403842926,
+    "client_drift": 0.10138106644153595,
+    "cluster_energy": 0.0,
+    "knowledge_energy": 0.0,
+    "quality": -24.319114685058594
+   },
+   {
+    "round": 11,
+    "val_rmse": 23.043378829956055,
+    "model_energy": 0.08614639937877655,
+    "client_drift": 0.09112218852554049,
+    "cluster_energy": 0.0,
+    "knowledge_energy": 0.0,
+    "quality": -23.043378829956055
+   },
+   {
+    "round": 12,
+    "val_rmse": 22.518741607666016,
+    "model_energy": 0.03213458135724068,
+    "client_drift": 0.09217820156897817,
+    "cluster_energy": 0.0,
+    "knowledge_energy": 0.0,
+    "quality": -22.518741607666016
+   },
+   {
+    "round": 13,
+    "val_rmse": 22.483604431152344,
+    "model_energy": 0.017479773610830307,
+    "client_drift": 0.09327473704304014,
+    "cluster_energy": 0.0,
+    "knowledge_energy": 0.0,
+    "quality": -22.483604431152344
+   },
+   {
+    "round": 14,
+    "val_rmse": 22.312124252319336,
+    "model_energy": 0.017052214592695236,
+    "client_drift": 0.10393049897892134,
+    "cluster_energy": 0.0,
+    "knowledge_energy": 0.0,
+    "quality": -22.312124252319336
+   },
+   {
+    "round": 15,
+    "val_rmse": 22.157352447509766,
+    "model_energy": 0.016342943534255028,
+    "client_drift": 0.11352161765098571,
+    "cluster_energy": 0.0,
+    "knowledge_energy": 0.0,
+    "quality": -22.157352447509766
+   },
+   {
+    "round": 16,
+    "val_rmse": 21.86164665222168,
+    "model_energy": 0.018305595964193344,
+    "client_drift": 0.11436054440481322,
+    "cluster_energy": 0.0,
+    "knowledge_energy": 0.0,
+    "quality": -21.86164665222168
+   },
+   {
+    "round": 17,
+    "val_rmse": 21.739395141601562,
+    "model_energy": 0.019900476559996605,
+    "client_drift": 0.10561306199857166,
+    "cluster_energy": 0.0,
+    "knowledge_energy": 0.0,
+    "quality": -21.739395141601562
+   },
+   {
+    "round": 18,
+    "val_rmse": 21.647342681884766,
+    "model_energy": 0.020104531198740005,
+    "client_drift": 0.10393197227801595,
+    "cluster_energy": 0.0,
+    "knowledge_energy": 0.0,
+    "quality": -21.647342681884766
+   },
+   {
+    "round": 19,
+    "val_rmse": 21.70609474182129,
+    "model_energy": 0.014556648209691048,
+    "client_drift": 0.12542777519140924,
+    "cluster_energy": 0.0,
+    "knowledge_energy": 0.0,
+    "quality": -21.70609474182129
+   },
+   {
+    "round": 20,
+    "val_rmse": 21.347564697265625,
+    "model_energy": 0.014328746125102043,
+    "client_drift": 0.12010549243007387,
+    "cluster_energy": 0.0,
+    "knowledge_energy": 0.0,
+    "quality": -21.347564697265625
+   },
+   {
+    "round": 21,
+    "val_rmse": 21.231769561767578,
+    "model_energy": 0.015318691730499268,
+    "client_drift": 0.12747386278850692,
+    "cluster_energy": 0.0,
+    "knowledge_energy": 0.0,
+    "quality": -21.231769561767578
+   },
+   {
+    "round": 22,
+    "val_rmse": 21.05097007751465,
+    "model_energy": 0.018609803169965744,
+    "client_drift": 0.13682413239564215,
+    "cluster_energy": 0.0,
+    "knowledge_energy": 0.0,
+    "quality": -21.05097007751465
+   },
+   {
+    "round": 23,
+    "val_rmse": 20.774471282958984,
+    "model_energy": 0.015441051684319973,
+    "client_drift": 0.1196164434509618,
+    "cluster_energy": 0.0,
+    "knowledge_energy": 0.0,
+    "quality": -20.774471282958984
+   },
+   {
+    "round": 24,
+    "val_rmse": 20.80187225341797,
+    "model_energy": 0.019408155232667923,
+    "client_drift": 0.13475921154022216,
+    "cluster_energy": 0.0,
+    "knowledge_energy": 0.0,
+    "quality": -20.80187225341797
+   },
+   {
+    "round": 25,
+    "val_rmse": 20.631145477294922,
+    "model_energy": 0.021031979471445084,
+    "client_drift": 0.13617701732686588,
+    "cluster_energy": 0.0,
+    "knowledge_energy": 0.0,
+    "quality": -20.631145477294922
+   },
+   {
+    "round": 26,
+    "val_rmse": 20.373891830444336,
+    "model_energy": 0.017689455300569534,
+    "client_drift": 0.1333742757993085,
+    "cluster_energy": 0.0,
+    "knowledge_energy": 0.0,
+    "quality": -20.373891830444336
+   },
+   {
+    "round": 27,
+    "val_rmse": 20.34701156616211,
+    "model_energy": 0.016801413148641586,
+    "client_drift": 0.13693782931991985,
+    "cluster_energy": 0.0,
+    "knowledge_energy": 0.0,
+    "quality": -20.34701156616211
+   },
+   {
+    "round": 28,
+    "val_rmse": 20.241945266723633,
+    "model_energy": 0.016540657728910446,
+    "client_drift": 0.12496458526168551,
+    "cluster_energy": 0.0,
+    "knowledge_energy": 0.0,
+    "quality": -20.241945266723633
+   },
+   {
+    "round": 29,
+    "val_rmse": 20.082937240600586,
+    "model_energy": 0.014393744990229607,
+    "client_drift": 0.1288744590112141,
+    "cluster_energy": 0.0,
+    "knowledge_energy": 0.0,
+    "quality": -20.082937240600586
+   },
+   {
+    "round": 30,
+    "val_rmse": 20.02825164794922,
+    "model_energy": 0.016728419810533524,
+    "client_drift": 0.14949004692690712,
+    "cluster_energy": 0.0,
+    "knowledge_energy": 0.0,
+    "quality": -20.02825164794922
+   },
+   {
+    "round": 31,
+    "val_rmse": 20.167871475219727,
+    "model_energy": 0.01537354290485382,
+    "client_drift": 0.12564561292529106,
+    "cluster_energy": 0.0,
+    "knowledge_energy": 0.0,
+    "quality": -20.167871475219727
+   },
+   {
+    "round": 32,
+    "val_rmse": 19.872987747192383,
+    "model_energy": 0.01983845978975296,
+    "client_drift": 0.15507185384631156,
+    "cluster_energy": 0.0,
+    "knowledge_energy": 0.0,
+    "quality": -19.872987747192383
+   },
+   {
+    "round": 33,
+    "val_rmse": 19.81685447692871,
+    "model_energy": 0.013818524777889252,
+    "client_drift": 0.12275881639548711,
+    "cluster_energy": 0.0,
+    "knowledge_energy": 0.0,
+    "quality": -19.81685447692871
+   },
+   {
+    "round": 34,
+    "val_rmse": 19.826438903808594,
+    "model_energy": 0.021917123347520828,
+    "client_drift": 0.16828498670033046,
+    "cluster_energy": 0.0,
+    "knowledge_energy": 0.0,
+    "quality": -19.826438903808594
+   },
+   {
+    "round": 35,
+    "val_rmse": 19.809667587280273,
+    "model_energy": 0.01604803279042244,
+    "client_drift": 0.13859038374253682,
+    "cluster_energy": 0.0,
+    "knowledge_energy": 0.0,
+    "quality": -19.809667587280273
+   },
+   {
+    "round": 36,
+    "val_rmse": 19.69024085998535,
+    "model_energy": 0.030633609741926193,
+    "client_drift": 0.14461383000016212,
+    "cluster_energy": 0.0,
+    "knowledge_energy": 0.0,
+    "quality": -19.69024085998535
+   },
+   {
+    "round": 37,
+    "val_rmse": 19.64257049560547,
+    "model_energy": 0.03892544284462929,
+    "client_drift": 0.14672173580953052,
+    "cluster_energy": 0.0,
+    "knowledge_energy": 0.0,
+    "quality": -19.64257049560547
+   },
+   {
+    "round": 38,
+    "val_rmse": 19.519527435302734,
+    "model_energy": 0.03849067911505699,
+    "client_drift": 0.15840007279600415,
+    "cluster_energy": 0.0,
+    "knowledge_energy": 0.0,
+    "quality": -19.519527435302734
+   },
+   {
+    "round": 39,
+    "val_rmse": 19.559139251708984,
+    "model_energy": 0.03836958110332489,
+    "client_drift": 0.15351386197975703,
+    "cluster_energy": 0.0,
+    "knowledge_energy": 0.0,
+    "quality": -19.559139251708984
+   },
+   {
+    "round": 40,
+    "val_rmse": 19.468399047851562,
+    "model_energy": 0.04177651181817055,
+    "client_drift": 0.16324022603886468,
+    "cluster_energy": 0.0,
+    "knowledge_energy": 0.0,
+    "quality": -19.468399047851562
+   }
+  ],
+  "repo_stability_last20": {
+   "energy": [
+    0.015318691730499268,
+    0.018609803169965744,
+    0.015441051684319973,
+    0.019408155232667923,
+    0.021031979471445084,
+    0.017689455300569534,
+    0.016801413148641586,
+    0.016540657728910446,
+    0.014393744990229607,
+    0.016728419810533524,
+    0.01537354290485382,
+    0.01983845978975296,
+    0.013818524777889252,
+    0.021917123347520828,
+    0.01604803279042244,
+    0.030633609741926193,
+    0.03892544284462929,
+    0.03849067911505699,
+    0.03836958110332489,
+    0.04177651181817055
+   ],
+   "energy_delta": [
+    0.0032911114394664764,
+    -0.003168751485645771,
+    0.00396710354834795,
+    0.0016238242387771606,
+    -0.0033425241708755493,
+    -0.000888042151927948,
+    -0.00026075541973114014,
+    -0.0021469127386808395,
+    0.002334674820303917,
+    -0.0013548769056797028,
+    0.004464916884899139,
+    -0.0060199350118637085,
+    0.008098598569631577,
+    -0.005869090557098389,
+    0.014585576951503754,
+    0.008291833102703094,
+    -0.00043476372957229614,
+    -0.00012109801173210144,
+    0.0034069307148456573
+   ],
+   "quality_delta": [
+    0.1807994842529297,
+    0.27649879455566406,
+    -0.027400970458984375,
+    0.17072677612304688,
+    0.25725364685058594,
+    0.026880264282226562,
+    0.10506629943847656,
+    0.15900802612304688,
+    0.05468559265136719,
+    -0.1396198272705078,
+    0.29488372802734375,
+    0.056133270263671875,
+    -0.009584426879882812,
+    0.016771316528320312,
+    0.11942672729492188,
+    0.04767036437988281,
+    0.12304306030273438,
+    -0.03961181640625,
+    0.09074020385742188
+   ],
+   "nonincreasing_energy_observed": true,
+   "quality_floor_preserved": false,
+   "stability_proven": false
+  },
+  "T1": true,
+  "rounds_with_rmse_increase_gt1pct": 0,
+  "T2": true,
+  "T3": false,
+  "drift_first10": 0.15997781486383506,
+  "drift_last10": 0.14768413802342756
+ }
+}

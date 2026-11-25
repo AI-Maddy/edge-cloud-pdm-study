@@ -1,0 +1,438 @@
+{
+ "published_rmse": {
+  "LSTM (Zheng 2017)": {
+   "FD001": 16.14,
+   "FD002": 24.49,
+   "FD003": 16.18,
+   "FD004": 28.17
+  },
+  "DCNN (Li 2018)": {
+   "FD001": 12.61,
+   "FD002": 22.36,
+   "FD003": 12.64,
+   "FD004": 23.31
+  }
+ },
+ "runs": [
+  {
+   "fd": "FD001",
+   "model": "ridge",
+   "context_norm": true,
+   "seed": 0,
+   "rmse": 14.679927825927734,
+   "nasa_score": 362.70013427734375,
+   "params": 421,
+   "seconds": 0.1
+  },
+  {
+   "fd": "FD001",
+   "model": "cnn1d",
+   "context_norm": true,
+   "seed": 0,
+   "rmse": 14.384936332702637,
+   "nasa_score": 276.5660095214844,
+   "params": 84129,
+   "seconds": 13.9
+  },
+  {
+   "fd": "FD001",
+   "model": "cnn1d",
+   "context_norm": true,
+   "seed": 1,
+   "rmse": 13.712949752807617,
+   "nasa_score": 294.0909729003906,
+   "params": 84129,
+   "seconds": 10.4
+  },
+  {
+   "fd": "FD001",
+   "model": "cnn1d",
+   "context_norm": true,
+   "seed": 2,
+   "rmse": 14.453948020935059,
+   "nasa_score": 319.2447509765625,
+   "params": 84129,
+   "seconds": 9.9
+  },
+  {
+   "fd": "FD001",
+   "model": "transformer",
+   "context_norm": true,
+   "seed": 0,
+   "rmse": 13.889429092407227,
+   "nasa_score": 271.965576171875,
+   "params": 26977,
+   "seconds": 43.0
+  },
+  {
+   "fd": "FD001",
+   "model": "transformer",
+   "context_norm": true,
+   "seed": 1,
+   "rmse": 13.731325149536133,
+   "nasa_score": 293.03302001953125,
+   "params": 26977,
+   "seconds": 26.7
+  },
+  {
+   "fd": "FD001",
+   "model": "transformer",
+   "context_norm": true,
+   "seed": 2,
+   "rmse": 13.506795883178711,
+   "nasa_score": 315.0003662109375,
+   "params": 26977,
+   "seconds": 29.7
+  },
+  {
+   "fd": "FD002",
+   "model": "ridge",
+   "context_norm": true,
+   "seed": 0,
+   "rmse": 16.33295249938965,
+   "nasa_score": 1309.2880859375,
+   "params": 421,
+   "seconds": 0.1
+  },
+  {
+   "fd": "FD002",
+   "model": "cnn1d",
+   "context_norm": true,
+   "seed": 0,
+   "rmse": 15.965517044067383,
+   "nasa_score": 1075.049072265625,
+   "params": 84129,
+   "seconds": 18.8
+  },
+  {
+   "fd": "FD002",
+   "model": "cnn1d",
+   "context_norm": true,
+   "seed": 1,
+   "rmse": 16.44331932067871,
+   "nasa_score": 1806.145751953125,
+   "params": 84129,
+   "seconds": 26.3
+  },
+  {
+   "fd": "FD002",
+   "model": "cnn1d",
+   "context_norm": true,
+   "seed": 2,
+   "rmse": 16.07611083984375,
+   "nasa_score": 1512.6478271484375,
+   "params": 84129,
+   "seconds": 22.6
+  },
+  {
+   "fd": "FD002",
+   "model": "transformer",
+   "context_norm": true,
+   "seed": 0,
+   "rmse": 14.139575958251953,
+   "nasa_score": 1005.3292846679688,
+   "params": 26977,
+   "seconds": 50.2
+  },
+  {
+   "fd": "FD002",
+   "model": "transformer",
+   "context_norm": true,
+   "seed": 1,
+   "rmse": 13.338303565979004,
+   "nasa_score": 908.6588134765625,
+   "params": 26977,
+   "seconds": 61.3
+  },
+  {
+   "fd": "FD002",
+   "model": "transformer",
+   "context_norm": true,
+   "seed": 2,
+   "rmse": 14.247514724731445,
+   "nasa_score": 1145.5755615234375,
+   "params": 26977,
+   "seconds": 51.3
+  },
+  {
+   "fd": "FD003",
+   "model": "ridge",
+   "context_norm": true,
+   "seed": 0,
+   "rmse": 16.205734252929688,
+   "nasa_score": 470.9620056152344,
+   "params": 421,
+   "seconds": 0.2
+  },
+  {
+   "fd": "FD003",
+   "model": "cnn1d",
+   "context_norm": true,
+   "seed": 0,
+   "rmse": 14.528643608093262,
+   "nasa_score": 454.5963439941406,
+   "params": 84129,
+   "seconds": 21.0
+  },
+  {
+   "fd": "FD003",
+   "model": "cnn1d",
+   "context_norm": true,
+   "seed": 1,
+   "rmse": 15.500611305236816,
+   "nasa_score": 505.7284851074219,
+   "params": 84129,
+   "seconds": 15.1
+  },
+  {
+   "fd": "FD003",
+   "model": "cnn1d",
+   "context_norm": true,
+   "seed": 2,
+   "rmse": 14.497587203979492,
+   "nasa_score": 433.26593017578125,
+   "params": 84129,
+   "seconds": 16.6
+  },
+  {
+   "fd": "FD003",
+   "model": "transformer",
+   "context_norm": true,
+   "seed": 0,
+   "rmse": 13.427511215209961,
+   "nasa_score": 345.999755859375,
+   "params": 26977,
+   "seconds": 44.4
+  },
+  {
+   "fd": "FD003",
+   "model": "transformer",
+   "context_norm": true,
+   "seed": 1,
+   "rmse": 13.518195152282715,
+   "nasa_score": 479.4823913574219,
+   "params": 26977,
+   "seconds": 36.0
+  },
+  {
+   "fd": "FD003",
+   "model": "transformer",
+   "context_norm": true,
+   "seed": 2,
+   "rmse": 12.59619140625,
+   "nasa_score": 389.67022705078125,
+   "params": 26977,
+   "seconds": 36.7
+  },
+  {
+   "fd": "FD004",
+   "model": "ridge",
+   "context_norm": true,
+   "seed": 0,
+   "rmse": 19.505290985107422,
+   "nasa_score": 1922.354248046875,
+   "params": 421,
+   "seconds": 0.2
+  },
+  {
+   "fd": "FD004",
+   "model": "cnn1d",
+   "context_norm": true,
+   "seed": 0,
+   "rmse": 17.620365142822266,
+   "nasa_score": 2608.924072265625,
+   "params": 84129,
+   "seconds": 52.9
+  },
+  {
+   "fd": "FD004",
+   "model": "cnn1d",
+   "context_norm": true,
+   "seed": 1,
+   "rmse": 17.795576095581055,
+   "nasa_score": 1918.9091796875,
+   "params": 84129,
+   "seconds": 28.7
+  },
+  {
+   "fd": "FD004",
+   "model": "cnn1d",
+   "context_norm": true,
+   "seed": 2,
+   "rmse": 15.823256492614746,
+   "nasa_score": 1068.6661376953125,
+   "params": 84129,
+   "seconds": 33.6
+  },
+  {
+   "fd": "FD004",
+   "model": "transformer",
+   "context_norm": true,
+   "seed": 0,
+   "rmse": 14.700146675109863,
+   "nasa_score": 1357.5543212890625,
+   "params": 26977,
+   "seconds": 64.8
+  },
+  {
+   "fd": "FD004",
+   "model": "transformer",
+   "context_norm": true,
+   "seed": 1,
+   "rmse": 14.739825248718262,
+   "nasa_score": 1230.772216796875,
+   "params": 26977,
+   "seconds": 1208.0
+  },
+  {
+   "fd": "FD004",
+   "model": "transformer",
+   "context_norm": true,
+   "seed": 2,
+   "rmse": 14.40742015838623,
+   "nasa_score": 1291.533935546875,
+   "params": 26977,
+   "seconds": 1974.8
+  },
+  {
+   "fd": "FD002",
+   "model": "ridge",
+   "context_norm": false,
+   "seed": 0,
+   "rmse": 17.09340476989746,
+   "nasa_score": 1242.2392578125,
+   "params": 421,
+   "seconds": 0.1
+  },
+  {
+   "fd": "FD002",
+   "model": "cnn1d",
+   "context_norm": false,
+   "seed": 0,
+   "rmse": 18.16844940185547,
+   "nasa_score": 1542.531982421875,
+   "params": 84129,
+   "seconds": 27.3
+  },
+  {
+   "fd": "FD002",
+   "model": "cnn1d",
+   "context_norm": false,
+   "seed": 1,
+   "rmse": 18.637821197509766,
+   "nasa_score": 2020.418212890625,
+   "params": 84129,
+   "seconds": 23.6
+  },
+  {
+   "fd": "FD002",
+   "model": "cnn1d",
+   "context_norm": false,
+   "seed": 2,
+   "rmse": 17.687946319580078,
+   "nasa_score": 1915.038330078125,
+   "params": 84129,
+   "seconds": 37.4
+  },
+  {
+   "fd": "FD002",
+   "model": "transformer",
+   "context_norm": false,
+   "seed": 0,
+   "rmse": 15.735466957092285,
+   "nasa_score": 1024.3319091796875,
+   "params": 26977,
+   "seconds": 135.1
+  },
+  {
+   "fd": "FD002",
+   "model": "transformer",
+   "context_norm": false,
+   "seed": 1,
+   "rmse": 20.08318519592285,
+   "nasa_score": 2107.70361328125,
+   "params": 26977,
+   "seconds": 53.4
+  },
+  {
+   "fd": "FD002",
+   "model": "transformer",
+   "context_norm": false,
+   "seed": 2,
+   "rmse": 15.216692924499512,
+   "nasa_score": 1093.391845703125,
+   "params": 26977,
+   "seconds": 139.7
+  },
+  {
+   "fd": "FD004",
+   "model": "ridge",
+   "context_norm": false,
+   "seed": 0,
+   "rmse": 23.474565505981445,
+   "nasa_score": 3377.841064453125,
+   "params": 421,
+   "seconds": 0.2
+  },
+  {
+   "fd": "FD004",
+   "model": "cnn1d",
+   "context_norm": false,
+   "seed": 0,
+   "rmse": 24.00042152404785,
+   "nasa_score": 4107.6064453125,
+   "params": 84129,
+   "seconds": 768.7
+  },
+  {
+   "fd": "FD004",
+   "model": "cnn1d",
+   "context_norm": false,
+   "seed": 1,
+   "rmse": 22.971588134765625,
+   "nasa_score": 5630.4453125,
+   "params": 84129,
+   "seconds": 3845.9
+  },
+  {
+   "fd": "FD004",
+   "model": "cnn1d",
+   "context_norm": false,
+   "seed": 2,
+   "rmse": 22.844867706298828,
+   "nasa_score": 3967.1806640625,
+   "params": 84129,
+   "seconds": 1302.5
+  },
+  {
+   "fd": "FD004",
+   "model": "transformer",
+   "context_norm": false,
+   "seed": 0,
+   "rmse": 16.66956901550293,
+   "nasa_score": 1360.73046875,
+   "params": 26977,
+   "seconds": 161.4
+  },
+  {
+   "fd": "FD004",
+   "model": "transformer",
+   "context_norm": false,
+   "seed": 1,
+   "rmse": 19.00762939453125,
+   "nasa_score": 1949.69873046875,
+   "params": 26977,
+   "seconds": 175.2
+  },
+  {
+   "fd": "FD004",
+   "model": "transformer",
+   "context_norm": false,
+   "seed": 2,
+   "rmse": 17.205724716186523,
+   "nasa_score": 1548.25537109375,
+   "params": 26977,
+   "seconds": 165.3
+  }
+ ]
+}

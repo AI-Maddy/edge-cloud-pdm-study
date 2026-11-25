@@ -1,0 +1,10 @@
+FD001 {'class': 'common.rul.RepoTransformerRUL', 'args': {'f': 14}, 'test_rmse': 12.223170280456543, 'seed': 0}
+FD002 {'class': 'common.rul.RepoTransformerRUL', 'args': {'f': 14}, 'test_rmse': 14.09052848815918, 'seed': 0}
+FD003 {'class': 'common.rul.RepoTransformerRUL', 'args': {'f': 14}, 'test_rmse': 13.029108047485352, 'seed': 0}
+FD004 {'class': 'common.rul.RepoTransformerRUL', 'args': {'f': 14}, 'test_rmse': 14.905817031860352, 'seed': 0}
+c3_fedavg_cnn1d.pt 19.414014189583913
+c3_cafig_cell0_cnn1d.pt 19.50197038650513
+c3_cafig_cell1_cnn1d.pt 19.500270309448243
+c6 15.367204189300537
+c9 simclr
+c9 byol
