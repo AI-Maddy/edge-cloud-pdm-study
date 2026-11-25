@@ -1,0 +1,42 @@
+/usr/local/lib/python3.13/site-packages/sklearn/linear_model/_ridge.py:227: LinAlgWarning: An ill-conditioned matrix detected: slice 0 has rcond = 3.42163239963611e-08.
+  return linalg.solve(A, Xy, assume_a="pos", overwrite_a=True).T
+/usr/local/lib/python3.13/site-packages/sklearn/linear_model/_ridge.py:227: LinAlgWarning: An ill-conditioned matrix detected: slice 0 has rcond = 3.9000166651703694e-08.
+  return linalg.solve(A, Xy, assume_a="pos", overwrite_a=True).T
+FD001 {'raw': 13.981097221374512, 'feat_same': 14.082720756530762, 'feat_lofo': 12.945481300354004, 'zero_shot': 13.626802444458008, 'lofo_vs_raw': -0.0740725784695383, 'embedding_dim': 32, 'seconds': 428}
+FD001 {1: {'local': 47.24019165039063, 'cloud': 14.415570831298828, 'finetune': 18.22236499786377, 'output_avg': 25.91469955444336}, 3: {'local': 39.35188865661621, 'cloud': 14.415570831298828, 'finetune': 21.551485061645508, 'output_avg': 23.19571018218994}, 5: {'local': 23.314259338378907, 'cloud': 14.415570831298828, 'finetune': 16.02341022491455, 'output_avg': 16.46606273651123}}
+/usr/local/lib/python3.13/site-packages/sklearn/linear_model/_ridge.py:227: LinAlgWarning: An ill-conditioned matrix detected: slice 0 has rcond = 1.3938395326817954e-08.
+  return linalg.solve(A, Xy, assume_a="pos", overwrite_a=True).T
+/usr/local/lib/python3.13/site-packages/sklearn/linear_model/_ridge.py:227: LinAlgWarning: An ill-conditioned matrix detected: slice 0 has rcond = 1.576032104821934e-08.
+  return linalg.solve(A, Xy, assume_a="pos", overwrite_a=True).T
+FD002 {'raw': 13.861679077148438, 'feat_same': 13.854204177856445, 'feat_lofo': 13.730703353881836, 'zero_shot': 13.880191802978516, 'lofo_vs_raw': -0.009448763208096511, 'embedding_dim': 32, 'seconds': 374}
+FD002 {1: {'local': 49.000695155217095, 'cloud': 15.482220356280987, 'finetune': 24.225370553823616, 'output_avg': 27.914223010723408}, 3: {'local': 37.307504653930664, 'cloud': 15.482220356280987, 'finetune': 22.638202593876766, 'output_avg': 22.49613666534424}, 5: {'local': 32.14021389301006, 'cloud': 15.482220356280987, 'finetune': 21.65240478515625, 'output_avg': 20.501846753633938}}
+/usr/local/lib/python3.13/site-packages/sklearn/linear_model/_ridge.py:227: LinAlgWarning: An ill-conditioned matrix detected: slice 0 has rcond = 4.1074269319096857e-08.
+  return linalg.solve(A, Xy, assume_a="pos", overwrite_a=True).T
+/usr/local/lib/python3.13/site-packages/sklearn/linear_model/_ridge.py:227: LinAlgWarning: An ill-conditioned matrix detected: slice 0 has rcond = 3.053793307117303e-08.
+  return linalg.solve(A, Xy, assume_a="pos", overwrite_a=True).T
+FD003 {'raw': 12.695056915283203, 'feat_same': 12.668625831604004, 'feat_lofo': 12.922362327575684, 'zero_shot': 16.058895111083984, 'lofo_vs_raw': 0.017905032943872357, 'embedding_dim': 32, 'seconds': 246}
+FD003 {1: {'local': 42.148492431640626, 'cloud': 16.184997749328613, 'finetune': 18.761983108520507, 'output_avg': 22.40595817565918}, 3: {'local': 38.81816215515137, 'cloud': 16.184997749328613, 'finetune': 19.71936492919922, 'output_avg': 22.343175888061523}, 5: {'local': 33.94460754394531, 'cloud': 16.184997749328613, 'finetune': 18.674979972839356, 'output_avg': 21.49489517211914}}
+/usr/local/lib/python3.13/site-packages/sklearn/linear_model/_ridge.py:227: LinAlgWarning: An ill-conditioned matrix detected: slice 0 has rcond = 1.4586444052611114e-08.
+  return linalg.solve(A, Xy, assume_a="pos", overwrite_a=True).T
+/usr/local/lib/python3.13/site-packages/sklearn/linear_model/_ridge.py:227: LinAlgWarning: An ill-conditioned matrix detected: slice 0 has rcond = 7.190902095999263e-09.
+  return linalg.solve(A, Xy, assume_a="pos", overwrite_a=True).T
+FD004 {'raw': 14.790032386779785, 'feat_same': 14.680974960327148, 'feat_lofo': 14.836747169494629, 'zero_shot': 15.516963958740234, 'lofo_vs_raw': 0.0031585314685720345, 'embedding_dim': 32, 'seconds': 325}
+FD004 {1: {'local': 50.578410943349205, 'cloud': 18.79359968503316, 'finetune': 22.006390810012817, 'output_avg': 30.25575606028239}, 3: {'local': 40.49880027770996, 'cloud': 18.79359968503316, 'finetune': 21.9501051902771, 'output_avg': 26.23101266225179}, 5: {'local': 36.488616148630776, 'cloud': 18.79359968503316, 'finetune': 21.67493136723836, 'output_avg': 24.313387711842854}}
+{
+ "bytes": {
+  "raw_float32": 62400,
+  "feature_float32": 2720,
+  "feature_float16": 1440
+ },
+ "verdict": {
+  "T1": true,
+  "T2": true,
+  "T3": true,
+  "T4": true
+ },
+ "finetune_reduction_vs_local": {
+  "1": 0.5599096204572825,
+  "3": 0.44888794588347003,
+  "5": 0.37371384779956596
+ }
+}

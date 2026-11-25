@@ -32,9 +32,17 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, os.path.join(HERE, "..")); sys.path.insert(0, os.path.join(HERE, "..", "c3_federation_cells"))
 from common import rul  # noqa: E402
 import run as c3  # noqa: E402
-torch.set_num_threads(4)
+torch.set_num_threads(int(os.environ.get("THREADS", "4")))
 ROUNDS, KAPPA, NREG = 100, 5, 5
-OUT = os.path.join(HERE, "results", "c3b_runs.json")
+OUT = os.path.join(HERE, "results", os.environ.get("C3B_OUT", "c3b_runs.json"))
+SEEDS = [int(x) for x in os.environ.get("SEEDS", "0,1,2").split(",") if x]
+# optional explicit job list "seed:method,seed:method" so runs can be spread over processes
+JOBS = [(int(j.split(":")[0]), j.split(":")[1]) for j in os.environ.get("JOBS", "").split(",") if j]
+METHODS = ["fedavg", "hier_geo", "cells", "hier_ctx", "oracle", "central", "local"]
+
+
+def save(res, path):
+    tmp = path + ".tmp"; json.dump(res, open(tmp, "w"), indent=1); os.replace(tmp, path)
 
 
 def fed(sites, seed, groups, hier=None):
@@ -75,7 +83,7 @@ def fed(sites, seed, groups, hier=None):
             if (r + 1) % 25 == 0:
                 curve.append(float(np.mean(eval_w([cloud] * len(sites), sites, F))))
         site_w = [cloud] * len(sites)
-    return eval_w(site_w, sites, F), {"wan_bytes_total": wan_models * 4 * nparam, "curve_every_25": curve}
+    return eval_w(site_w, sites, F), {"wan_bytes_total": int(wan_models) * 4 * int(nparam), "curve_every_25": curve}
 
 
 def eval_w(ws, sites, F):
@@ -111,8 +119,9 @@ def main():
     res = json.load(open(OUT)) if os.path.exists(OUT) else {"meta": {"rounds": ROUNDS, "kappa": KAPPA,
           "regions_geo": geo.tolist(), "cells": cells.tolist(), "site_fd": fds.tolist()}, "runs": []}
     done = {(r["method"], r["seed"]) for r in res["runs"]}
-    for seed in (0, 1, 2):
-        for method in ["fedavg", "hier_geo", "cells", "hier_ctx", "oracle", "central", "local"]:
+    jobs = JOBS or [(sd, m) for sd in SEEDS for m in METHODS]
+    for seed, method in jobs:
+        if True:
             if (method, seed) in done:
                 continue
             t = time.time()
@@ -126,8 +135,15 @@ def main():
             r = {"method": method, "seed": seed, "site_rmse": sr, "mean_site_rmse": float(np.mean(sr)),
                  **{k: v for k, v in cost.items() if k in ("wan_bytes_total", "curve_every_25")},
                  "seconds": round(time.time() - t, 1)}
-            res["runs"].append(r); json.dump(res, open(OUT, "w"), indent=1)
+            res["runs"].append(r); save(res, OUT)
             print({k: v for k, v in r.items() if k != "site_rmse"}, flush=True)
+    import glob
+    allruns = {(r["method"], r["seed"]): r for f in sorted(glob.glob(os.path.join(HERE, "results", "c3b_runs*.json")))
+               for r in json.load(open(f))["runs"]}
+    res["runs"] = list(allruns.values())
+    if len({k[1] for k in allruns}) < 3 or len(allruns) < 21:
+        print("incomplete:", sorted(allruns)); return
+    OUTF = os.path.join(HERE, "results", "c3b_runs.json")
     M = {}
     for r in res["runs"]: M.setdefault(r["method"], []).append(r["site_rmse"])
     A = {m: np.mean(v, 0) for m, v in M.items()}
@@ -142,7 +158,7 @@ def main():
         "T3": s["fedavg_vs_local"]["mean_diff"] < 0 and s["fedavg_vs_local"]["p"] < 0.05,
         "T4": abs(s["hier_geo_vs_fedavg"]["mean_diff"]) <= 0.5 and W["hier_geo"] <= 0.10 * W["fedavg"],
         "T5": s["hier_ctx_vs_hier_geo"]["mean_diff"] <= -0.5}
-    res["summary"] = s; json.dump(res, open(OUT, "w"), indent=1)
+    res["summary"] = s; save(res, OUTF)
     print(json.dumps(s, indent=1))
 
 

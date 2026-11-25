@@ -1,0 +1,621 @@
+{
+ "params": {
+  "pkt": 1500,
+  "rtt_s": 0.04,
+  "qcap_pkts": 300,
+  "period_s": 60.0,
+  "objects": {
+   "feature": 1440,
+   "raw": 62400,
+   "model": 107972
+  }
+ },
+ "cells": [
+  {
+   "trace": "TMobile-LTE-driving",
+   "N": 1,
+   "mode": "sync",
+   "object": "feature",
+   "median_s": 0.04084925657913004,
+   "p95_s": 0.04755596913467968
+  },
+  {
+   "trace": "TMobile-LTE-driving",
+   "N": 1,
+   "mode": "sync",
+   "object": "raw",
+   "median_s": 0.12825142074869064,
+   "p95_s": 0.2721322652640673
+  },
+  {
+   "trace": "TMobile-LTE-driving",
+   "N": 1,
+   "mode": "sync",
+   "object": "model",
+   "median_s": 0.1689959945887631,
+   "p95_s": 0.3507293130529283
+  },
+  {
+   "trace": "TMobile-LTE-driving",
+   "N": 5,
+   "mode": "sync",
+   "object": "feature",
+   "median_s": 0.04212877425761349,
+   "p95_s": 0.06927413586266426
+  },
+  {
+   "trace": "TMobile-LTE-driving",
+   "N": 5,
+   "mode": "sync",
+   "object": "raw",
+   "median_s": 0.16957156888283806,
+   "p95_s": 1.0682720886264752
+  },
+  {
+   "trace": "TMobile-LTE-driving",
+   "N": 5,
+   "mode": "sync",
+   "object": "model",
+   "median_s": 0.2612642066921262,
+   "p95_s": 2.6581769303698013
+  },
+  {
+   "trace": "TMobile-LTE-driving",
+   "N": 5,
+   "mode": "jitter",
+   "object": "feature",
+   "median_s": 0.04091538410399309,
+   "p95_s": 0.04710108427710579
+  },
+  {
+   "trace": "TMobile-LTE-driving",
+   "N": 5,
+   "mode": "jitter",
+   "object": "raw",
+   "median_s": 0.13215046455388446,
+   "p95_s": 0.2082590795442555
+  },
+  {
+   "trace": "TMobile-LTE-driving",
+   "N": 5,
+   "mode": "jitter",
+   "object": "model",
+   "median_s": 0.16798400199414365,
+   "p95_s": 0.2792027869295672
+  },
+  {
+   "trace": "TMobile-LTE-driving",
+   "N": 35,
+   "mode": "sync",
+   "object": "feature",
+   "median_s": 0.05135475810190201,
+   "p95_s": 0.13838132175749332
+  },
+  {
+   "trace": "TMobile-LTE-driving",
+   "N": 35,
+   "mode": "sync",
+   "object": "raw",
+   "median_s": 0.6903978095544625,
+   "p95_s": 2.4613524187270808
+  },
+  {
+   "trace": "TMobile-LTE-driving",
+   "N": 35,
+   "mode": "sync",
+   "object": "model",
+   "median_s": 1.6629784832757162,
+   "p95_s": 9.066324855037776
+  },
+  {
+   "trace": "TMobile-LTE-driving",
+   "N": 35,
+   "mode": "jitter",
+   "object": "feature",
+   "median_s": 0.04096930179894187,
+   "p95_s": 0.04883542021610232
+  },
+  {
+   "trace": "TMobile-LTE-driving",
+   "N": 35,
+   "mode": "jitter",
+   "object": "raw",
+   "median_s": 0.13396266994465122,
+   "p95_s": 0.3394443607193911
+  },
+  {
+   "trace": "TMobile-LTE-driving",
+   "N": 35,
+   "mode": "jitter",
+   "object": "model",
+   "median_s": 0.16713459391935714,
+   "p95_s": 0.4030904135968658
+  },
+  {
+   "trace": "Verizon-LTE-driving",
+   "N": 1,
+   "mode": "sync",
+   "object": "feature",
+   "median_s": 0.04294033109774361,
+   "p95_s": 0.48351832100638625
+  },
+  {
+   "trace": "Verizon-LTE-driving",
+   "N": 1,
+   "mode": "sync",
+   "object": "raw",
+   "median_s": 0.1512626536348813,
+   "p95_s": 0.9390885521441925
+  },
+  {
+   "trace": "Verizon-LTE-driving",
+   "N": 1,
+   "mode": "sync",
+   "object": "model",
+   "median_s": 0.2236061365679722,
+   "p95_s": 2.005922753309325
+  },
+  {
+   "trace": "Verizon-LTE-driving",
+   "N": 5,
+   "mode": "sync",
+   "object": "feature",
+   "median_s": 0.04455869567312561,
+   "p95_s": 0.5338599459961889
+  },
+  {
+   "trace": "Verizon-LTE-driving",
+   "N": 5,
+   "mode": "sync",
+   "object": "raw",
+   "median_s": 0.4175582717556034,
+   "p95_s": 8.352619393214896
+  },
+  {
+   "trace": "Verizon-LTE-driving",
+   "N": 5,
+   "mode": "sync",
+   "object": "model",
+   "median_s": 0.6905513503109928,
+   "p95_s": 12.571958385633954
+  },
+  {
+   "trace": "Verizon-LTE-driving",
+   "N": 5,
+   "mode": "jitter",
+   "object": "feature",
+   "median_s": 0.04246738685884299,
+   "p95_s": 0.9281500721395388
+  },
+  {
+   "trace": "Verizon-LTE-driving",
+   "N": 5,
+   "mode": "jitter",
+   "object": "raw",
+   "median_s": 0.15329017587452753,
+   "p95_s": 2.0692352757857546
+  },
+  {
+   "trace": "Verizon-LTE-driving",
+   "N": 5,
+   "mode": "jitter",
+   "object": "model",
+   "median_s": 0.2077691028779567,
+   "p95_s": 2.7311418633070246
+  },
+  {
+   "trace": "Verizon-LTE-driving",
+   "N": 35,
+   "mode": "sync",
+   "object": "feature",
+   "median_s": 0.08459884638794166,
+   "p95_s": 5.134781176552226
+  },
+  {
+   "trace": "Verizon-LTE-driving",
+   "N": 35,
+   "mode": "sync",
+   "object": "raw",
+   "median_s": 2.0161941586381085,
+   "p95_s": 23.749812904066467
+  },
+  {
+   "trace": "Verizon-LTE-driving",
+   "N": 35,
+   "mode": "sync",
+   "object": "model",
+   "median_s": 4.2332790319299045,
+   "p95_s": 42.035617756627175
+  },
+  {
+   "trace": "Verizon-LTE-driving",
+   "N": 35,
+   "mode": "jitter",
+   "object": "feature",
+   "median_s": 0.04255551250980716,
+   "p95_s": 0.21863460094209322
+  },
+  {
+   "trace": "Verizon-LTE-driving",
+   "N": 35,
+   "mode": "jitter",
+   "object": "raw",
+   "median_s": 0.15547563374701134,
+   "p95_s": 14.116737377074703
+  },
+  {
+   "trace": "Verizon-LTE-driving",
+   "N": 35,
+   "mode": "jitter",
+   "object": "model",
+   "median_s": 0.22918519392259284,
+   "p95_s": 6.939569056987052
+  },
+  {
+   "trace": "TMobile-UMTS-driving",
+   "N": 1,
+   "mode": "sync",
+   "object": "feature",
+   "median_s": 0.04707199885178511,
+   "p95_s": 0.3490777864966151
+  },
+  {
+   "trace": "TMobile-UMTS-driving",
+   "N": 1,
+   "mode": "sync",
+   "object": "raw",
+   "median_s": 0.5560836048126783,
+   "p95_s": 3.858746613716209
+  },
+  {
+   "trace": "TMobile-UMTS-driving",
+   "N": 1,
+   "mode": "sync",
+   "object": "model",
+   "median_s": 0.7757211582242087,
+   "p95_s": 5.065477198689512
+  },
+  {
+   "trace": "TMobile-UMTS-driving",
+   "N": 5,
+   "mode": "sync",
+   "object": "feature",
+   "median_s": 0.07002834256403731,
+   "p95_s": 0.2058929546054035
+  },
+  {
+   "trace": "TMobile-UMTS-driving",
+   "N": 5,
+   "mode": "sync",
+   "object": "raw",
+   "median_s": 2.176754361076015,
+   "p95_s": 11.20079470582255
+  },
+  {
+   "trace": "TMobile-UMTS-driving",
+   "N": 5,
+   "mode": "sync",
+   "object": "model",
+   "median_s": 5.1105591182360195,
+   "p95_s": 23.853793886529605
+  },
+  {
+   "trace": "TMobile-UMTS-driving",
+   "N": 5,
+   "mode": "jitter",
+   "object": "feature",
+   "median_s": 0.04684400632172192,
+   "p95_s": 1.6220055024139415
+  },
+  {
+   "trace": "TMobile-UMTS-driving",
+   "N": 5,
+   "mode": "jitter",
+   "object": "raw",
+   "median_s": 0.5044219024764294,
+   "p95_s": 3.3942233129329935
+  },
+  {
+   "trace": "TMobile-UMTS-driving",
+   "N": 5,
+   "mode": "jitter",
+   "object": "model",
+   "median_s": 0.8872706140589004,
+   "p95_s": 6.828684904219076
+  },
+  {
+   "trace": "TMobile-UMTS-driving",
+   "N": 35,
+   "mode": "sync",
+   "object": "feature",
+   "median_s": 0.23804795463447534,
+   "p95_s": 0.7531573841173349
+  },
+  {
+   "trace": "TMobile-UMTS-driving",
+   "N": 35,
+   "mode": "sync",
+   "object": "raw",
+   "median_s": 26.343421206233316,
+   "p95_s": 51.83573650620231
+  },
+  {
+   "trace": "TMobile-UMTS-driving",
+   "N": 35,
+   "mode": "sync",
+   "object": "model",
+   "median_s": 40.787830833427655,
+   "p95_s": 89.34920844556022
+  },
+  {
+   "trace": "TMobile-UMTS-driving",
+   "N": 35,
+   "mode": "jitter",
+   "object": "feature",
+   "median_s": 0.046707096374175805,
+   "p95_s": 0.41876677245636607
+  },
+  {
+   "trace": "TMobile-UMTS-driving",
+   "N": 35,
+   "mode": "jitter",
+   "object": "raw",
+   "median_s": 0.6607902196447419,
+   "p95_s": 27.61591004680695
+  },
+  {
+   "trace": "TMobile-UMTS-driving",
+   "N": 35,
+   "mode": "jitter",
+   "object": "model",
+   "median_s": 1.9791952831786475,
+   "p95_s": 32.57453161020149
+  },
+  {
+   "trace": "Verizon-EVDO-driving",
+   "N": 1,
+   "mode": "sync",
+   "object": "feature",
+   "median_s": 0.05547369166885915,
+   "p95_s": 0.44792775960729536
+  },
+  {
+   "trace": "Verizon-EVDO-driving",
+   "N": 1,
+   "mode": "sync",
+   "object": "raw",
+   "median_s": 0.6425627254222741,
+   "p95_s": 8.416080541020577
+  },
+  {
+   "trace": "Verizon-EVDO-driving",
+   "N": 1,
+   "mode": "sync",
+   "object": "model",
+   "median_s": 0.9194184153646825,
+   "p95_s": 2.5766487762521106
+  },
+  {
+   "trace": "Verizon-EVDO-driving",
+   "N": 5,
+   "mode": "sync",
+   "object": "feature",
+   "median_s": 0.07266105251930186,
+   "p95_s": 0.1641352248492914
+  },
+  {
+   "trace": "Verizon-EVDO-driving",
+   "N": 5,
+   "mode": "sync",
+   "object": "raw",
+   "median_s": 2.414348768127561,
+   "p95_s": 7.624584665286563
+  },
+  {
+   "trace": "Verizon-EVDO-driving",
+   "N": 5,
+   "mode": "sync",
+   "object": "model",
+   "median_s": 5.661212496537709,
+   "p95_s": 30.606642894175884
+  },
+  {
+   "trace": "Verizon-EVDO-driving",
+   "N": 5,
+   "mode": "jitter",
+   "object": "feature",
+   "median_s": 0.05251616196548703,
+   "p95_s": 0.6214460835029484
+  },
+  {
+   "trace": "Verizon-EVDO-driving",
+   "N": 5,
+   "mode": "jitter",
+   "object": "raw",
+   "median_s": 0.5594794121074536,
+   "p95_s": 7.841222568426711
+  },
+  {
+   "trace": "Verizon-EVDO-driving",
+   "N": 5,
+   "mode": "jitter",
+   "object": "model",
+   "median_s": 1.0448162241592076,
+   "p95_s": 8.801774247403866
+  },
+  {
+   "trace": "Verizon-EVDO-driving",
+   "N": 35,
+   "mode": "sync",
+   "object": "feature",
+   "median_s": 0.3138171745986051,
+   "p95_s": 0.9793094801391212
+  },
+  {
+   "trace": "Verizon-EVDO-driving",
+   "N": 35,
+   "mode": "sync",
+   "object": "raw",
+   "median_s": 26.388192202091666,
+   "p95_s": 62.86063044719264
+  },
+  {
+   "trace": "Verizon-EVDO-driving",
+   "N": 35,
+   "mode": "sync",
+   "object": "model",
+   "median_s": 45.625238867075986,
+   "p95_s": 71.30736189877902
+  },
+  {
+   "trace": "Verizon-EVDO-driving",
+   "N": 35,
+   "mode": "jitter",
+   "object": "feature",
+   "median_s": 0.05165509111417421,
+   "p95_s": 0.34356768592371806
+  },
+  {
+   "trace": "Verizon-EVDO-driving",
+   "N": 35,
+   "mode": "jitter",
+   "object": "raw",
+   "median_s": 0.6687034046845959,
+   "p95_s": 6.908905184567938
+  },
+  {
+   "trace": "Verizon-EVDO-driving",
+   "N": 35,
+   "mode": "jitter",
+   "object": "model",
+   "median_s": 1.8777836611663066,
+   "p95_s": 46.440077148876156
+  },
+  {
+   "trace": "ATT-LTE-driving",
+   "N": 1,
+   "mode": "sync",
+   "object": "feature",
+   "median_s": 0.05025412394125169,
+   "p95_s": 0.834725585029817
+  },
+  {
+   "trace": "ATT-LTE-driving",
+   "N": 1,
+   "mode": "sync",
+   "object": "raw",
+   "median_s": 0.5266282571265473,
+   "p95_s": 5.564967762492042
+  },
+  {
+   "trace": "ATT-LTE-driving",
+   "N": 1,
+   "mode": "sync",
+   "object": "model",
+   "median_s": 0.9414352560204629,
+   "p95_s": 8.720835262714528
+  },
+  {
+   "trace": "ATT-LTE-driving",
+   "N": 5,
+   "mode": "sync",
+   "object": "feature",
+   "median_s": 0.07860954486635749,
+   "p95_s": 5.1652072066399795
+  },
+  {
+   "trace": "ATT-LTE-driving",
+   "N": 5,
+   "mode": "sync",
+   "object": "raw",
+   "median_s": 2.231664607540133,
+   "p95_s": 9.577254728526771
+  },
+  {
+   "trace": "ATT-LTE-driving",
+   "N": 5,
+   "mode": "sync",
+   "object": "model",
+   "median_s": 5.631847452006178,
+   "p95_s": 60.576760741654084
+  },
+  {
+   "trace": "ATT-LTE-driving",
+   "N": 5,
+   "mode": "jitter",
+   "object": "feature",
+   "median_s": 0.05065423901719157,
+   "p95_s": 0.5423471707401872
+  },
+  {
+   "trace": "ATT-LTE-driving",
+   "N": 5,
+   "mode": "jitter",
+   "object": "raw",
+   "median_s": 0.5094150849242816,
+   "p95_s": 6.640573939867342
+  },
+  {
+   "trace": "ATT-LTE-driving",
+   "N": 5,
+   "mode": "jitter",
+   "object": "model",
+   "median_s": 0.8736055480910192,
+   "p95_s": 34.3533006963665
+  },
+  {
+   "trace": "ATT-LTE-driving",
+   "N": 35,
+   "mode": "sync",
+   "object": "feature",
+   "median_s": 0.32519139186455787,
+   "p95_s": 25.540214265493624
+  },
+  {
+   "trace": "ATT-LTE-driving",
+   "N": 35,
+   "mode": "sync",
+   "object": "raw",
+   "median_s": 26.17218420077362,
+   "p95_s": 49.97994601840501
+  },
+  {
+   "trace": "ATT-LTE-driving",
+   "N": 35,
+   "mode": "sync",
+   "object": "model",
+   "median_s": 47.76943912558969,
+   "p95_s": 77.10843805643907
+  },
+  {
+   "trace": "ATT-LTE-driving",
+   "N": 35,
+   "mode": "jitter",
+   "object": "feature",
+   "median_s": 0.05363166551082088,
+   "p95_s": 19.922938337908207
+  },
+  {
+   "trace": "ATT-LTE-driving",
+   "N": 35,
+   "mode": "jitter",
+   "object": "raw",
+   "median_s": 0.760171956137647,
+   "p95_s": 50.093227320722015
+  },
+  {
+   "trace": "ATT-LTE-driving",
+   "N": 35,
+   "mode": "jitter",
+   "object": "model",
+   "median_s": 1.6199683585488547,
+   "p95_s": 81.94221956202531
+  }
+ ],
+ "verdict": {
+  "T1": false,
+  "T2": false,
+  "T3": true,
+  "T4": false
+ }
+}

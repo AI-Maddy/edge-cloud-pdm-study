@@ -1,0 +1,6 @@
+{'method': 'fedavg', 'seed': 0, 'mean_site_rmse': 16.309020614624025, 'wan_bytes_total': 2355612000, 'curve_every_25': [19.414014189583913, 17.599713652474538, 16.632338878086635, 16.309020614624025], 'seconds': 2498.0}
+{'method': 'hier_geo', 'seed': 0, 'mean_site_rmse': 16.19244463784354, 'wan_bytes_total': 67303200, 'curve_every_25': [19.570903832571847, 17.553450557163785, 16.799800327845983, 16.19244463784354], 'seconds': 1001.2}
+{'method': 'cells', 'seed': 0, 'mean_site_rmse': 15.86942686353411, 'wan_bytes_total': 2355612000, 'curve_every_25': [19.459068625313893, 17.601823343549455, 16.603683607918875, 15.86942686353411], 'seconds': 990.3}
+{'method': 'hier_ctx', 'seed': 0, 'mean_site_rmse': 16.23966500418527, 'wan_bytes_total': 26921280, 'curve_every_25': [19.277404539925712, 17.49543914794922, 16.77273644038609, 16.23966500418527], 'seconds': 1009.6}
+{'method': 'local', 'seed': 0, 'mean_site_rmse': 21.5344596862793, 'seconds': 241.3}
+incomplete: [('cells', 0), ('cells', 1), ('cells', 2), ('central', 0), ('central', 1), ('central', 2), ('fedavg', 0), ('fedavg', 1), ('fedavg', 2), ('hier_ctx', 0), ('hier_ctx', 1), ('hier_ctx', 2), ('hier_geo', 0), ('hier_geo', 1), ('hier_geo', 2), ('local', 0), ('local', 1), ('local', 2), ('oracle', 0), ('oracle', 1)]

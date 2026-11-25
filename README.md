@@ -20,6 +20,10 @@ System Design section.
 | `validation/c8_stability` | convergence and stability | C-MAPSS FL; Beijing |
 | `validation/c15_bearings` | generality on a second asset | XJTU-SY bearings (features) |
 | `validation/c16_lifelong` | lifelong learning with replay | C-MAPSS FD001->FD004 |
+| `validation/c3b_federation_converged` | follow-up: 100 rounds, centralised bound, regional tier | C-MAPSS, 35 sites |
+| `validation/c7b_lofo` | follow-up: feature uploads and cold start with each fleet held out | C-MAPSS |
+| `validation/c7c_uplink_sim` | follow-up: many sites sharing one uplink, packet-level simulation | cellular traces |
+| `validation/c15c_bearings_federated` | follow-up: federation and rule transfer across real bearings | XJTU-SY bearings (features) |
 
 `scripts/hfcf` and `models/hfcf_models` are the system implementation under test (context features, federation,
 knowledge objects, Transformer encoder). `validation/common` holds shared loaders and the RUL training code.
