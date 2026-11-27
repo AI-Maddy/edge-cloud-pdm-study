@@ -43,3 +43,10 @@ Cold start (CNN1D, mean RMSE over the held-out fleet's sites):
   This replaces C6's "fine-tune the received model" rule.
 
 Results: `results/c7b_results.json`; log: `results/log.txt`.
+
+**Diagnostics (review 2; `run_b.py`, not new tests; same seed and split).** float16 embeddings change RMSE by at most
+0.02; PCA-32 fitted on the other fleets is 10-35% worse than the raw upload (15.4/17.2/16.8/19.9); ridge on raw windows
+14.7/16.3/16.2/19.4. Re-training the other-fleet encoder (one thread instead of two) gives 13.2/13.6/13.0/14.5 instead of
+12.9/13.7/12.9/14.8 (CPU non-determinism). Cold start: a ridge on the pooled other-fleet windows reaches 15.2/18.1/18.5/19.4
+(pooled mean 41-45) against 14.4/15.5/16.2/18.8 for the received CNN: most of the gain comes from the other fleets'
+failure histories, the network adds 3-15%. Results: `results/c7b_b_results.json`.

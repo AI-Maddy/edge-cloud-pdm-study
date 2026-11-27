@@ -25,3 +25,7 @@ Run: `python c15c_bearings_federated/run.py` (about 2 minutes, CPU). Criteria fi
 - The weighted trust score adds nothing over confidence alone, the same finding as C5 on C-MAPSS.
 
 Per-bearing and per-seed numbers: `results/c15c_results.json`; log: `results/log.txt`.
+
+**Bearing-level uncertainty (review 2; `rank_uncertainty.py`, not a new test).** Resampling source and target bearings:
+Spearman 0.63, 95% CI 0.50-0.70; top decile claimed 1.00, achieved 0.67-0.74 depending on tie-breaking (CI 0.56-0.85).
+This supports ranking rules by confidence, not reading confidence as calibrated precision.

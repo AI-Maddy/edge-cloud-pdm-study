@@ -24,6 +24,7 @@ System Design section.
 | `validation/c7b_lofo` | follow-up: feature uploads and cold start with each fleet held out | C-MAPSS |
 | `validation/c7c_uplink_sim` | follow-up: many sites sharing one uplink, packet-level simulation | cellular traces |
 | `validation/c15c_bearings_federated` | follow-up: federation and rule transfer across real bearings | XJTU-SY bearings (features) |
+| `validation/c18_coupled_e2e` | follow-up: flat vs regional federation coupled to trace-driven uplink deadlines | C-MAPSS + cellular traces |
 
 `scripts/hfcf` and `models/hfcf_models` are the system implementation under test (context features, federation,
 knowledge objects, Transformer encoder). `validation/common` holds shared loaders and the RUL training code.

@@ -42,3 +42,7 @@ save bug, now fixed; they were rerun with identical settings and seeds.)
 - Learning curves (every 25 rounds) are still falling at round 100, so these are not final values either.
 
 Results: `results/c3b_runs*.json` (summary in `c3b_runs.json`), logs `results/log*.txt`.
+
+**Sensitivity (review 2; `sensitivity.py`, not a new test).** Cells vs FedAvg: per-site mean -0.44 (site bootstrap
+[-0.86, -0.06]), fleet-weighted mean -0.70, fleet-cluster bootstrap [-1.70, +0.01]; per fleet FD001 -0.89, FD002 -0.22,
+FD003 -1.78, FD004 +0.07; 54% of sites improve. A practically relevant gain is neither shown nor excluded.

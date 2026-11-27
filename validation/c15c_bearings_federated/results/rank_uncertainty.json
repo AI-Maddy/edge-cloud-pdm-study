@@ -1,0 +1,14 @@
+{
+ "n_rules": 829,
+ "spearman": 0.6308570406924056,
+ "spearman_ci95_bearing_bootstrap": [
+  0.5037275660364567,
+  0.7049304276247743
+ ],
+ "top_decile_claimed": 1.0,
+ "top_decile_achieved": 0.7399603488926222,
+ "top_decile_achieved_ci95": [
+  0.5622145059171486,
+  0.850729804934164
+ ]
+}

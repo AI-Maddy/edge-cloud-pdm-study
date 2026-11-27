@@ -43,3 +43,12 @@ p95 delivery time (s), 35 sites:
 **Limits.** A simulation with trace-driven capacity, not a real TCP stack or a Mahimahi run; ACKs never lost;
 the same trace serves all sites (one shared cell). Results: `results/c7c_results.json`,
 `results/diag_single_site_2000.json`.
+
+**Multi-period and sampling diagnostics (review 2; `diag_multiperiod.py`, not new tests).** Ten consecutive periods in
+one simulation (late uploads compete with the next period's): in 28 of 30 settings the median delivery time in
+periods 9-10 is within 30% of periods 1-2 (exceptions: spread model updates on UMTS 3.8 -> 8.8 s and AT&T 1.9 -> 5.4 s);
+at most 27 uploads in flight at a boundary; none unfinished at 900 s. Deadline misses (> one period): model updates
+25-38% when synchronised on UMTS/EVDO/AT&T, 6-7% spread on 3G, 21% on AT&T; raw <= 8%, features <= 2%. Single-site
+feature p95 on AT&T with 2,000 offsets: 26.7 s (bootstrap CI 14.5-31.8); p95 from 40 offsets ranges 0.3-46.6 s
+(5th-95th percentile of 200 draws). Censored uploads (900 s cap) count as 900 s in all percentiles; none occurred.
+Results: `results/diag_multiperiod.json`.

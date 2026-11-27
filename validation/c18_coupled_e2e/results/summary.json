@@ -1,0 +1,284 @@
+{
+ "methods": {
+  "flat_jit": {
+   "rmse": 16.340511903308684,
+   "curve_25_50_75_100": [
+    19.642,
+    17.651,
+    16.677,
+    16.341
+   ],
+   "miss_rate": 0.02038095238095238,
+   "access_up_GB": 1.177806,
+   "access_down_GB": 1.177806,
+   "wan_GB": 2.355612,
+   "seeds": [
+    0,
+    1,
+    2
+   ],
+   "per_cell_rmse": {
+    "T-Mobile LTE": 16.42,
+    "Verizon LTE": 16.59,
+    "T-Mobile UMTS": 16.95,
+    "Verizon EVDO": 15.91,
+    "AT&T LTE": 15.84
+   }
+  },
+  "hier_jit": {
+   "rmse": 16.29285810561407,
+   "curve_25_50_75_100": [
+    19.581,
+    17.592,
+    16.706,
+    16.293
+   ],
+   "miss_rate": 0.02038095238095238,
+   "access_up_GB": 1.177806,
+   "access_down_GB": 1.177806,
+   "wan_GB": 0.0673032,
+   "seeds": [
+    0,
+    1,
+    2
+   ],
+   "per_cell_rmse": {
+    "T-Mobile LTE": 16.5,
+    "Verizon LTE": 16.44,
+    "T-Mobile UMTS": 16.77,
+    "Verizon EVDO": 15.81,
+    "AT&T LTE": 15.95
+   }
+  },
+  "flat_k5_jit": {
+   "rmse": 16.96286255064465,
+   "curve_25_50_75_100": [
+    19.957,
+    18.016,
+    17.173,
+    16.963
+   ],
+   "miss_rate": 0.015714285714285712,
+   "access_up_GB": 0.2355612,
+   "access_down_GB": 0.2355612,
+   "wan_GB": 0.4711224,
+   "seeds": [
+    0,
+    1,
+    2
+   ],
+   "per_cell_rmse": {
+    "T-Mobile LTE": 16.84,
+    "Verizon LTE": 17.26,
+    "T-Mobile UMTS": 17.08,
+    "Verizon EVDO": 16.81,
+    "AT&T LTE": 16.83
+   }
+  },
+  "flat_sync": {
+   "rmse": 16.37179792495001,
+   "curve_25_50_75_100": [
+    19.635,
+    17.66,
+    16.686,
+    16.372
+   ],
+   "miss_rate": 0.027809523809523812,
+   "access_up_GB": 1.177806,
+   "access_down_GB": 1.177806,
+   "wan_GB": 2.355612,
+   "seeds": [
+    0,
+    1,
+    2
+   ],
+   "per_cell_rmse": {
+    "T-Mobile LTE": 16.47,
+    "Verizon LTE": 16.62,
+    "T-Mobile UMTS": 16.97,
+    "Verizon EVDO": 15.94,
+    "AT&T LTE": 15.85
+   }
+  },
+  "hier_sync": {
+   "rmse": 16.282689730326336,
+   "curve_25_50_75_100": [
+    19.622,
+    17.618,
+    16.787,
+    16.283
+   ],
+   "miss_rate": 0.027809523809523812,
+   "access_up_GB": 1.177806,
+   "access_down_GB": 1.177806,
+   "wan_GB": 0.0673032,
+   "seeds": [
+    0,
+    1,
+    2
+   ],
+   "per_cell_rmse": {
+    "T-Mobile LTE": 16.45,
+    "Verizon LTE": 16.53,
+    "T-Mobile UMTS": 16.78,
+    "Verizon EVDO": 15.79,
+    "AT&T LTE": 15.86
+   }
+  },
+  "flat_k5_sync": {
+   "rmse": 17.09472866966611,
+   "curve_25_50_75_100": [
+    19.953,
+    18.089,
+    17.194,
+    17.095
+   ],
+   "miss_rate": 0.021428571428571425,
+   "access_up_GB": 0.2355612,
+   "access_down_GB": 0.2355612,
+   "wan_GB": 0.4711224,
+   "seeds": [
+    0,
+    1,
+    2
+   ],
+   "per_cell_rmse": {
+    "T-Mobile LTE": 16.82,
+    "Verizon LTE": 17.38,
+    "T-Mobile UMTS": 17.22,
+    "Verizon EVDO": 17.0,
+    "AT&T LTE": 17.05
+   }
+  },
+  "flat_jit_d10": {
+   "rmse": 16.705761273701988,
+   "curve_25_50_75_100": [
+    19.632,
+    17.903,
+    17.023,
+    16.706
+   ],
+   "miss_rate": 0.5381904761904762,
+   "access_up_GB": 1.177806,
+   "access_down_GB": 1.177806,
+   "wan_GB": 2.355612,
+   "seeds": [
+    0,
+    1,
+    2
+   ],
+   "per_cell_rmse": {
+    "T-Mobile LTE": 16.11,
+    "Verizon LTE": 16.85,
+    "T-Mobile UMTS": 17.52,
+    "Verizon EVDO": 16.68,
+    "AT&T LTE": 16.36
+   }
+  },
+  "hier_jit_d10": {
+   "rmse": 16.65801341647194,
+   "curve_25_50_75_100": [
+    20.233,
+    18.099,
+    16.978,
+    16.658
+   ],
+   "miss_rate": 0.5381904761904762,
+   "access_up_GB": 1.177806,
+   "access_down_GB": 1.177806,
+   "wan_GB": 0.0673032,
+   "seeds": [
+    0,
+    1,
+    2
+   ],
+   "per_cell_rmse": {
+    "T-Mobile LTE": 16.51,
+    "Verizon LTE": 17.07,
+    "T-Mobile UMTS": 17.14,
+    "Verizon EVDO": 16.36,
+    "AT&T LTE": 16.21
+   }
+  }
+ },
+ "comparisons": {
+  "hier_jit__vs__flat_jit": {
+   "mean_diff": -0.04765379769461516,
+   "ci95": [
+    -0.19169208799089743,
+    0.10268932024637825
+   ],
+   "p": 0.45101392158539966
+  },
+  "hier_sync__vs__flat_sync": {
+   "mean_diff": -0.08910819462367492,
+   "ci95": [
+    -0.2359977545057027,
+    0.04937348797207731
+   ],
+   "p": 0.3100773994810879
+  },
+  "hier_jit__vs__flat_k5_jit": {
+   "mean_diff": -0.6700044450305759,
+   "ci95": [
+    -0.9681379041217623,
+    -0.3739787662596943
+   ],
+   "p": 0.00016374513506889343
+  },
+  "hier_jit_d10__vs__flat_jit_d10": {
+   "mean_diff": -0.04774785723005012,
+   "ci95": [
+    -0.3482439715521678,
+    0.247475231034415
+   ],
+   "p": 0.7524168539675884
+  },
+  "flat_jit_d10__vs__flat_jit": {
+   "mean_diff": 0.36524937039329874,
+   "ci95": [
+    0.06776169345492385,
+    0.6705972551164171
+   ],
+   "p": 0.05352951702661812
+  }
+ },
+ "verdict": {
+  "T1": true,
+  "T2": false,
+  "T3": true,
+  "T4": true,
+  "T5": true,
+  "T6": false
+ },
+ "per_cell_miss_rate_every_period_upload": {
+  "60s_sync": {
+   "T-Mobile LTE": 0.0,
+   "Verizon LTE": 0.0,
+   "T-Mobile UMTS": 0.03,
+   "Verizon EVDO": 0.041,
+   "AT&T LTE": 0.068
+  },
+  "60s_jit": {
+   "T-Mobile LTE": 0.0,
+   "Verizon LTE": 0.0,
+   "T-Mobile UMTS": 0.025,
+   "Verizon EVDO": 0.02,
+   "AT&T LTE": 0.057
+  },
+  "10s_sync": {
+   "T-Mobile LTE": 0.019,
+   "Verizon LTE": 0.191,
+   "T-Mobile UMTS": 1.0,
+   "Verizon EVDO": 1.0,
+   "AT&T LTE": 1.0
+  },
+  "10s_jit": {
+   "T-Mobile LTE": 0.01,
+   "Verizon LTE": 0.167,
+   "T-Mobile UMTS": 0.816,
+   "Verizon EVDO": 0.854,
+   "AT&T LTE": 0.843
+  }
+ }
+}
