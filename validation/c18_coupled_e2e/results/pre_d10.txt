@@ -1,3 +1,3 @@
-0 10.0 /home/user/research-articles/hierarchical-ai-execution/validation/c18_coupled_e2e/results/d10 {'sync': 0.6471428571428571, 'jit': 0.5434285714285714}
-1 10.0 /home/user/research-articles/hierarchical-ai-execution/validation/c18_coupled_e2e/results/d10 {'sync': 0.634, 'jit': 0.5325714285714286}
-2 10.0 /home/user/research-articles/hierarchical-ai-execution/validation/c18_coupled_e2e/results/d10 {'sync': 0.6445714285714286, 'jit': 0.5385714285714286}
+0 10.0 c18_coupled_e2e/results/d10 {'sync': 0.6471428571428571, 'jit': 0.5434285714285714}
+1 10.0 c18_coupled_e2e/results/d10 {'sync': 0.634, 'jit': 0.5325714285714286}
+2 10.0 c18_coupled_e2e/results/d10 {'sync': 0.6445714285714286, 'jit': 0.5385714285714286}
